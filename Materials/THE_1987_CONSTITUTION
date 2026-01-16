@@ -1,0 +1,136 @@
+[
+    {
+        "id": 1768251883783,
+        "name": "THE 1987 CONSTITUTION",
+        "icon": "gavel",
+        "color": "#5D4037",
+        "topics": [
+            {
+                "id": 1768535112763,
+                "title": "PREAMBLE",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535119607,
+                "title": "ARTICLE I - NATIONAL TERRITORY",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535103607,
+                "title": "ARTICLE II - DECLARATION OF PRINCIPLES AND STATE POLICIES",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535139333,
+                "title": "ARTICLE III - BILL OF RIGHTS",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535151607,
+                "title": "ARTICLE IV - CITIZENSHIP",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535164909,
+                "title": "ARTICLE V - SUFFRAGE",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535171275,
+                "title": "ARTICLE VI - THE LEGISLATIVE DEPARTMENT",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535175959,
+                "title": "ARTICLE VII - EXECUTIVE DEPARTMENT",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535181643,
+                "title": "ARTICLE VIII - JUDICIARY DEPARTMENT",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535191315,
+                "title": "ARTICLE IX - LOCAL GOVERNMENT",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535198381,
+                "title": "ARTICLE XI - ACCOUNTABILITY OF PUBLIC OFFICERS",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535205016,
+                "title": "ARTICLE XII - NATIONAL ECONOMY AND PATRIMONY",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535211882,
+                "title": "ARTICLE XIII - SOCIAL JUSTICE AND HUMAN RIGHTS",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535217607,
+                "title": "ARTICLE XIV - EDUCATION, SCIENCE AND TECHNOLOGY, ARTS, CULTURE AND SPORTS",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535224083,
+                "title": "ARTICLE XV - THE FAMILY",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535229343,
+                "title": "ARTICLE XVI - GENERAL PROVISIONS",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535234961,
+                "title": "ARTICLE XVII - AMENDMENTS OR REVISIONS",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            },
+            {
+                "id": 1768535240786,
+                "title": "ARTICLE XVIII - TRANSITORY PROVISIONS",
+                "isTrackable": true,
+                "done": false,
+                "subtopics": []
+            }
+        ]
+    }
+]
