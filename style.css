@@ -1,0 +1,1610 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Bebas+Neue&family=Cormorant+Garamond:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Bebas+Neue&family=Cormorant+Garamond:ital,wght@1,600&family=Dancing+Script:wght@400..700&family=Pacifico&family=Alex+Brush&family=Patrick+Hand&display=swap');
+
+:root {
+    /* Brand Colors */
+    --theme-primary: #330066;    /* Deep Purple */
+    --theme-secondary: #B266FF;  /* Light Purple / Accent */
+    
+    /* Surface Colors (For Cards/Backgrounds) */
+    --theme-bg-main: #F3F4F6;    /* Light Gray page background */
+    --theme-bg-card: #FFFFFF;    /* White card background */
+    --theme-border: #D1D5DB;     /* Standard border gray */
+    
+    /* Text Colors */
+    --theme-text-main: #1F2937;  /* Dark gray text */
+    --theme-text-on-primary: #FFFFFF; /* White text for buttons/headers */
+
+    /* Legend/Status Colors (The ones you noticed!) */
+    --status-done: #10B981;      /* Green for Finished */
+    --status-toread: #EF4444;    /* Red for Pending */
+    
+    /* Legacy Sync (Keep these to prevent calendar/case tracker bugs) */
+    --color-primary-dark: var(--theme-primary);
+    --color-secondary-gold: var(--theme-secondary);
+    --color-light-bg: var(--theme-bg-main);
+    --maroon: var(--theme-primary);
+    --gold: var(--theme-secondary);
+}
+
+
+        /* Calendar Stylesheet START */
+        /* Minified/Consolidated Styles */
+        .calendar-wrapper{max-width:1280px;margin:0 auto;padding:0 1rem;margin-top:0;padding-bottom:1.9rem;overflow-x:hidden}.calendar-wrapper.mx-auto{max-width:1280px;padding:0}.calendar-wrapper.p-0{padding:0}#calendar-grid-container{display:grid;grid-template-columns:3fr 1fr;gap:1.5rem;align-items:start;padding:.25rem .5rem .5rem .5rem}#calendar-details{border-radius:.75rem;overflow:hidden}#calendar-details summary{background-color:var(--color-primary-dark);color:#fff;border-bottom:3px solid var(--color-secondary-gold);padding:.75rem 1.5rem;font-size:1.125rem;font-weight:700}.toggle-indicator{transition:transform .2s}#notepad-sidebar{background-color:#fff;border-radius:.75rem;box-shadow:0 4px 12px rgba(0,0,0,.1);padding:1.5rem;display:flex;flex-direction:column;border:1px solid #e5e7eb;grid-column:2}#calendar-details[data-calendar-ready=true] #notepad-sidebar{min-height:var(--calendar-height,450px)}#notepad-sidebar h3{background-color:var(--color-primary-dark);color:#fff;border-radius:.375rem .375rem 0 0;padding:.4rem .75rem;margin:calc(-1.5rem - 1px) -1.5rem .75rem -1.5rem;text-transform:uppercase;font-weight:800;font-size:.9rem;border-bottom:3px solid var(--color-secondary-gold)}#review-notes{width:100%;flex-grow:1;padding:1.5rem 1rem 1rem 1rem;font-size:.95rem;border:none;border-radius:.5rem;box-shadow:inset 0 1px 4px rgba(0,0,0,.1);resize:none;font-family:'Dancing Script',cursive;font-weight:600;line-height:1.95;color:#333;overflow-y:auto;background-color:#f7f7f7;background-image: url('https://raw.githubusercontent.com/ariiannemay/2026-Bar-Assets/main//Images/blank-cream-notepaper.jpg');background-size:cover;background-position:center;background-repeat:no-repeat}#review-notes::placeholder{font-family:'Dancing Script',cursive;font-weight:700;color:#b33a3a;opacity:.8;transform:translateY(-5px);display:block}#calendar-content{grid-column:1;padding:0}#calendar-card{background-color:#fff;border-radius:.75rem;box-shadow:0 4px 12px rgba(0,0,0,.1);padding:0}.fc-toolbar{padding:.1rem .75rem;background-color:var(--color-primary-dark);margin-bottom:0;border:0 solid var(--color-secondary-gold);color:#fff;border-radius:.5rem;display:flex;align-items:center;font-size:.85rem}#customMonthTitle{color:#fff;font-weight:800;text-transform:uppercase;font-size:1.4em;padding:.3em .6em;margin-right:.5rem;font-family:inherit}
+
+.fc-widget-header{background-color:var(--color-primary-dark) !important;color:#fff !important;text-transform:uppercase !important;font-weight:700 !important;padding: 0 !important;height:100%}
+
+.fc-view-container .fc-view>table{border-top:none !important}.fc-toolbar + div{border-top:none !important}.fc-head{border-top:none !important;border-bottom:3px solid var(--color-secondary-gold) !important}#calendar{padding:0 !important}.fc-view-container{border-top:none !important}.fc-unthemed,.fc-unthemed table{border-top:none !important;border-color:transparent !important}.fc-unthemed td,.fc-unthemed th{border-color:#e5e7eb}#dateJump{display:none !important;visibility:hidden !important;position:absolute;top:0;left:0}#dateJump.temp-visible{display:block !important;visibility:visible !important;position:fixed !important;z-index:9999;width:200px;height:40px;opacity:.01;pointer-events:auto}
+.fc-toolbar .fc-right{flex-grow:1;display:flex;justify-content:flex-end;margin:0 !important;width:auto !important}.fc-toolbar .fc-button-group:last-child{margin-left:.5rem}
+.fc-toolbar .fc-button,#jumpToDateButton{padding:.3em .6em !important;line-height:1.2 !important;font-size:.75rem !important;background-color:#fff !important;color:var(--color-primary-dark) !important;border-color:var(--color-primary-dark) !important;box-shadow:none;text-transform:uppercase;font-weight:700;border-radius:.25rem;margin-left:.5rem}#jumpToDateButton{background-color:var(--color-secondary-gold) !important;color:var(--color-primary-dark) !important;border-color:var(--color-primary-dark) !important}
+.fc-toolbar .fc-button:hover:not(.fc-state-active),#jumpToDateButton:hover{background-color:#f0f0f0 !important;color:var(--color-primary-dark) !important}#jumpToDateButton:hover{filter:brightness(.9)}.fc-toolbar .fc-state-active,.fc-toolbar .fc-state-active:hover{background-color:var(--color-secondary-gold) !important;color:var(--color-primary-dark) !important;border-color:var(--color-primary-dark) !important}.fc-toolbar .fc-today-button.fc-state-active{background-color:var(--color-secondary-gold) !important;color:var(--color-primary-dark) !important}
+.fc-day-number{display:inline-block;background-color:transparent;color:#4b5563;font-weight:700;padding:2px 4px;margin-right:0;float:right;line-height:1.2;font-size:.9rem}
+.fc-other-month .fc-day-number{color:#9ca3af;background-color:transparent}
+.fc-event{border-radius:.25rem !important;border:1px solid rgba(0,0,0,.1);font-size:.6rem;font-weight:600;padding:2px 5px;white-space:normal;text-transform:uppercase}
+.fc-event-title-wrap{display:flex;align-items:center}
+.event-status-icon{font-size:.8rem;margin-right:.5rem;width:1.25rem;text-align:center}.event-icon-book{color:#fff}
+.modal { z-index: 1000; background-color: rgba(0,0,0,.75); display: none; }
+.modal-content{background-color:#fff !important;padding:1.5rem;border-radius:.75rem;box-shadow:0 25px 50px -12px rgba(0, 0, 0, 0.5);min-width:300px;width:90%;max-width:500px}
+.syllabus-select-wrapper select{min-height:200px}
+        /* Calendar Stylesheet END */
+
+/* --- CALENDAR MODAL ENHANCEMENTS --- */
+#calendar-icon-picker, #calendar-color-picker {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(32px, 1fr));
+    gap: 4px;
+    padding: 8px;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    background: #f9fafb;
+}
+
+.calendar-picker-btn {
+    aspect-ratio: 1/1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    transition: all 0.2s;
+}
+
+.calendar-picker-btn.active {
+    ring: 2px solid var(--theme-primary);
+    transform: scale(1.1);
+    background: white;
+}
+
+#calendar-color-picker {
+    max-height: none !important; /* Removes scrollbar for colors */
+    padding-bottom: 10px;
+}
+        /* -------------------------------------------------------------------------- */
+        /* 1. CORE LAYOUT & TYPOGRAPHY STYLES */
+        /* -------------------------------------------------------------------------- */
+        
+        /* Global & Countdown Styles */
+        body {
+            font-family: 'Inter', sans-serif;
+            display: flex; 
+            flex-direction: column;
+        }
+        .main-content-wrapper { flex-grow: 1; }
+        .header-font { font-family: 'Bebas Neue', sans-serif; letter-spacing: .1em; }
+        .header-bg { background-color: var(--theme-primary); border-bottom: 5px solid var(--theme-secondary); }
+        .card-header-bg { background-color: var(--theme-primary); }
+        .time-value { font-size: 1.5rem; font-weight: 900; line-height: 1; color: #1a202c; }
+        .time-label { font-size: .5rem; font-weight: 700; color: #4a5568; text-transform: uppercase; }
+        .date-display-wrapper { display: inline-block; padding-bottom: 0; cursor: pointer; transition: color .2s; }
+        .date-display-wrapper:hover .date-text { color: #1d4ed8; }
+        .date-text { font-family: 'Bebas Neue', sans-serif; font-size: 1.75rem; font-weight: 800; color: #000000; text-transform: uppercase; letter-spacing: .15em; line-height: 1; }
+        .today-date-text { font-size: 0.9rem; white-space: nowrap; font-weight: 700; line-height: 1; }
+        .dashboard-footer-text { font-size: 0.65rem; margin-top: 0.5rem; }
+        .text-miss { color: #000000; }
+        .text-atty { color: #674ea7; }
+        .text-cpa { color: #f472b6; }
+        .global-app-footer { text-align: center; padding: 0.25rem 0; margin-top: 0; }
+        .global-app-footer .quote, .global-app-footer .signature .date-text-signature { font-family: 'Cormorant Garamond', 'Times New Roman', serif; font-style: italic; font-weight: 600; font-size: 1rem; color: #4a5568; }
+        .global-app-footer .signature { font-family: 'Inter', sans-serif; font-style: italic; font-weight: 600; font-size: 0.75rem; color: #4a5568; }
+
+
+        /* -------------------------------------------------------------------------- */
+        /* 2. DASHBOARD & SCHEDULE STYLES (Existing) */
+        /* -------------------------------------------------------------------------- */
+
+        .border-custom-yellow { border-color: var(--theme-secondary); }
+        .text-custom-yellow { color: var(--theme-secondary); }
+        .bg-chart-done { background-color: #38761d; }
+        .text-chart-done { color: #38761d; }
+        .bg-chart-toread { background-color: #ef4444; }
+        .text-chart-toread { color: #ef4444; }
+        .text-chart-title { color: var(--theme-primary); font-size: 1.5rem; margin-top: 0.5rem; margin-bottom: 0.5rem; }
+        
+        #overall-dashboard { background-color: transparent; box-shadow: none; border: none; padding: 0; }
+        .dashboard-container { display: flex; flex-wrap: wrap; padding: 0; }
+
+.chart-panel { 
+    width: 100%; 
+    padding: 0 0.3rem; 
+    border-bottom: 1px solid #e5e7eb; 
+    background-color: #fff; 
+    border-radius: 0.75rem; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); 
+}
+
+        .schedule-panel { width: 100%; padding: 0.5rem 0.3rem; background-color: #fff; border-radius: 0.75rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); }
+        
+        @media (min-width: 1024px) {
+            #overall-dashboard { padding: 0; }
+            .dashboard-container { display: grid; grid-template-columns: 1fr 1.5rem 1fr 1.5rem 1fr; padding: 0; }
+            .chart-panel { grid-column: 1 / span 1; padding: 0.5rem 1rem; border-bottom: none; }
+            .schedule-panel { grid-column: 3 / span 3; padding: 0.5rem 1rem; border-left: none; }
+            .dashboard-container > div:nth-child(2) { grid-column: 2 / span 1; border-right: none; }
+            .chart-panel .flex-col, .chart-panel .text-center { align-items: center; text-align: center; justify-content: center; }
+        }
+
+        .pie-chart-wrapper { position: relative; display: flex; align-items: center; justify-content: center; margin: 0.5rem auto 0.1rem; width: 100%; }
+        .metric-pie-side { position: absolute; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.7rem; text-align: center; line-height: 1.2; }
+        .metric-pie-side.left { right: 50%; margin-right: 105px; transform: translateY(-50%); top: 50%; }
+        .metric-pie-side.right { left: 50%; margin-left: 105px; transform: translateY(-50%); top: 50%; }
+        .metric-pie-side .metric-value { font-size: 1rem; font-weight: 900; }
+        
+        .schedule-table { width: 100%; border-collapse: collapse; font-size: 0.8rem; border: 2px solid #e5e7eb; border-radius: 0.5rem; overflow: hidden; }
+        .schedule-table th, .schedule-table td { padding: 0.1rem 0.3rem; vertical-align: middle; }
+        .schedule-header th { background-color: var(--theme-primary); color: #FFFFFF; font-weight: 700; text-transform: uppercase; border: 2px solid var(--theme-secondary); font-size: 0.75rem; }
+        .subject-cell { font-weight: 600; color: white; padding: 0.4rem; text-align: center; border-radius: 0.5rem; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); font-size: 0.7rem; text-transform: uppercase; }
+        .progress-bar-sparkline { width: 100%; height: 0.8rem; background-color: #e5e7eb; border-radius: 9999px; overflow: hidden; box-shadow: inset 0 1px 3px 0 rgba(0, 0, 0, 0.1); padding: 2px; }
+        .bg-progress-red { background-color: #ef4444; }
+        .bg-progress-orange { background-color: #f97316; }
+        .bg-progress-yellow { background-color: #facc15; }
+        .bg-progress-green { background-color: #10b981; }
+
+        .sparkline-fill { height: 100%; transition: width 0.5s ease-in-out; border-radius: 9999px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); border: 2px solid white; max-width: 100%; }
+
+        .bg-poli { background-color: #795548; }
+        .bg-comm { background-color: #eab308; }
+        .bg-civ { background-color: #1e3a8a; }
+        .bg-lab { background-color: #38761d; }
+        .bg-crim { background-color: #b33a3a; }
+        .bg-rem { background-color: #674ea7; }
+        
+        /* -------------------------------------------------------------------------- */
+        /* 3. SUBJECT TRACKER STYLES (Checklist Fix Applied) */
+        /* -------------------------------------------------------------------------- */
+
+        .syllabus-panel-container { border-radius: .75rem; overflow: hidden; }
+        .syllabus-summary { padding: 1rem; font-size: 1.25rem; font-weight: 700; color: white; cursor: pointer; list-style: none; display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between; gap: .5rem; border-top-left-radius: .75rem; border-top-right-radius: .75rem; }
+        .topic-header { padding: .75rem; font-weight: 600; color: #1f2937; display: flex; align-items: center; justify-content: space-between; cursor: pointer; list-style: none; }
+        
+        /* 🚨 MODIFIED: Increased width for 6 columns (1.5fr for topic text, 6x 100px for material, 1x 50px for final checkmark) */
+        .checklist-grid { 
+            display: grid; 
+            grid-template-columns: 1.5fr repeat(6, 100px) minmax(40px, 50px); 
+            gap: .2rem; 
+            padding: .3rem 0; 
+            align-items: center; 
+            border-bottom: 1px dashed #e5e7eb; 
+        }
+        
+        /* CRITICAL CHECKBOX STYLING OVERRIDE */
+        .checklist-grid input[type="checkbox"] {
+            -webkit-appearance: none; -moz-appearance: none; appearance: none;
+            width: 1rem; height: 1rem; border: 1px solid #d1d5db; border-radius: 0.25rem;
+            cursor: pointer; transition: background-color 0.2s, border-color 0.2s;
+            background-color: #ffffff; align-self: center; position: relative;
+        }
+
+        .checklist-grid input[type="checkbox"]:checked { border-color: transparent !important; }
+
+/* NEW: Column-specific colors for CHECKED state */
+        .checkbox-codal:checked { background-color: #8b5cf6 !important; } /* Violet/Rem */
+        /* NEW COLUMNS */
+        .checkbox-first_reading:checked { background-color: #eab308 !important; } /* Yellow/Comm */
+        .checkbox-second_reading:checked { background-color: #3b82f6 !important; } /* Blue/Civ */
+        .checkbox-pre_bar_notes:checked { background-color: #10b981 !important; } /* Green */
+        .checkbox-pre_week:checked { background-color: #f97316 !important; } /* Orange */
+        .checkbox-lmts:checked { background-color: #ef4444 !important; } /* Red */
+
+        .checklist-grid input[type="checkbox"]:checked::before {
+        content: ''; position: absolute; width: 0.25rem; height: 0.5rem;
+        border: solid white; border-width: 0 2px 2px 0; top: 50%; left: 50%;
+        transform: translate(-50%, -55%) rotate(45deg);
+        }
+        
+        .checklist-grid>div:first-child { 
+            padding-left: 0.125rem; 
+            font-size: .875rem; 
+            color: #374151; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: flex-start; 
+            justify-content: center; 
+            /* SAFARI FIX */
+            min-width: 0;
+            overflow: hidden;
+            /* END SAFARI FIX */
+        }
+        .font-trackable-lg { font-size: 1.5rem; font-weight: 600; }
+        .progress-percent-bold { font-weight: 700; font-size: .8rem; }
+        .syllabus-summary-title-row { display: flex; align-items: center; justify-content: space-between; width: 100%; }
+        .syllabus-progress-metrics { display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; width: 100%; font-size: .75rem; }
+        .progress-stats { display: flex; gap: .5rem; white-space: nowrap; }
+        .progress-overall-text { white-space: nowrap; font-weight: 700; margin-right: .5rem; }
+        .progress-bar-container { height: .75rem; background: #e5e7eb; border-radius: 9999px; overflow: hidden; width: 100%; flex-grow: 1; max-width: none; }
+        .progress-bar { height: 100%; transition: width .5s ease-in-out; }
+        .main-summary-chevron { transition: transform .2s; }
+        .syllabus-panel[open]>.syllabus-summary .main-summary-chevron { transform: rotate(90deg); }
+        .syllabus-summary::-webkit-details-marker, .topic-header::-webkit-details-marker { display: none; }
+        .syllabus-content { padding: .5rem 1rem 1rem 1rem; background: white; border: 1px solid #e5e7eb; border-top: none; border-bottom-left-radius: .75rem; border-bottom-right-radius: .75rem; }
+        .syllabus-sub-section { border-bottom: 1px solid #e5e7eb; margin-bottom: .5rem; }
+        .chevron-icon { transition: transform .2s; display: inline-block; margin-right: .5rem; }
+        .syllabus-sub-section[open]>details>.topic-header .chevron-icon { transform: rotate(90deg); }
+        .depth2-details { list-style: none; margin-bottom: .25rem; border: 1px solid #f3f4f6; border-radius: .375rem; overflow: hidden; background-color: #fafafa; }
+        .depth2-details>summary { list-style: none; cursor: pointer; padding: 0; background-color: #ffffff; }
+        .depth2-details>summary::-webkit-details-marker { display: none; }
+        .depth2-chevron { transition: transform .2s; transform: rotate(0deg); flex-shrink: 0; margin-right: .5rem; }
+        .depth2-details[open] .depth2-chevron { transform: rotate(90deg); }
+        .topic-content-wrapper { display: flex; align-items: flex-start; padding-left: .5rem; }
+        /* 🚨 MODIFIED: Matched grid template to 6 columns */
+        .checklist-grid.checklist-grid-header>div:first-child { grid-column: 1 / span 1; padding-left: 0; align-items: center; text-align: center; }
+        .checklist-grid.checklist-grid-header { grid-template-columns: 1.5fr repeat(6, 100px) minmax(40px, 50px); }
+
+.checklist-grid-micro-progress { border-bottom: 1px solid #e5e7eb; }
+
+        /* Reduced padding for thinner rows */
+        .depth3-content-wrapper .checklist-grid { padding: 0.1rem 0; min-height: 20px; }
+        .depth3-content-wrapper .checklist-grid > div:first-child { padding-top: 0; padding-bottom: 0; }
+
+        /* 🚨 MODIFIED: Border on 6 columns (n+2 through n+7) */
+        .checklist-grid>div:nth-child(n+2):nth-child(-n+7) { border-right: 1px dashed #d1d5db; }
+        /* 🚨 MODIFIED: Remove border on the 7th cell (6th material column) */
+        .checklist-grid>div:nth-child(7) { border-right: none; }
+        .checklist-label-capsule { font-size: .65rem; font-weight: 7-00; text-transform: uppercase; text-align: center; word-break: keep-all; padding: .15rem .35rem; border-radius: 9999px; line-height: 1; color: white; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .05); }
+        .col-progress-bar-container { height: .4rem; background: #e5e7eb; border-radius: 9999px; overflow: hidden; width: 100%; }
+        .col-progress-bar { height: 100%; transition: width .3s ease-in-out; }
+        .status-message-row { padding-top: .25rem; padding-bottom: .25rem; }
+        
+        .depth2-topic-row { grid-column: 1 / span 1; display: flex; align-items: flex-start; }
+        
+        /* SUBJECT PANEL THEMES */
+        .syllabus-panel-rem .syllabus-summary { background-color: #674ea7; border-left: 5px solid #8e7cc3; }
+        .syllabus-panel-rem .topic-header { background-color: #ede9fe; border-left: 3px solid #8b5cf6; }
+        .syllabus-checkbox-rem { accent-color: #8b5cf6; }
+
+        .syllabus-panel-crim .syllabus-summary { background-color: #b33a3a; border-left: 5px solid #d94a4a; }
+        .syllabus-panel-crim .topic-header { background-color: #fee2e2; border-left: 3px solid #ef4444; }
+        .syllabus-checkbox-crim { accent-color: #ef4444; }
+
+        .syllabus-panel-lab { --lab-color: #38761d; --lab-color-dark: #274e13; }
+        .syllabus-panel-lab .syllabus-summary { background-color: var(--lab-color); border-left: 5px solid #6aa84f; }
+        .syllabus-panel-lab .topic-header { background-color: #f6fff6; border-left: 3px solid var(--lab-color); }
+        .syllabus-checkbox-lab { accent-color: var(--lab-color); }
+        .bg-lab-button { background-color: var(--lab-color); }
+        .hover\:bg-lab-button-dark:hover { background-color: var(--lab-color-dark); }
+
+        .syllabus-panel-civ { --civ-color: #1e3a8a; --civ-color-dark: #142a63; }
+        .syllabus-panel-civ .syllabus-summary { background-color: var(--civ-color); border-left: 5px solid #3b82f6; }
+        .syllabus-panel-civ .topic-header { background-color: #eff6ff; border-left: 3px solid var(--civ-color); }
+        .syllabus-checkbox-civ { accent-color: #2563eb; }
+        .bg-civ-button { background-color: #2563eb; }
+        .hover\:bg-civ-button-dark:hover { background-color: #1d4ed8; }
+
+        .syllabus-panel-comm { --comm-color: #eab308; --comm-color-dark: #b88f06; --comm-color-light: #fefce8; --comm-checkbox-color: #eab308; }
+        .syllabus-panel-comm .syllabus-summary { background-color: var(--comm-color); border-left: 5px solid #facc15; color: #000000 !important; }
+        .syllabus-panel-comm .syllabus-summary i {
+            color: #000000 !important; }
+        .syllabus-panel-comm .syllabus-summary-title-row .flex:first-child, .syllabus-panel-comm .syllabus-progress-metrics span, .syllabus-panel-comm .syllabus-progress-metrics i { color: #000000 !important; }
+        .syllabus-panel-comm .topic-header { background-color: var(--comm-color-light); border-left: 3px solid var(--comm-color); }
+        .syllabus-checkbox-comm { accent-color: var(--comm-checkbox-color); }
+        .bg-comm-button { background-color: var(--comm-color); }
+        .hover\:bg-comm-button-dark:hover { background-color: var(--comm-color-dark); }
+        
+        .syllabus-panel-comm .syllabus-progress-metrics .text-gray-200 {
+            color: #000000 !important;}
+        
+        .syllabus-panel-poli { --poli-color: #795548; --poli-color-dark: #553b32; --poli-color-light: #efe9e0; }
+        .syllabus-panel-poli .syllabus-summary { background-color: var(--poli-color); border-left: 5px solid #a1887f; }
+        .syllabus-panel-poli .topic-header { background-color: var(--poli-color-light); border-left: 3px solid var(--poli-color); }
+        .syllabus-checkbox-poli { accent-color: var(--poli-color); }
+        .bg-poli-button { background-color: var(--poli-color); }
+        .hover\:bg-poli-button-dark:hover { background-color: var(--poli-color-dark); }
+        /* END SUBJECT PANEL THEMES */
+
+        /* -------------------------------------------------------------------------- */
+        /* MERGED: Case Tracker Styles (Integrated from case_tracker.html) */
+        /* -------------------------------------------------------------------------- */
+
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Bebas+Neue&family=Dancing+Script:wght@600&display=swap');
+        
+        body { background-color: var(--bg-light); font-family: 'Inter', sans-serif; }
+        .header-font { font-family: 'Bebas Neue', sans-serif; letter-spacing: 0.05em; }
+        
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #c7c7c7; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #a0a0a0; }
+
+        /* Checkbox Styling */
+        .custom-checkbox {
+            appearance: none; background-color: #fff; margin: 0;
+            font: inherit; color: currentColor; width: 1.15em; height: 1.15em;
+            border: 2px solid #cbd5e1; border-radius: 0.25em; display: grid; place-content: center;
+            cursor: pointer; transition: all 0.2s;
+        }
+        .custom-checkbox::before {
+            content: ""; width: 0.65em; height: 0.65em; transform: scale(0);
+            transition: 120ms transform ease-in-out; box-shadow: inset 1em 1em white;
+            transform-origin: center; clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+        }
+
+/* Start Edit at Line 538 */
+.custom-checkbox:checked { 
+    background-color: var(--theme-primary); 
+    border-color: var(--theme-primary); 
+    display: grid;
+    place-content: center;
+}
+
+.custom-checkbox:checked::before { 
+    content: "";
+    width: 0.65em;
+    height: 0.65em;
+    transform: scale(1); /* Changed from scale(0) to 1 */
+    transition: 120ms transform ease-in-out;
+    box-shadow: inset 1em 1em white; /* This creates the white check */
+    transform-origin: center;
+    clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+}
+/* End Edit at Line 543 */
+
+.modal-label {
+    display: inline-block;
+    border-bottom: 2px solid #000;
+    padding-bottom: 2px;
+    margin-bottom: 8px;
+}
+
+.animated-hourglass-svg {
+    animation: flip 3s infinite linear; /* Flip every 3 seconds */
+    transform-origin: center;
+}
+
+@keyframes flip {
+    0% { transform: rotate(0deg); }
+    45% { transform: rotate(0deg); }
+    50% { transform: rotate(180deg); }
+    95% { transform: rotate(180deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Flowing sand effect */
+.sand {
+    animation: flow 8s infinite linear;
+}
+
+@keyframes flow {
+    0% { opacity: 1; }
+    45% { opacity: 1; }
+    50% { opacity: 0; } /* Sand "disappears" during flip */
+    95% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* When flipped, reverse the look */
+.animated-hourglass-svg:hover { /* Optional: pause on hover */
+    animation-play-state: paused;
+}
+
+/* After your #review-notes:focus style */
+#review-notes:focus {
+    outline: none;
+    border-right: 2px solid var(--color-secondary-gold);
+}
+
+@keyframes pulse-purple {
+    0% { transform: scale(1); color: var(--theme-primary); } 
+    50% { transform: scale(1.1); color: var(--theme-secondary); text-shadow: 0 0 8px rgba(178, 102, 255, 0.4); } 
+    100% { transform: scale(1); color: var(--theme-primary); } 
+}
+
+
+.save-pulse {
+    display: inline-block; 
+    animation: pulse-purple 0.8s ease-in-out;
+}
+
+
+/* --- TAB NAVIGATION STYLES --- */
+.sticky-top-pane {
+    position: relative;
+    top: 0;
+    background-color: #f3f4f6;
+    padding-top: 2px; /* Minimal space at very top */
+}
+
+/* --- START PINPOINTED FIX: DASHED TAB DIVIDERS & THEMED HOVER --- */
+.tab-btn {
+    transition: all 0.2s;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 0.05em;
+    font-size: 0.8rem;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    border: none !important;
+    position: relative; /* Required for the absolute line positioning */
+}
+
+.tab-btn::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 20%;      /* Starts 20% from the top */
+    bottom: 20%;   /* Ends 20% from the bottom */
+    width: 1px;
+    border-right: 1px dashed var(--theme-primary);
+    opacity: 0.5;  /* Makes it look more professional/subtle */
+}
+
+/* Removes the extra line from the very last tab (Links) */
+.tab-btn:last-child {
+    border-right: none !important;
+}
+
+/* Remove line from the last tab */
+.tab-btn:last-child::after {
+    display: none;
+}
+
+/* Hide line when a tab is active or hovered for a cleaner look */
+.tab-btn.active::after,
+.tab-btn:hover::after {
+    opacity: 0;
+}
+
+.tab-btn:hover:not(.active) {
+    /* Adjusted from Maroon to a Soft Purple Tint to match your #AweSAMBar theme */
+    background-color: rgba(51, 0, 102, 0.05); 
+    color: var(--theme-primary) !important;
+    transform: translateY(-1px);
+}
+
+.tab-btn.active {
+    color: white !important;
+    background-color: var(--theme-primary) !important;
+    border-bottom: 2px solid var(--theme-secondary) !important;
+    /* Hides the dashed line when the tab is purple/active so it stays clean */
+    border-right-color: transparent !important;
+}
+
+.tab-content {
+    display: none;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Ensure body doesn't jump when header sticks */
+body { scroll-behavior: smooth; }
+
+/* --- ADVANCED ANALYTICS & HEATMAP STYLES --- */
+#analytics-chart-container { 
+    min-height: 200px; 
+    display: flex;
+    align-items: flex-end; 
+    width: 100%; /* Ensure it takes full container width */
+}
+
+/* Ensures the monthly grid uses 100% of the available panel width */
+#analytics-chart-container.grid {
+    display: grid !important;
+    grid-template-columns: repeat(7, 1fr) !important;
+    width: 100% !important;
+    gap: 8px !important;
+}
+
+.heatmap-cell {
+    width: 100% !important;
+    aspect-ratio: 1 / 1 !important;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    border: 1px solid rgba(0,0,0,0.05);
+    display: flex !important;
+    flex-direction: column !important; 
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 1px !important;
+}
+
+.heatmap-cell i, .heatmap-cell svg {
+    width: 12px !important;
+    height: 12px !important;
+}
+
+.heatmap-cell:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.1);
+    z-index: 10;
+    box-shadow: 0 4px 12px rgba(51, 0, 102, 0.2);
+}
+
+.bg-purple-50 {
+    background-color: #f5f3ff !important;
+    color: #c4b5fd !important; 
+}
+/* Light Grey for Future Days */
+.bg-gray-50 {
+    background-color: #f9fafb !important;
+    color: #d1d5db !important; /* Muted grey for the number/icon */
+}
+
+/* Date number inside the box */
+.heatmap-date {
+    font-size: 11px;
+    font-weight: 800;
+    pointer-events: none;
+}
+
+/* Start Edit: Around Line 623 */
+/* Professional Floating Tooltip */
+#chart-tooltip {
+    position: fixed;
+    pointer-events: none;
+    background: #1a1a1a;
+    color: white;
+    padding: 10px 14px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    white-space: nowrap;
+    /* Increase Z-INDEX to ensure it stays above all modals and panels */
+    z-index: 999999 !important; 
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+    
+    /* Force visibility and opacity to be controlled by JS */
+    visibility: hidden; 
+    opacity: 0;
+    
+    border-bottom: 3px solid var(--theme-secondary);
+    transition: opacity 0.15s ease-in-out;
+}
+/* End Edit */
+
+#chart-tooltip::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 5px 5px 0;
+    border-style: solid;
+    border-color: #1a1a1a transparent transparent;
+}
+/* End Edit */
+
+/* --- ANALYTICS LAYOUT & 3-MONTH VIEW --- */
+.analytics-grid-layout {
+    display: grid !important;
+    grid-template-columns: 1fr !important; /* Mobile fallback */
+    gap: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+    .analytics-grid-layout {
+        grid-template-columns: 240px 1fr !important; /* Fixed thin left panel */
+    }
+}
+
+.three-month-container {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important; 
+    gap: 1.5rem !important;
+    width: 100% !important;
+    align-items: start !important;
+}
+
+/* Force the internal grid to always have exactly 6 rows and 7 columns */
+.three-month-container .grid {
+    display: grid !important;
+    grid-template-columns: repeat(7, 1fr) !important;
+    grid-template-rows: repeat(6, 1fr) !important; /* Forces 6 rows even if empty */
+    width: 100% !important;
+    aspect-ratio: 7 / 6 !important; /* Maintains the same box shape for every month */
+    gap: 6px !important;
+}
+
+/* START EDITING HERE: Hide manual resize and set base transition */
+/* Remove manual resize corner and hide scrollbars for a clean notepad look */
+#digestModal textarea {
+    resize: none;
+    overflow-y: hidden;
+    min-height: 40px;
+    transition: height 0.1s ease;
+}
+
+/* Start of Width Fix */
+#tab-calendar .calendar-wrapper, 
+#tab-calendar .calendar-wrapper.mx-auto {
+    max-width: 100% !important;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+#calendar-grid-container {
+    grid-template-columns: 1fr !important; /* Forces vertical stack on mobile if needed, but we want the grid wide */
+}
+
+@media (min-width: 1024px) {
+    #calendar-grid-container {
+        grid-template-columns: 3.5fr 1fr !important; /* Gives the calendar even more room */
+    }
+}
+/* End of Width Fix */ 
+
+#notes-subject-tabs {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); /* Force full width expansion */
+gap: 0.5rem;
+width: 100%;
+}
+#notes-subject-tabs .notes-sub-tab {
+    padding: 8px 6px !important;
+    min-height: unset;
+    border-radius: 10px;
+}
+
+/* --- SUBJECT SPECIFIC TABS --- */
+.notes-sub-tab[data-sub="poli"].active { background-color: #795548 !important; border-color: #795548 !important; }
+.notes-sub-tab[data-sub="civ"].active { background-color: #1e3a8a !important; border-color: #3b82f6 !important; }
+.notes-sub-tab[data-sub="rem"].active { background-color: #674ea7 !important; border-color: #8b5cf6 !important; }
+.notes-sub-tab[data-sub="lab"].active { background-color: #38761d !important; border-color: #38761d !important; }
+.notes-sub-tab[data-sub="tax"].active { background-color: #eab308 !important; border-color: #eab308 !important; }
+.notes-sub-tab[data-sub="crim"].active { background-color: #b33a3a !important; border-color: #ef4444 !important; }
+
+/* Master Progress Bar Styling */
+#notes-master-progress-wrapper {
+background: #e5e7eb;
+border-radius: 999px;
+height: 8px;
+overflow: hidden;
+margin-bottom: 2rem;
+border: 1px solid #d1d5db;
+}
+#notes-master-progress-fill {
+height: 100%;
+background: linear-gradient(90deg, #330066, #B266FF);
+width: 0%;
+transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.notes-sub-tab {
+width: 100%;
+font-size: 0.75rem;
+font-weight: 800;
+text-transform: uppercase;
+padding: 10px 4px;
+border-radius: 8px;
+transition: all 0.2s;
+border: 1px solid #e5e7eb;
+background: white;
+color: #4b5563;
+text-align: center;
+}
+
+/* Match the color coding of your #AweSAMBar2026 brand */
+.notes-sub-tab.active {
+background: var(--color-primary-dark); /* #330066 */
+color: white;
+border-color: var(--color-secondary-gold); /* #B266FF */
+box-shadow: 0 4px 6px -1px rgba(178, 102, 255, 0.2);
+}
+
+.notes-sub-tab:hover:not(.active) {
+background: #f3e8ff;
+border-color: #d8b4fe;
+}
+
+.auto-expand {
+font-family: 'Inter', sans-serif; /* Back to clean default */
+font-size: 0.95rem;
+line-height: 1.6;
+padding: 1rem;
+width: 100%;
+min-height: 120px;
+background-color: #ffffff; /* Clean white */
+border: 1px solid #e5e7eb;
+border-radius: 8px;
+resize: none;
+overflow: hidden;
+display: block;
+color: #374151;
+}
+
+/* UI for the Export Button */
+.export-btn {
+padding: 6px 12px;
+border-radius: 6px;
+font-size: 10px;
+font-weight: 800;
+text-transform: uppercase;
+display: flex;
+align-items: center;
+gap: 6px;
+transition: all 0.2s;
+background: #f3f4f6;
+color: #4b5563;
+border: 1px solid #d1d5db;
+}
+
+.export-btn:hover {
+background: #330066;
+color: white;
+border-color: #B266FF;
+}
+
+.todo-paper {
+background: white; background-image: radial-gradient(#e5e7eb 1.5px, transparent 1px);
+background-size: 24px 24px; min-height: 600px; border-radius: 12px;
+box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+}
+
+@keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+
+/* Custom grid logic for the pill links */
+#links-grid > a:last-child:nth-child(odd) {
+grid-column: span 2; /* If it's the 3rd, 5th, etc link, it spans both columns */
+}
+
+.link-pill {
+display: flex;
+align-items: center;
+padding: 1rem;
+border-radius: 12px;
+color: white;
+font-weight: 800;
+text-transform: uppercase;
+font-size: 0.8rem;
+transition: all 0.2s;
+position: relative;
+}
+
+.link-pill:hover {
+transform: translateY(-2px);
+filter: brightness(1.1);
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.delete-link {
+position: absolute;
+right: 8px;
+top: 50%;
+transform: translateY(-50%);
+opacity: 0;
+transition: 0.2s;
+}
+
+.link-pill:hover .delete-link {
+opacity: 1;
+}
+/* TO-DO LAYOUT & MINI-CALENDARS */
+.daily-layout-grid {
+display: grid;
+grid-template-columns: 1fr 250px;
+gap: 2rem;
+min-height: 600px;
+}
+
+.task-input-small {
+font-size: 9px !important;
+font-weight: 600;
+line-height: 1.2;
+word-wrap: break-word;
+white-space: normal;
+overflow-wrap: anywhere;
+flex: 1;
+min-width: 0;
+height: auto;
+}
+
+.task-input-large {
+font-size: 14px !important;
+font-weight: 700;
+color: var(--color-primary-dark);
+}
+#todo-render-container {
+    display: block !important;
+    min-height: 400px;
+}
+.task-row {
+    display: flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+.task-row textarea {
+    min-height: 1.5em;
+    height: auto;
+}
+
+.mini-calendar-sidebar { border-left: 1px dashed #e5e7eb; padding-left: 1.5rem; display: flex; flex-direction: column; gap: 1.5rem; }
+.weekly-calendar-footer { display: flex; gap: 1rem; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #e5e7eb; }
+.weekly-calendar-footer .mini-cal { flex: 1; }
+
+/* Updated Weekly Planner Layout */
+.weekly-planner-grid {
+display: grid;
+grid-template-columns: 1fr 250px; /* Planner on left, Cal on right */
+gap: 2rem;
+align-items: start;
+}
+
+.weekly-tasks-stack {
+display: grid;
+grid-template-columns: repeat(3, 1fr); /* 3 columns for Sun-Fri */
+gap: 1rem;
+}
+
+.weekly-day-card {
+background: rgba(255, 255, 255, 0.5);
+border-radius: 12px;
+padding: 1rem;
+border: 1px solid #f3e8ff;
+height: 100%;
+min-height: 200px;
+display: flex;
+flex-direction: column;
+text-align: left; /* Back to left-aligned! */
+}
+
+/* Optional: Ensure Saturday also follows a similar height or stays larger */
+.weekly-day-card.saturday-span {
+grid-column: 1 / -1;
+min-height: 150px;
+}
+
+.mini-cal {
+background: #fff; border-radius: 8px; padding: 0.75rem; width: 100%;
+box-shadow: 0 2px 4px rgba(0,0,0,0.05); border: 1px solid #f3f4f6;
+}
+
+.mini-cal-header {
+font-weight: 900; font-size: 0.7rem; text-transform: uppercase;
+color: var(--color-primary-dark); text-align: center; margin-bottom: 0.5rem;
+border-bottom: 2px solid var(--color-secondary-gold);
+}
+
+.mini-cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; text-align: center; font-size: 0.6rem; }
+.mini-cal-day-label { font-weight: 800; color: #9ca3af; padding-bottom: 4px; }
+.mini-cal-date { padding: 4px 0; border-radius: 4px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+.mini-cal-date:hover { background: #f3f4f6; color: var(--color-primary-dark); }
+.mini-cal-today { background-color: var(--color-secondary-gold); color: white; }
+.mini-cal-viewing { outline: 2px solid var(--color-primary-dark); font-weight: 900; }
+
+.todo-mode-btn {
+transition: all 0.2s;
+}
+
+/* Only the active one should be white with purple text */
+.todo-mode-btn.selected-active {
+background-color: white !important;
+color: var(--color-primary-dark) !important;
+box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* The non-selected one should always stay transparent with white text */
+.todo-mode-btn:not(.selected-active) {
+background-color: transparent !important;
+color: white !important;
+}
+
+/* Weekly View Column Fixes */
+.task-row {
+display: flex;
+align-items: center;
+gap: 0.5rem; /* Reduced gap */
+padding: 0.25rem 0.5rem; /* Reduced vertical padding */
+border-bottom: 1px dashed #e5e7eb;
+width: 100%;
+transition: all 0.2s;
+border-radius: 6px;
+}
+
+.task-row:hover {
+background-color: rgba(178, 102, 255, 0.05);
+outline: 1px solid rgba(178, 102, 255, 0.2);
+}
+
+/* --- START PINPOINTED FIX: VERTICAL ALIGNMENT --- */
+.task-row {
+    display: flex;
+    align-items: center; /* ALIGNS CHECKBOX, TEXT, AND TRASH ICON TO CENTER */
+    gap: 0.5rem;
+    padding: 0.4rem 0.5rem; /* SLIGHTLY MORE PADDING FOR BREATHING ROOM */
+    border-bottom: 1px dashed #e5e7eb;
+    width: 100%;
+    transition: all 0.2s;
+    border-radius: 6px;
+}
+
+.task-row textarea {
+    flex: 1;
+    min-width: 0;
+    background: transparent;
+    border: none;
+    outline: none;
+    resize: none;
+    margin: 0;
+    padding: 0; /* REMOVED PADDING TO PREVENT TEXT JUMP */
+    display: flex;
+    align-items: center;
+    line-height: 1.5;
+    height: auto;
+}
+
+/* ADJUST MARGINS ON ICONS/CHECKBOX TO MATCH TEXT BASELINE */
+.task-row input[type="checkbox"] {
+    margin-top: 0 !important; /* REMOVES TOP OFFSET */
+}
+
+.task-actions {
+    margin-top: 0 !important; /* REMOVES TOP OFFSET FROM TRASH ICON */
+    display: flex;
+    align-items: center;
+}
+/* --- END PINPOINTED FIX --- */
+
+.day-pill-header {
+background: #f3e8ff;
+border-radius: 8px;
+padding: 12px 0;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-bottom: 1rem;
+border: 1px solid #e9d5ff;
+width: 100%; /* Spans the full width of the flex-1 container */
+box-sizing: border-box; /* Critical: ensures border doesn't push width out */
+}
+
+/* Make Weekday Font Larger */
+.day-pill-header span:first-child {
+font-size: 14px !important; /* Increased from 10px */
+letter-spacing: 0.05em;
+}
+
+/* Make Add Task Thinner */
+.add-task-btn-thin {
+padding-top: 2px !important;
+padding-bottom: 2px !important;
+min-height: unset !important;
+line-height: 1.5 !important;
+}
+
+/* Custom Checkbox Styling */
+.task-row input[type="checkbox"] {
+appearance: none;
+-webkit-appearance: none;
+width: 1.25rem;
+height: 1.25rem;
+border: 2px solid #B266FF;
+border-radius: 4px;
+background-color: white;
+cursor: pointer;
+position: relative;
+flex-shrink: 0;
+margin-top: 2px; /* Pulls checkbox down slightly to match first line of text */
+transition: all 0.2s;
+}
+
+.task-row input[type="checkbox"]:checked {
+background-color: #B266FF;
+border-color: #330066;
+}
+
+.task-row input[type="checkbox"]:checked::after {
+content: '';
+position: absolute;
+left: 6px;
+top: 2px;
+width: 5px;
+height: 10px;
+border: solid white;
+border-width: 0 2px 2px 0;
+transform: rotate(45deg);
+}
+.task-actions {
+display: flex;
+align-items: center; /* Centers trash icon with text */
+flex-shrink: 0;
+gap: 0.25rem;
+/* Use margin-top to align with the first line of text */
+margin-top: 4px;
+}
+
+.task-actions i {
+width: 0.8rem !important;
+height: 0.8rem !important;
+}
+
+/* Fixes the "white box" selected pill issue */
+.todo-mode-btn.bg-white {
+background-color: white !important;
+color: var(--color-primary-dark) !important;
+}
+
+#todo-render-container .text-gray-400.font-bold {
+font-size: 8px !important;
+white-space: nowrap; /* Keeps the month and day on one line */
+letter-spacing: -0.02em;
+}
+
+.todo-column:nth-child(even) {
+background-color: rgba(178, 102, 255, 0.03);
+}
+
+
+.clear-all-btn {
+padding: 2px 6px !important;
+border: 1px solid #fee2e2;
+background: #fef2f2;
+color: #ef4444;
+font-size: 8px !important;
+border-radius: 4px;
+text-transform: uppercase;
+font-weight: 800;
+transition: all 0.2s;
+}
+
+.clear-all-btn:hover {
+background: #ef4444;
+color: white;
+}
+/* --- THEMED MODAL SYSTEM --- */
+#themed-modal-container {
+transition: all 0.3s ease-in-out;
+}
+
+.modal-animate-in {
+animation: modalScaleUp 0.2s ease-out forwards;
+}
+
+@keyframes modalScaleUp {
+from { opacity: 0; transform: scale(0.95); }
+to { opacity: 1; transform: scale(1); }
+}
+
+.modal-header-bg {
+background: linear-gradient(135deg, #330066 0%, #4c0099 100%);
+border-bottom: 3px solid #B266FF;
+}
+
+.edit-link {
+position: absolute;
+right: 32px; /* Positioned to the left of the delete button */
+top: 50%;
+transform: translateY(-50%);
+opacity: 0;
+transition: 0.2s;
+}
+
+.link-pill:hover .edit-link {
+opacity: 1;
+}
+
+#date-jumper::-webkit-calendar-picker-indicator {
+cursor: pointer;
+}
+
+/* Optional: Make the Today/Jump group look like a single unit */
+.rounded-l-full { border-top-right-radius: 0; border-bottom-right-radius: 0; }
+.rounded-r-full { border-top-left-radius: 0; border-bottom-left-radius: 0; }
+
+#notes-master-progress-fill {
+height: 100%;
+transition: width 0.5s ease, background-color 0.5s ease; /* Added background-color transition */
+}
+
+@keyframes spin {
+from { transform: rotate(0deg); }
+to { transform: rotate(360deg); }
+}
+.animate-spin {
+animation: spin 1s linear infinite;
+}
+
+.confetti-piece {
+position: fixed;
+top: -10px;
+width: 10px;
+height: 10px;
+z-index: 9999;
+pointer-events: none;
+animation: fall linear forwards;
+}
+
+@keyframes fall {
+to {
+transform: translateY(105vh) rotate(360deg);
+}
+}
+
+@keyframes successPop {
+0% { transform: scale(1); }
+50% { transform: scale(1.25); }
+100% { transform: scale(1.1); }
+}
+.success-pop {
+animation: successPop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+/* Animation for search results filtering */
+#notes-list-wrapper details.hidden {
+display: none;
+}
+#notes-list-wrapper details:not(.hidden) {
+animation: fadeIn 0.2s ease-out;
+}
+.material-card {
+background: white;
+border-radius: 12px;
+border: 1px solid #e5e7eb;
+overflow: hidden;
+height: fit-content;
+}
+.nested-topic {
+margin-left: 1.5rem;
+border-left: 2px dashed #f3e8ff;
+padding-left: 0.75rem;
+}
+.trackable-item:hover {
+background-color: #f9fafb;
+}
+
+/* Material Tracker Specifics */
+#materials-grid > div:last-child:nth-child(odd) {
+grid-column: 1 / -1; /* This forces any "last odd" item to span the full width */
+}
+
+@media (min-width: 768px) {
+#materials-grid > div:last-child:nth-child(odd) {
+grid-column: span 2; /* Stretches the 1st, 3rd, 5th, etc. if it's the last one */
+}
+}
+
+.material-panel {
+border-top: 4px solid var(--panel-color, #B266FF);
+transition: transform 0.2s;
+}
+.material-panel:hover {
+transform: translateY(-2px);
+}
+.nested-topic {
+margin-left: 1.25rem;
+border-left: 1px dashed #e5e7eb;
+padding-left: 0.75rem;
+}
+.subject-progress-container {
+background: rgba(0, 0, 0, 0.05);
+height: 6px;
+border-radius: 999px;
+overflow: hidden;
+margin-top: 4px;
+}
+.subject-progress-fill {
+height: 100%;
+transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* Ensure the topic dropdown takes full height and width available in the grid */
+#topicSelect {
+    width: 100% !important;
+    min-height: 180px;
+}
+
+/* Force the color picker to span 7 columns for maximum width */
+#calendar-color-picker {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 8px;
+    max-height: none;
+    padding: 4px;
+}
+
+/* Red Cancel Button Theme */
+.btn-cancel-red {
+    color: #ef4444 !important;
+    font-weight: 800;
+}
+.btn-cancel-red:hover {
+    background-color: #fef2f2;
+    border-radius: 8px;
+}
+.digest-card {
+    border-left: 4px solid var(--theme-primary);
+    background: white; /* Ensure this isn't set to black */
+}
+
+/* If you have a header style for the digest modal, ensure it's this: */
+#digestModal .modal-header {
+    background-color: var(--theme-primary) !important;
+}
+
+/* Split Button Styles for Resources */
+.split-btn-container {
+    display: flex;
+    width: 100%;
+    height: 52px; 
+    border-radius: 0.75rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+.split-btn {
+    flex: 1;
+    display: flex;
+    flex-direction: column; /* Allows icon/title to stay above the description */
+    align-items: center;
+    justify-content: center;
+    padding: 0 0.5rem;
+    color: white;
+    font-weight: 800;
+    transition: all 0.2s;
+    text-decoration: none;
+    text-align: center;
+    line-height: 1.2;
+}
+.split-btn:hover { background-color: rgba(255, 255, 255, 0.1); filter: brightness(1.1); }
+
+/* Grid logic to make the last personal link span full width if it's alone */
+#links-grid > a:last-child:nth-child(odd) {
+    grid-column: span 2;
+}
+@media (max-width: 640px) {
+    #links-grid { grid-template-columns: 1fr; }
+    #links-grid > a:last-child:nth-child(odd) { grid-column: span 1; }
+}
+
+.owner-note-gradient { background: linear-gradient(135deg, #330066 0%, #674ea7 100%); }
+.owner-note-paper { 
+    background-color: #ffffff;
+    background-image: radial-gradient(#e5e7eb 0.5px, transparent 0.5px);
+    background-size: 15px 15px; 
+}
+.owner-signature-font {
+    font-family: 'Patrick Hand', cursive;
+}
+
+.ring-done {
+    transition: stroke-dashoffset 1.5s ease-in-out;
+}
+
+/* START EDIT: Enhanced Popup Styling */
+.popup-overlay {
+    position: fixed; inset: 0;
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(5px);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 9999; padding: 1.5rem;
+}
+
+/* START EDIT: Extra Wide Popup */
+.popup-content {
+    background: white;
+    border-radius: 1.5rem;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    width: 95%; /* Responsive width */
+    max-width: 800px; /* Increased from 500/650 to fit the full text */
+    max-height: 90vh;
+    overflow-y: auto;
+    border: 1px solid #f3e8ff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+/* END EDIT */
+/* Tighter spacing for the list to save vertical room */
+.popup-content ul li {
+    margin-bottom: 0.25rem !important;
+}
+/* END EDIT */
+
+/* ROW SHADED AFTER DONE FOR GAERLAN */
+/* Style for completed case rows - PURPLE EDITION */
+.row-done {
+    background-color: #f5f3ff !important; /* Very soft purple/lavender tint */
+    opacity: 0.9;
+}
+
+.row-done td {
+    border-bottom-color: #ede9fe !important; /* Lighter purple border */
+}
+
+/* Subtle strike-through on the title */
+.row-done .case-title-link {
+    text-decoration: line-through;
+    color: #9ca3af; /* Muted gray */
+}
+
+/* --- START PINPOINTED FIX: TWO-COLUMN NOTEBOOK --- */
+.two-column-mode {
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: 1px solid #f3e8ff; /* Optional: adds a thin vertical line between columns */
+}
+
+/* Prevents a single topic/editor from breaking across two columns */
+.two-column-mode .ql-custom-container, 
+.two-column-mode details {
+    break-inside: avoid;
+    margin-bottom: 20px;
+}
+
+/* PRINT LOGIC: Force 2 columns when printing if the toggle is active */
+@media print {
+    .two-column-mode {
+        column-count: 2 !important;
+        column-gap: 20px !important;
+    }
+    /* Hide the toolbar and UI buttons during print */
+    .ql-toolbar, .notes-sub-tab, .header-bg {
+        display: none !important;
+    }
+}
+
+/* The actual 2-column text flow for the notes */
+.notes-content-columnized {
+    column-count: 2 !important;
+    column-gap: 30px !important;
+    column-rule: 1px solid rgba(0,0,0,0.1); /* Optional divider line */
+}
+
+/* Prevent notes/sections from breaking awkwardly in half between columns */
+.notes-content-columnized > div, 
+.notes-content-columnized .ql-custom-container {
+    break-inside: avoid-column;
+    margin-bottom: 15px;
+}
+
+/* PDF Export Logic: Force 2 columns on the printed page */
+@media print {
+    @page {
+        size: auto;
+        margin: 10mm;
+    }
+    
+    /* Ensure the container uses the 2-column flow in the PDF */
+    #notes-container.notes-content-columnized {
+        display: block !important;
+        column-count: 2 !important;
+        width: 100% !important;
+    }
+
+    /* Hide the UI/Buttons in the PDF */
+    .no-print, button, #notes-subject-tabs, .ql-toolbar {
+        display: none !important;
+    }
+}
+
+/* REVIEWER MODE: Targets the content INSIDE the note cards */
+.reviewer-text-flow .ql-editor {
+    column-count: 2 !important;
+    column-gap: 35px !important;
+    column-rule: 1px dashed rgba(51, 0, 102, 0.1);
+    
+    /* SET THE HEIGHT HERE */
+    height: 800px; /* Adjust this value to your preferred "page" length */
+    column-fill: auto; /* Forces text to fill the first column before the second */
+    overflow-y: hidden; /* Keeps the clean reviewer look */
+}
+
+/* Ensure headings and paragraphs don't split awkwardly across columns */
+.reviewer-text-flow .ql-editor > * {
+    break-inside: avoid-column;
+    page-break-inside: avoid;
+    margin-bottom: 12px;
+}
+
+/* PRINT EXPORT: Force 2-column layout for the PDF */
+@media print {
+    /* Set page margins */
+    @page { margin: 15mm; }
+
+    /* Hide everything except the notebook tab */
+    body * { visibility: hidden; }
+    #tab-notes, #tab-notes * { visibility: visible; }
+    #tab-notes { position: absolute; left: 0; top: 0; width: 100%; }
+
+    /* Force the 2-column reviewer flow in the PDF */
+    .reviewer-text-flow .ql-editor {
+        column-count: 2 !important;
+        display: block !important;
+    }
+
+    /* Remove UI elements from the PDF */
+    .header-bg, #notes-subject-tabs, .ql-toolbar, button, #notes-search {
+        display: none !important;
+    }
+}
+@media print {
+    .reviewer-text-flow .ql-editor {
+        height: auto !important; 
+        column-fill: balance;
+    }
+}
+
+/* Special class for 2-column print content */
+.print-2-col-content {
+    column-count: 2 !important;
+    column-gap: 30px !important;
+    column-rule: 1px solid #eee;
+    width: 100% !important;
+}
+
+/* Prevent note blocks from breaking mid-text between columns */
+.print-2-col-content > div {
+    break-inside: avoid-column !important;
+    margin-bottom: 15px !important;
+}
+
+@media print {
+    /* Ensure header/footer are full width even if content is 2-col */
+    .print-header, .print-footer {
+        column-span: all !important;
+        width: 100% !important;
+    }
+}
+
+/* --- QUILL FORMATTING STYLES --- */
+/* --- 1. CORE EDITOR BASE & BACKGROUND --- */
+.ql-editor { 
+font-size: 11pt !important;
+    min-height: 300px; 
+    padding: 20px; 
+background-color: #ffffff;
+background-image: radial-gradient(#e5e7eb 1.5px, transparent 1.5px) !important;
+    background-size: 24px 24px;
+    font-family: 'Inter', sans-serif;
+}
+
+/* --- 2. COLUMN LAYOUT ENGINE --- */
+/* These control the text flow inside the editor itself */
+.ql-editor.columns-2 { column-count: 2 !important; column-gap: 30px; column-rule: 1px solid #e5e7eb; }
+.ql-editor.columns-3 { column-count: 3 !important; column-gap: 20px; column-rule: 1px solid #e5e7eb; }
+.ql-editor.columns-2 *, .ql-editor.columns-3 * { break-inside: avoid-column; }
+
+/* Toolbar Column Button Icons */
+.ql-columns-2::before { content: "2COL" !important; font-size: 8px !important; font-weight: bold; }
+.ql-columns-3::before { content: "3COL" !important; font-size: 8px !important; font-weight: bold; }
+
+/* --- 3. LISTS & INDENTATION (UI & PDF UNIFIED) --- */
+.ql-editor li {
+    display: list-item !important;
+    list-style-position: outside !important;
+    margin-left: 1.5em !important;
+    font-size: 11px !important;
+}
+
+/* Map Quill data-attributes to markers */
+.ql-editor li[data-list="bullet"] { list-style-type: disc !important; }
+.ql-editor li[data-list="ordered"] { list-style-type: decimal !important; }
+
+/* Nested Sub-Bullet Icons for PDF */
+.ql-editor li.ql-indent-1[data-list="bullet"] { list-style-type: circle !important; }
+.ql-editor li.ql-indent-2[data-list="bullet"] { list-style-type: square !important; }
+
+/* Global Indentation Levels - Using padding for text flow */
+.ql-editor .ql-indent-1 { padding-left: 3em !important; }
+.ql-editor .ql-indent-2 { padding-left: 6em !important; }
+.ql-editor .ql-indent-3 { padding-left: 9em !important; }
+
+/* Ensure the list marker (bullet) moves with the indent */
+.ql-editor li.ql-indent-1 { margin-left: 3.5em !important; }
+.ql-editor li.ql-indent-2 { margin-left: 5.5em !important; }
+
+/* --- 4. TYPOGRAPHY & ALIGNMENT --- */
+.ql-editor h1 { font-size: 18pt !important; font-weight: 800; margin-top: 5pt; margin-bottom: 5pt; }
+.ql-editor h2 { font-size: 14pt !important; font-weight: 700; margin-top: 5pt; margin-bottom: 4pt; }
+.ql-editor h3 { font-size: 12pt !important; font-weight: 700; }
+/* FIX: Uniform font size and justified text */
+.ql-editor p, .ql-editor li { 
+    font-size: 11pt !important; 
+    line-height: 1.5; 
+    text-align: justify !important; 
+    text-justify: inter-word;
+}
+
+.ql-editor .ql-align-center { text-align: center !important; }
+.ql-editor .ql-align-right { text-align: right !important; }
+.ql-editor .ql-align-justify { text-align: justify !important; }
+
+/* --- 5. BLOCKQUOTES --- */
+.ql-editor blockquote {
+    border-left: 4px solid var(--subject-accent, #B266FF) !important;
+    padding-left: 15px !important;
+    color: #4b5563 !important;
+    font-style: italic !important;
+    margin: 15px 0 !important;
+text-align: justify !important;
+    background-color: color-mix(in srgb, var(--subject-accent, #B266FF), transparent 95%) !important;
+}
+.ql-editor blockquote.ql-indent-1 { margin-left: 3em !important; }
+.ql-editor blockquote.ql-indent-2 { margin-left: 6em !important; }
+
+/* --- 6. CUSTOM FONT SYSTEM & TOOLBAR --- */
+.ql-font-inter { font-family: 'Inter', sans-serif !important; }
+.ql-font-bebas { font-family: 'Bebas Neue', cursive !important; }
+.ql-font-dancing { font-family: 'Dancing Script', cursive !important; }
+.ql-font-garamond { font-family: 'EB Garamond', serif !important; }
+
+.ql-snow .ql-picker.ql-font .ql-picker-label::before,
+.ql-snow .ql-picker.ql-font .ql-picker-item::before {
+    content: attr(data-value) !important;
+    text-transform: capitalize;
+}
+.ql-snow .ql-picker.ql-font .ql-picker-label:not([data-value])::before { content: 'Inter' !important; }
+
+/* --- 7. UI LOGIC (HIDE TOOLBAR) --- */
+.ql-toolbar.ql-snow {
+    display: none;
+    border: 1px solid #f3e8ff !important;
+    background: #fafafa;
+    border-radius: 8px 8px 0 0;
+}
+.ql-custom-container:focus-within .ql-toolbar.ql-snow { display: block; margin-bottom: -1px; }
+.ql-container.ql-snow { border: 1px solid #f3e8ff !important; border-radius: 8px !important; }
+
+/* --- 8. PRINT & PDF EXPORT --- */
+@media print {
+    @page { margin: 15mm; }
+    .no-print, .ql-toolbar, button, #notes-subject-tabs, #notes-search { display: none !important; }
+    
+    .ql-editor {
+        background-image: none !important;
+        background-color: white !important;
+        -webkit-print-color-adjust: exact;
+        font-size: 11pt !important; /* Forces uniform size in PDF */
+    }
+
+    /* Force justification for all normal text in the PDF */
+    .ql-editor p {
+        text-align: justify !important;
+        display: block;
+    }
+    
+    /* Ensure lists don't break weirdly */
+    .ql-editor li {
+        text-align: justify !important;
+        font-size: 11pt !important;
+    }
+
+    /* Force 2-Column Reviewer Flow in PDF */
+    .reviewer-text-flow .ql-editor {
+        column-count: 2 !important;
+        column-gap: 35px !important;
+        height: auto !important;
+    }
+}
+
+/* REFINED THIN PRIORITY PANEL */
+.priority-dotted-bg {
+    background-image: radial-gradient(#d8b4fe 1px, transparent 0.6px); /* Thinner dots */
+    background-size: 14px 14px; /* Tighter grid */
+    background-color: #ffffff;
+    min-height: 80px; /* Reduced min-height */
+}
+
+/* Remove the default focus ring on summary for a cleaner look */
+summary:focus { outline: none; }
+
+/* Ensure the task inputs inside are also thin */
+#priority-tasks-list input[type="text"] {
+    font-size: 11px !important;
+    height: 24px;
+}
