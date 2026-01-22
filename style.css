@@ -990,29 +990,6 @@ min-height: unset !important;
 line-height: 1.5 !important;
 }
 
-/* 1. Hide the Add Task button container by default */
-.add-task-container-weekly,
-.add-task-container-daily {
-    display: none;
-}
-
-/* 2. Reveal when hovering over the parent card or grid */
-.weekly-day-card:hover .add-task-container-weekly,
-.daily-layout-grid:hover .add-task-container-daily {
-    display: flex;
-}
-
-/* 3. Rebranding the Purple Dash to a neutral Gray (optional) */
-.add-task-btn-thin, .daily-add-task-btn {
-    border-color: #e5e7eb !important; /* Muted gray instead of purple */
-    color: #4b5563 !important;
-}
-
-.add-task-btn-thin:hover, .daily-add-task-btn:hover {
-    background-color: #f9fafb !important;
-    border-color: #9ca3af !important;
-}
-
 /* Custom Checkbox Styling */
 .task-row input[type="checkbox"] {
 appearance: none;
