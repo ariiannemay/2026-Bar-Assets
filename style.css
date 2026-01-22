@@ -982,6 +982,19 @@ font-size: 14px !important; /* Increased from 10px */
 letter-spacing: 0.05em;
 }
 
+/* 1. Hide the Add Task button container by default (height: 0 removes the space) */
+.add-task-container-weekly,
+.add-task-container-daily {
+    display: none;
+}
+
+/* 2. Show it only when the card/grid is hovered */
+.weekly-day-card:hover .add-task-container-weekly,
+.daily-layout-grid:hover .add-task-container-daily {
+    display: flex;
+}
+
+
 /* Make Add Task Thinner */
 .add-task-btn-thin {
 padding-top: 2px !important;
