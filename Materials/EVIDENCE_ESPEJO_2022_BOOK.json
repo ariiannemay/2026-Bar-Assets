@@ -1,0 +1,172 @@
+{
+  "library": {
+    "id": "EVIDENCE_ESPEJO_2022_BOOK",
+    "name": "Evidence Explained Redux by Dean Jess Zachael B. Espejo - 2022 Ed",
+    "icon": "gavel",
+    "category": "other"
+  },
+  "materials": [
+    {
+      "id": 2022006,
+      "name": "Evidence Explained Redux by Dean Jess Zachael B. Espejo - 2022 Ed",
+      "icon": "gavel",
+      "color": "#7E22CE",
+      "withPageCounter": true,
+      "totalPages": 1038,
+      "topics": [
+        {
+          "id": 202200600,
+          "title": "CHAPTER 1 - BASIC PRINCIPLES (Rule 128, General Provisions, Sections 1 to 4)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 1
+        },
+        {
+          "id": 202200601,
+          "title": "CHAPTER 2 - JUDICIAL NOTICE AND JUDICIAL ADMISSIONS (Rule 129, What Need Not Be Proved, Sections 1 to 4)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 49
+        },
+        {
+          "id": 202200602,
+          "title": "CHAPTER 3 - OBJECT EVIDENCE (Rule 130, Rules of Admissibility, Section 1)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 92
+        },
+        {
+          "id": 202200603,
+          "title": "CHAPTER 4 - THE EVOLUTION OF DNA AS EVIDENCE IN THE PHILIPPINES (A.M. No. 06-11-5-SC, The Rule on DNA Evidence)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 124
+        },
+        {
+          "id": 202200604,
+          "title": "CHAPTER 5 - DOCUMENTARY EVIDENCE AND THE ORIGINAL DOCUMENT RULE (Rule 130, Rules of Admissibility, Sections 2 to 9)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 188
+        },
+        {
+          "id": 202200605,
+          "title": "CHAPTER 6 - ELECTRONIC EVIDENCE (A.M. No. 01-7-01-SC, The Rules on Electronic Evidence)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 224
+        },
+        {
+          "id": 202200606,
+          "title": "CHAPTER 7 - PAROL EVIDENCE RULE (Rule 130, Rules of Admissibility, Section 10)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 269
+        },
+        {
+          "id": 202200607,
+          "title": "CHAPTER 8 - STATUTE OF FRAUDS (Article 1403(2) of the New Civil Code)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 315
+        },
+        {
+          "id": 202200608,
+          "title": "CHAPTER 9 - RULES OF INTERPRETATION OF DOCUMENTS (Rule 130, Rules of Admissibility, Sections 11 to 20)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 349
+        },
+        {
+          "id": 202200609,
+          "title": "CHAPTER 10 - TESTIMONIAL EVIDENCE, IN GENERAL (Rule 130, Rules of Admissibility. Sections 21 to 23)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 377
+        },
+        {
+          "id": 202200610,
+          "title": "CHAPTER 11 - EXAMINATION OF CHILD WITNESSES (A.M. No. 004-07-SC, Rule on Examination of a Child Witness)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 411
+        },
+        {
+          "id": 202200611,
+          "title": "CHAPTER 12 - PRIVILEGED COMMUNICATIONS (Rule 130, Rules of Admissibility, Sections 24 to 26)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 457
+        },
+        {
+          "id": 202200612,
+          "title": "CHAPTER 13 - ADMISSIONS AND CONFESSIONS (Rule 130, Rules of Admissibility, Sections 27 to 36)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 543
+        },
+        {
+          "id": 202200613,
+          "title": "CHAPTER 14 - THE HEARSAY RULE AND ITS EXCEPTIONS (Rule 130, Rules of Admissibility, Sections 37 to 50)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 630
+        },
+        {
+          "id": 202200614,
+          "title": "CHAPTER 15 - OPINION AND CHARACTER (Rule 130, Rules of Admissibility, Sections 51 to 54)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 744
+        },
+        {
+          "id": 202200615,
+          "title": "CHAPTER 16 - BURDEN OF PROOF, BURDEN OF EVIDENCE, AND PRESUMPTIONS (Rule 131, Sections 1 to 6)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 777
+        },
+        {
+          "id": 202200616,
+          "title": "CHAPTER 17 - PRESENTATION OF EVIDENCE (Rule 132, Sections 1 to 40)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 862
+        },
+        {
+          "id": 202200617,
+          "title": "CHAPTER 18 - THE JUDICIAL AFFIDAVIT RULE (A.M. No. 12-8-8-SC, Judicial Affidavit Rule)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 974
+        },
+        {
+          "id": 202200618,
+          "title": "CHAPTER 19 - WEIGHT AND SUFFICIENCY OF EVIDENCE (Rule 133, Sections 1 to 8)",
+          "isTrackable": true,
+          "done": false,
+          "subtopics": [],
+          "startPage": 1003
+        }
+      ]
+    }
+  ]
+}
