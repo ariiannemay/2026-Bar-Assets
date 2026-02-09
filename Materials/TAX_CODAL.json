@@ -1,0 +1,433 @@
+{
+  "library": {
+    "id": "TAX_CODAL",
+    "name": "NIRC (Tax Code)",
+    "icon": "banknote",
+    "category": "codals"
+  },
+  "materials": [
+    {
+      "id": 84241997,
+      "name": "NIRC (Tax Code)",
+      "icon": "banknote",
+      "color": "#EC407A",
+      "topics": [
+        {
+          "id": 1000,
+          "title": "TITLE I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 2000,
+          "title": "TITLE II - TAX ON INCOME",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 2100,
+              "title": "CHAPTER I - DEFINITIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 2200,
+              "title": "CHAPTER II - GENERAL PRINCIPLES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 2300,
+              "title": "CHAPTER III - TAX ON INDIVIDUALS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 2400,
+              "title": "CHAPTER IV - TAX ON CORPORATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 2500,
+              "title": "CHAPTER V - COMPUTATION OF TAXABLE INCOME",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 2600,
+              "title": "CHAPTER VI - COMPUTATION OF GROSS INCOME",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 2700,
+              "title": "CHAPTER VII - ALLOWABLE DEDUCTIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 2800,
+              "title": "CHAPTER VIII - ACCOUNTING PERIODS AND METHODS OF ACCOUNTING",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 2900,
+              "title": "CHAPTER IX - RETURNS AND PAYMENT OF TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 3000,
+              "title": "CHAPTER X - ESTATES AND TRUSTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 3100,
+              "title": "CHAPTER XI - OTHER INCOME TAX REQUIREMENTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 3200,
+              "title": "CHAPTER XII - QUARTERLY CORPORATE INCOME TAX DECLARATION AND QUARTERLY PAYMENTS OF INCOME TAXES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 3300,
+              "title": "CHAPTER XIII - WITHHOLDING ON WAGES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 4000,
+          "title": "TITLE III - ESTATE AND DONOR'S TAXES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 4100,
+              "title": "CHAPTER I - ESTATE TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 4200,
+              "title": "CHAPTER II - DONOR'S TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 5000,
+          "title": "TITLE IV - VALUE-ADDED TAX",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 5100,
+              "title": "CHAPTER I - IMPOSITION OF TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 5200,
+              "title": "CHAPTER II - COMPLIANCE REQUIREMENTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 6000,
+          "title": "TITLE V - OTHER PERCENTAGE TAXES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 7000,
+          "title": "TITLE VI - EXCISE TAX ON CERTAIN GOODS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 7100,
+              "title": "CHAPTER I - GENERAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 7200,
+              "title": "CHAPTER II - EXEMPTION OR CONDITIONAL TAX-FREE REMOVAL OF CERTAIN ARTICLES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 7300,
+              "title": "CHAPTER III - EXCISE TAX ON ALCOHOL PRODUCTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 7400,
+              "title": "CHAPTER IV - EXCISE TAX ON TOBACCO PRODUCTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 7500,
+              "title": "CHAPTER V - EXCISE TAX ON PETROLEUM PRODUCTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 7600,
+              "title": "CHAPTER VI - EXCISE TAX ON MISCELLANEOUS ARTICLES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 7700,
+              "title": "CHAPTER VII - EXCISE TAX ON MINERAL PRODUCTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 7800,
+              "title": "CHAPTER VIII - ADMINISTRATIVE PROVISIONS REGULATING BUSINESS OF PERSONS DEALING IN ARTICLES SUBJECT TO EXCISE TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 8000,
+          "title": "TITLE VII - DOCUMENTARY STAMP TAX",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 9000,
+          "title": "TITLE VIII - REMEDIES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 9100,
+              "title": "CHAPTER I - REMEDIES IN GENERAL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 9200,
+              "title": "CHAPTER II - CIVIL REMEDIES FOR COLLECTION OF TAXES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 9300,
+              "title": "CHAPTER III - PROTESTING AN ASSESSMENT, REFUND, ETC.",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 10000,
+          "title": "TITLE IX - COMPLIANCE REQUIREMENTS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 10100,
+              "title": "CHAPTER I - KEEPING OF BOOKS OF ACCOUNTS AND RECORDS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 10200,
+              "title": "CHAPTER II - ADMINISTRATIVE PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 10300,
+              "title": "CHAPTER III - RULES AND REGULATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 11000,
+          "title": "TITLE X - STATUTORY OFFENSES AND PENALTIES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 11100,
+              "title": "CHAPTER I - ADDITIONS TO THE TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 11200,
+              "title": "CHAPTER II - CRIMES, OTHER OFFENSES AND FORFEITURES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 11300,
+              "title": "CHAPTER III - PENALTIES IMPOSED ON PUBLIC OFFICERS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 11400,
+              "title": "CHAPTER IV - OTHER PENAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 12000,
+          "title": "TITLE XI - ALLOTMENT OF INTERNAL REVENUE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 12100,
+              "title": "CHAPTER I - DISPOSITION AND ALLOTMENT OF NATIONAL INTERNAL REVENUE IN GENERAL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 12200,
+              "title": "CHAPTER II - SPECIAL DISPOSITION OF CERTAIN NATIONAL INTERNAL REVENUE TAXES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 13000,
+          "title": "TITLE XII - OVERSIGHT COMMITTEE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 14000,
+          "title": "TITLE XIII - TAX INCENTIVES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 14100,
+              "title": "CHAPTER I - GENERAL PROVISIONS ON TAX INCENTIVES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 14200,
+              "title": "CHAPTER II - TAX AND DUTY INCENTIVES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 14300,
+              "title": "CHAPTER III - THE FISCAL INCENTIVES REVIEW BOARD",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 14400,
+              "title": "CHAPTER IV - QUALIFIED PROJECTS OR ACTIVITIES FOR TAX INCENTIVES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 14500,
+              "title": "CHAPTER V - TAX INCENTIVES MANAGEMENT AND TRANSPARENCY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 14600,
+              "title": "CHAPTER VI - TRANSITORY AND MISCELLANEOUS PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 15000,
+          "title": "TITLE XIV - REPEALING PROVISIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 16000,
+          "title": "TITLE XV - FINAL PROVISIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}
