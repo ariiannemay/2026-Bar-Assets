@@ -1,0 +1,388 @@
+{
+  "library": {
+    "id": "TAX_REVIEWER_MAMALATEO_BOOK",
+    "name": "Reviewer on Taxation by Victorino Mamalateo - 2019 Ed",
+    "icon": "hand-coins",
+    "category": "other"
+  },
+  "materials": [
+    {
+      "id": 2019001,
+      "name": "Reviewer on Taxation by Victorino Mamalateo - 2019 Ed",
+      "icon": "hand-coins",
+      "color": "#EC4899",
+      "withPageCounter": true,
+      "totalPages": 1071,
+      "topics": [
+        {
+          "id": 201900100,
+          "title": "PART I - PERSONS & FAMILY RELATIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900101,
+              "title": "CHAPTER I - GENERAL PRINCIPLES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 1
+            },
+            {
+              "id": 201900102,
+              "title": "CHAPTER II - INHERENT AND CONSTITUTIONAL LIMITATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 51
+            }
+          ]
+        },
+        {
+          "id": 201900103,
+          "title": "PART II - INCOME AND WITHHOLDING TAXES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900104,
+              "title": "CHAPTER III - INTRODUCTION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 95
+            },
+            {
+              "id": 201900105,
+              "title": "CHAPTER IV - KINDS OF TAXPAYERS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 106
+            },
+            {
+              "id": 201900106,
+              "title": "CHAPTER V - GROSS INCOME",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 148
+            },
+            {
+              "id": 201900107,
+              "title": "CHAPTER VI - EXCLUSIONS FROM GROSS INCOME",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 246
+            },
+            {
+              "id": 201900108,
+              "title": "CHAPTER VII - RETURN OF CAPITAL AND DEDUCTIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 297
+            },
+            {
+              "id": 201900109,
+              "title": "CHAPTER VIII - TAX BASES AND RATES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 344
+            },
+            {
+              "id": 201900110,
+              "title": "CHAPTER IX - ORDINARY ASSETS AND CAPITAL ASSETS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 367
+            },
+            {
+              "id": 201900111,
+              "title": "CHAPTER X - TAX-FREE EXCHANGES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 376
+            },
+            {
+              "id": 201900112,
+              "title": "CHAPTER XI - ACCOUNTING METHODS AND PERIODS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 389
+            },
+            {
+              "id": 201900113,
+              "title": "CHAPTER XII - WITHHOLDING TAXES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 407
+            }
+          ]
+        },
+        {
+          "id": 201900114,
+          "title": "PART III - INCOME AND WITHHOLDING TAXES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900115,
+              "title": "CHAPTER XIII - ESTATE TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 423
+            },
+            {
+              "id": 201900116,
+              "title": "CHAPTER XIV - DONOR'S TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 467
+            }
+          ]
+        },
+        {
+          "id": 201900117,
+          "title": "PART IV - VALUE-ADDED TAX (VAT)",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900118,
+              "title": "CHAPTER XIII - INTRODUCTION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 488
+            },
+            {
+              "id": 201900119,
+              "title": "CHAPTER XIV - PERSONS LIABLE TO TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 496
+            },
+            {
+              "id": 201900120,
+              "title": "CHAPTER XVII - OUTPUT TAX ON SALE OF GOODS OR PROPERTIES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 507
+            },
+            {
+              "id": 201900121,
+              "title": "CHAPTER XVIII - OUTPUT TAX ON SALE OF SERVICES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 518
+            },
+            {
+              "id": 201900122,
+              "title": "CHAPTER XIX - TAX BASES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 542
+            },
+            {
+              "id": 201900123,
+              "title": "CHAPTER XX - RATES OF VAT",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 564
+            },
+            {
+              "id": 201900124,
+              "title": "CHAPTER XXI - EXEMPT TRANSACTIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 584
+            },
+            {
+              "id": 201900125,
+              "title": "CHAPTER XXII - INPUT TAXES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 588
+            },
+            {
+              "id": 201900126,
+              "title": "CHAPTER XXIII - COMPLIANCE REQUIREMENTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 623
+            }
+          ]
+        },
+        {
+          "id": 201900127,
+          "title": "PART V - DOCUMENTARY STAMP TAX",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900128,
+              "title": "CHAPTER XXIV - NATURE OF THE DOCUMENTARY STAMP TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 648
+            }
+          ]
+        },
+        {
+          "id": 201900129,
+          "title": "PART VI - TAX REMEDIES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900130,
+              "title": "CHAPTER XXV - INTRODUCTION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 658
+            },
+            {
+              "id": 201900131,
+              "title": "CHAPTER XXVI - ADMINISTRATIVE REMEDIES OF GOVERNMENT",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 677
+            },
+            {
+              "id": 201900132,
+              "title": "CHAPTER XXVII - JUDICIAL REMEDIES OF GOVERNMENT",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 709
+            },
+            {
+              "id": 201900133,
+              "title": "CHAPTER XXVIII - CIVIL PENALTIES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 742
+            },
+            {
+              "id": 201900134,
+              "title": "CHAPTER XXIX - REMEDIES OF TAXPAYERS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 750
+            },
+            {
+              "id": 201900135,
+              "title": "CHAPTER XXX - ASSESSMENT AND PROTEST",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 770
+            },
+            {
+              "id": 201900136,
+              "title": "CHAPTER XXXI - PRESCRIPTION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 815
+            },
+            {
+              "id": 201900137,
+              "title": "CHAPTER XXXII - TAX CREDIT OR REFUND",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 862
+            }
+          ]
+        },
+        {
+          "id": 201900138,
+          "title": "PART VII - COURT OF TAX APPEALS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900139,
+              "title": "CHAPTER XXXIII - JURISDICTION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 903
+            }
+          ]
+        },
+        {
+          "id": 201900140,
+          "title": "PART VIII - LOCAL GOVERNMENT CODE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900141,
+              "title": "CHAPTER XXXIV - LOCAL BUSINESS TAXES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 928
+            },
+            {
+              "id": 201900142,
+              "title": "CHAPTER XXXV - REAL PROPERTY TAX",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 970
+            }
+          ]
+        },
+        {
+          "id": 201900143,
+          "title": "PART IX - TARIFF AND CUSTOMS CODE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201900144,
+              "title": "CHAPTER XXXVI - FUNDAMENTAL PRINCIPLES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 1007
+            },
+            {
+              "id": 201900145,
+              "title": "ANNEX A - 2018 BAR EXAMINATIONS - TAXATION LAW",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 1061
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
