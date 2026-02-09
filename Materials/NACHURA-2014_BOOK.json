@@ -2,14 +2,14 @@
   "library": {
     "id": "NACHURA_2014_BOOK",
     "name": "Outline Reviewer in Political Law by Antonio Eduardo B. Nachura - 2014 Ed",
-    "icon": "building-2",
+    "icon": "landmark",
     "category": "other"
   },
   "materials": [
     {
       "id": 2014001,
       "name": "Outline Reviewer in Political Law by Antonio Eduardo B. Nachura - 2014 Ed",
-      "icon": "building-2",
+      "icon": "landmark",
       "color": "#8D6E63",
       "withPageCounter": true,
       "totalPages": 773,
