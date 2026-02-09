@@ -1,0 +1,946 @@
+{
+  "library": {
+    "id": "LGC_CODAL",
+    "name": "LOCAL GOVERNMENT CODE OF 1991",
+    "icon": "building-2",
+    "category": "codals"
+  },
+  "materials": [
+    {
+      "id": 1991001,
+      "name": "LOCAL GOVERNMENT CODE OF 1991",
+      "icon": "building-2",
+      "color": "#8D6E63",
+      "topics": [
+        {
+          "id": 199100100,
+          "title": "BOOK I - GENERAL PROVISIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 199100101,
+              "title": "TITLE I \u2013 BASIC PRINCIPLES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100102,
+                  "title": "CHAPTER I \u2013 The Code: Policy and Application",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100103,
+                  "title": "CHAPTER II \u2013 General Powers and Attributes of Local Government Units",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100104,
+                  "title": "CHAPTER III - Intergovernmental Relations",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 199100105,
+                      "title": "ARTICLE I \u2013 National Government and Local Government Units",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100106,
+                      "title": "ARTICLE II \u2013 Relations with the Philippine National Police",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100107,
+                      "title": "ARTICLE III \u2013 Inter-Local Government Relations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 199100108,
+                  "title": "CHAPTER IV \u2013 Relations with People's and Non-Governmental Organizations",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100109,
+                  "title": "CHAPTER V \u2013 Local Prequalication, Bids and Awards Committee",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 199100110,
+              "title": "TITLE II \u2013 ELECTIVE OFFICIALS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100111,
+                  "title": "CHAPTER I \u2013 Qualifications and Election",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100112,
+                  "title": "CHAPTER II \u2013 Vacancies and Succession",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100113,
+                  "title": "CHAPTER III \u2013 Local Legislation",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100114,
+                  "title": "CHAPTER IV \u2013 Disciplinary Actions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100115,
+                  "title": "CHAPTER V - Recall",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 199100116,
+              "title": "TITLE III \u2013 HUMAN RESOURCES AND DEVELOPMENT",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100117,
+              "title": "TITLE IV \u2013 LOCAL SCHOOL BOARDS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100118,
+              "title": "TITLE V \u2013 LOCAL HEALTH BOARDS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100119,
+              "title": "TITLE VI \u2013 LOCAL DEVELOPMENT COUNCILS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100120,
+              "title": "TITLE VII \u2013 LOCAL PEACE AND ORDER COUNCIL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100121,
+              "title": "TITLE VIII \u2013 AUTONOMOUS SPECIAL ECONOMIC ZONES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100122,
+              "title": "TITLE IX \u2013 OTHER PROVISIONS APPLICABLE TO LOCAL GOVERNMENT UNITS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100123,
+                  "title": "CHAPTER I \u2013 Settlement of Boundary Disputes",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100124,
+                  "title": "CHAPTER II \u2013 Local Initiative and Referendum",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 199100125,
+          "title": "BOOK II - LOCAL TAXATION AND FISCAL MATTERS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 199100126,
+              "title": "TITLE I \u2013 LOCAL GOVERNMENT TAXATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100127,
+                  "title": "CHAPTER I - General Provisions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100128,
+                  "title": "CHAPTER II - Specific Provisions on the Taxing and Other Revenue-Raising Powers of Local Government Units",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 199100129,
+                      "title": "ARTICLE I - Provinces",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100130,
+                      "title": "ARTICLE II - Municipalities",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100131,
+                      "title": "ARTICLE III - Cities",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100132,
+                      "title": "ARTICLE IV - Barangays",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100133,
+                      "title": "ARTICLE V - Common Revenue-Raising Powers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100134,
+                      "title": "ARTICLE VI - Community Tax",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 199100135,
+                  "title": "CHAPTER III - Collection of Taxes",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100136,
+                  "title": "CHAPTER IV - Civil Remedies for Collection of Revenues",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100137,
+                  "title": "CHAPTER V - Miscellaneous Provisions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100138,
+                  "title": "CHAPTER VI - Taxpayer's Remedies",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 199100139,
+              "title": "TITLE II \u2013 REAL PROPERTY TAXATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100140,
+                  "title": "CHAPTER I - General Provisions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100141,
+                  "title": "CHAPTER II - Appraisal and Assessment of Real Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100142,
+                  "title": "CHAPTER III - Assessment Appeals",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100143,
+                  "title": "CHAPTER IV - Imposition of Real Property Tax",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100144,
+                  "title": "CHAPTER V - Special Levies on Real Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100145,
+                  "title": "CHAPTER VI - Collection of Real Property Tax",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100146,
+                  "title": "CHAPTER VII - Disposition of Proceeds",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100147,
+                  "title": "CHAPTER VIII - Special Provisions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 199100148,
+              "title": "TITLE III \u2013 SHARES OF LOCAL GOVERNMENT UNITS IN THE PROCEEDS OF NATIONAL TAXES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100149,
+                  "title": "CHAPTER I - Allotment of Internal Revenue",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100150,
+                  "title": "CHAPTER II - Share of Local Government Units in the National Wealth",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 199100151,
+              "title": "TITLE IV \u2013 Credit Financing",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100152,
+              "title": "TITLE V \u2013 Local Fiscal Administration",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100153,
+                  "title": "CHAPTER I - General Provisions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100154,
+                  "title": "CHAPTER II - Local and Other Special Funds",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 199100155,
+                      "title": "ARTICLE I - Receipts, Safekeeping Article and Disposition of Local Funds",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100156,
+                      "title": "ARTICLE II - Special Accounts",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 199100157,
+                  "title": "CHAPTER III - Budgeting",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 199100158,
+                      "title": "ARTICLE I - Local Government Budgets",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100159,
+                      "title": "ARTICLE II - Barangay Budgets",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 199100160,
+                  "title": "CHAPTER IV - Expenditures, Disbursements, Accounting and Accountability",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 199100161,
+              "title": "TITLE VI \u2013 Property and Supply Management in the Local Government Units Rules and Regulations on Supply and Property Management in the Local Governments",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 199100162,
+          "title": "BOOK III - LOCAL GOVERNMENT UNITS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 199100163,
+              "title": "TITLE I \u2013 THE BARANGAY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100164,
+                  "title": "CHAPTER I - Role and Creation of the Barangay",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100165,
+                  "title": "CHAPTER II - Barangay Officials and Offices",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100166,
+                  "title": "CHAPTER III - The Punong Barangay",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100167,
+                  "title": "CHAPTER IV - The Sangguniang Barangay",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100168,
+                  "title": "CHAPTER V - Appointive Barangay Officials",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100169,
+                  "title": "CHAPTER VI - Barangay Assembly",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100170,
+                  "title": "CHAPTER VII - Katarungang Pambarangay Rules and Regulations Implementing the Katarungang Pambarangay",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100171,
+                  "title": "CHAPTER VIII - Sangguniang Kabataan [see RA 10742]",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100172,
+                  "title": "CHAPTER IX - Pederasyon ng mga Sangguniang Kabataan [see RA 10742]",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100173,
+                  "title": "CHAPTER X - Linggo ng Kabataan [see RA 10742]",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 199100174,
+              "title": "TITLE II \u2013 THE MUNICIPALITY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100175,
+                  "title": "CHAPTER I - Role and Creation of the Municipality",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100176,
+                  "title": "CHAPTER II - Municipal Officials in General",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100177,
+                  "title": "CHAPTER III - Officials and Offices Common to All Municipalities",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 199100178,
+                      "title": "ARTICLE I - The Municipal Mayor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100179,
+                      "title": "ARTICLE II - The Vice Mayor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100180,
+                      "title": "ARTICLE III - The Sangguniang Bayan",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 199100181,
+              "title": "TITLE III \u2013 THE CITY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100182,
+                  "title": "CHAPTER I - Role and Creation of the City",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100183,
+                  "title": "CHAPTER II - City Officials in General",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100184,
+                  "title": "CHAPTER III - Officials and Offices Common to All Cities",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 199100185,
+                      "title": "ARTICLE I - The City Mayor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100186,
+                      "title": "ARTICLE II - The City Vice-Mayor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100187,
+                      "title": "ARTICLE III - The Sangguniang Panlungsod",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 199100188,
+              "title": "TITLE IV THE PROVINCE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100189,
+                  "title": "CHAPTER I - Role and Creation of the Province",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100190,
+                  "title": "CHAPTER II - Provincial Officials in General",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100191,
+                  "title": "CHAPTER III - Officials and Offices Common to All Provinces",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 199100192,
+                      "title": "ARTICLE I - The Provincial Governor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100193,
+                      "title": "ARTICLE II - The Provincial Vice-Governor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100194,
+                      "title": "ARTICLE III - The Sangguniang Panlalawigan",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 199100195,
+              "title": "TITLE V \u2013 APPOINTED LOCAL OFFICIALS COMMON TO ALL MUNICIPALITIES, CITIES AND PROVINCES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100196,
+                  "title": "ARTICLE I - Secretary to the Sanggunian",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100197,
+                  "title": "ARTICLE II - The Treasurer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100198,
+                  "title": "ARTICLE III - The Assessor",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100199,
+                  "title": "ARTICLE IV -  The Accountant",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100200,
+                  "title": "ARTICLE V - The Budget Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100201,
+                  "title": "ARTICLE VI - The Planning and Development Coordinator",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100202,
+                  "title": "ARTICLE VII - The Engineer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100203,
+                  "title": "ARTICLE VIII - The Health Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100204,
+                  "title": "ARTICLE IX - The Civil Registrar",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100205,
+                  "title": "ARTICLE X - The Administrator",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100206,
+                  "title": "ARTICLE XI - The Legal Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100207,
+                  "title": "ARTICLE XII - The Agriculturist",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100208,
+                  "title": "ARTICLE XIII - The Social Welfare and Development Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100209,
+                  "title": "ARTICLE XIV - The Environment and Natural Resources Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100210,
+                  "title": "ARTICLE XV - The Architect",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100211,
+                  "title": "ARTICLE XVI - The Information Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100212,
+                  "title": "ARTICLE XVII - The Cooperatives Development Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100213,
+                  "title": "ARTICLE XVIII - The Population Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100214,
+                  "title": "ARTICLE XIX - The Veterinarian",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 199100215,
+                  "title": "ARTICLE XX - The General Services Officer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 199100216,
+              "title": "TITLE VI \u2013 LEAGUES OF LOCAL GOVERNMENT UNITS AND ELECTIVE OFFICIALS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 199100217,
+                  "title": "CHAPTER I - Leagues of Local Government Units",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 199100218,
+                      "title": "ARTICLE I - Liga ng Mga Barangay",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100219,
+                      "title": "ARTICLE II - League of Municipalities",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100220,
+                      "title": "ARTICLE III - League of Cities",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100221,
+                      "title": "ARTICLE IV -  League of Provinces",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 199100222,
+                      "title": "ARTICLE V - Provisions Common to All Leagues",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 199100223,
+                  "title": "CHAPTER II - Leagues and Federation of Local Elective OfficialsT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 199100224,
+          "title": "BOOK IV - MISCELLANEOUS AND FINAL PROVISIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 199100225,
+              "title": "TITLE I \u2013 PENAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100226,
+              "title": "TITLE II \u2013 PROVISIONS FOR IMPLEMENTATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100227,
+              "title": "TITLE III \u2013 TRANSITORY PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 199100228,
+              "title": "TITLE \u2013 IV FINAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
