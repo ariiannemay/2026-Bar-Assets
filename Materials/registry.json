@@ -4,7 +4,7 @@
       "id": "1987_CONST",
       "name": "THE 1987 CONSTITUTION",
       "file": "1987_CONSTITUTION.json",
-      "icon": "gavel",
+      "icon": "landmark",
       "category": "codals"
     },
     {
@@ -74,7 +74,7 @@
       "id": "NACHURA_2014_BOOK",
       "name": "Outline Reviewer in Political Law by Antonio Eduardo B. Nachura - 2014 Ed",
       "file": "NACHURA-2014_BOOK.json",
-      "icon": "building-2",
+      "icon": "landmark",
       "category": "other"
     },
     {
