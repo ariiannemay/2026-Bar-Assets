@@ -1,0 +1,452 @@
+{
+  "library": {
+    "id": "NACHURA_2014_BOOK",
+    "name": "Outline Reviewer in Political Law by Antonio Eduardo B. Nachura - 2014 Ed",
+    "icon": "building-2",
+    "category": "other"
+  },
+  "materials": [
+    {
+      "id": 2014001,
+      "name": "Outline Reviewer in Political Law by Antonio Eduardo B. Nachura - 2014 Ed",
+      "icon": "building-2",
+      "color": "#8D6E63",
+      "withPageCounter": true,
+      "totalPages": 773,
+      "topics": [
+        {
+          "id": 201400100,
+          "title": "CONSTITUTIONAL LAW",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201400101,
+              "title": "I. General Principles",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 1
+            },
+            {
+              "id": 201400102,
+              "title": "II. The Philippine Constitution",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 2
+            },
+            {
+              "id": 201400103,
+              "title": "III. The Philippines as a State",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 39
+            },
+            {
+              "id": 201400104,
+              "title": "IV. The Fundamental Power of the State",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 60
+            },
+            {
+              "id": 201400105,
+              "title": "V. Principles and State Policies",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 96
+            },
+            {
+              "id": 201400106,
+              "title": "VI. Bill of Rights",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 123
+            },
+            {
+              "id": 201400107,
+              "title": "VII. Citizenship",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 282
+            },
+            {
+              "id": 201400108,
+              "title": "VIII. The Legislative Department",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 302
+            },
+            {
+              "id": 201400109,
+              "title": "IX. The Executive Department",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 347
+            },
+            {
+              "id": 201400110,
+              "title": "X. The Judicial Department",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 378
+            },
+            {
+              "id": 201400111,
+              "title": "XI. Constitutional Commissions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 406
+            },
+            {
+              "id": 201400112,
+              "title": "XII. Local Government",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 434
+            },
+            {
+              "id": 201400113,
+              "title": "XIII. Accountability of Public Officers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 434
+            },
+            {
+              "id": 201400114,
+              "title": "XIV. National Economy and Patrimony",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 468
+            },
+            {
+              "id": 201400115,
+              "title": "XV. Social Justice and Human Rights",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 473
+            },
+            {
+              "id": 201400116,
+              "title": "XVI. Education, Science and Technology, Arts, Culture and Sports",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 481
+            },
+            {
+              "id": 201400117,
+              "title": "XVII. The Family",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 483
+            },
+            {
+              "id": 201400118,
+              "title": "XVIII. General Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 485
+            },
+            {
+              "id": 201400119,
+              "title": "XIX. Transitory Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 485
+            }
+          ]
+        },
+        {
+          "id": 201400120,
+          "title": "ADMINISTRATIVE LAW",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201400121,
+              "title": "I. General Principles",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 493
+            },
+            {
+              "id": 201400122,
+              "title": "II. Powers of Administrative Bodies",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 495
+            },
+            {
+              "id": 201400123,
+              "title": "III. Exhaustion of Administrative Remedies",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 513
+            },
+            {
+              "id": 201400124,
+              "title": "IV. Judicial Review of Administrative Decisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 523
+            }
+          ]
+        },
+        {
+          "id": 201400125,
+          "title": "LAW OF PUBLIC OFFICERS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201400126,
+              "title": "I. General Principles",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 531
+            },
+            {
+              "id": 201400127,
+              "title": "II. Eligibility and Qualifications",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 533
+            },
+            {
+              "id": 201400128,
+              "title": "III. De Facto Officers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 537
+            },
+            {
+              "id": 201400129,
+              "title": "IV. Commencement of Official Relations",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 540
+            },
+            {
+              "id": 201400130,
+              "title": "V. Powers and Duties of Public Officers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 561
+            },
+            {
+              "id": 201400131,
+              "title": "VI. Liability of Public Officers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 568
+            },
+            {
+              "id": 201400132,
+              "title": "VII. Rights of Public Officers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 573
+            },
+            {
+              "id": 201400133,
+              "title": "VIII. Termination of Official Relationship",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 583
+            }
+          ]
+        },
+        {
+          "id": 201400134,
+          "title": "SUFFRAGE AND ELECTION LAWS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201400135,
+              "title": "I. General Principles",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 615
+            },
+            {
+              "id": 201400136,
+              "title": "II. The Commission on Elections",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 620
+            },
+            {
+              "id": 201400137,
+              "title": "III. Voters: Qualifications and Registration",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 645
+            },
+            {
+              "id": 201400138,
+              "title": "IV. Candidates; Certificates of Candidacy",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 649
+            },
+            {
+              "id": 201400139,
+              "title": "V. Campaign; Election Propaganda; Contributions and Expenses",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 665
+            },
+            {
+              "id": 201400140,
+              "title": "VI. Board of Election Inspectors; Watchers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 670
+            },
+            {
+              "id": 201400141,
+              "title": "VII. Casting and Counting of Votes",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 672
+            },
+            {
+              "id": 201400142,
+              "title": "VIII. Canvass and Proclamation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 677
+            },
+            {
+              "id": 201400143,
+              "title": "IX. Pre-Proclamation Controversy",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 681
+            },
+            {
+              "id": 201400144,
+              "title": "X. Election Contests",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 682
+            },
+            {
+              "id": 201400145,
+              "title": "XI. Election Offenses",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 689
+            }
+          ]
+        },
+        {
+          "id": 201400146,
+          "title": "LOCAL GOVERNMENT",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201400147,
+              "title": "I. General Principles",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 695
+            },
+            {
+              "id": 201400148,
+              "title": "II. General Powers and Attributes of Local Government Units",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 713
+            },
+            {
+              "id": 201400149,
+              "title": "III. Municipal Liability",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 740
+            },
+            {
+              "id": 201400150,
+              "title": "IV. Local Officials",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 745
+            },
+            {
+              "id": 201400151,
+              "title": "V. Inter-Governmental Relations",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 764
+            },
+            {
+              "id": 201400152,
+              "title": "VI. Local Initiative and Referendum",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 769
+            },
+            {
+              "id": 201400153,
+              "title": "VII. Local Government Units",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 772
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
