@@ -2,14 +2,14 @@
   "library": {
     "id": "ROC_CODAL",
     "name": "RULES OF COURT",
-    "icon": "scale",
+    "icon": "gavel",
     "category": "codals"
   },
   "materials": [
     {
       "id": 1964001,
       "name": "RULES OF COURT",
-      "icon": "scale",
+      "icon": "gavel",
       "color": "#330066",
       "topics": [
         {
