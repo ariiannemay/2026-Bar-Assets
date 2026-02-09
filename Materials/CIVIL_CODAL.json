@@ -21,7 +21,7 @@
             {
               "id": 188900101,
               "title": "PRELIMINARY TITLE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -51,7 +51,7 @@
             {
               "id": 188900105,
               "title": "TITLE I - CIVIL PERSONALITY",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -80,7 +80,7 @@
             {
               "id": 188900109,
               "title": "TITLE II - CITIZENSHIP AND DOMICILE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -123,35 +123,35 @@
             {
               "id": 188900115,
               "title": "TITLE III-IX - REPEALED BY EO 209 \"FAMILY CODE\"",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900116,
               "title": "TITLE X - FUNERALS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900117,
               "title": "TITLE XII - CARE AND EDUCATION OF CHILDREN",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900118,
               "title": "TITLE XIII - USE OF SURNAMES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900119,
               "title": "TITLE XIV - ABSENCE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -194,14 +194,14 @@
             {
               "id": 188900125,
               "title": "TITLE XV - REPEALED BY EO 209 \"FAMILY CODE\"",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900126,
               "title": "TITLE XVI - CIVIL REGISTER",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             }
@@ -216,7 +216,7 @@
             {
               "id": 188900128,
               "title": "TITLE I - CLASSIFICATION OF PROPERTY",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -252,7 +252,7 @@
             {
               "id": 188900133,
               "title": "TITLE II - OWNERSHIP",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -310,14 +310,14 @@
             {
               "id": 188900141,
               "title": "TITLE III - CO-OWNERSHIP",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900142,
               "title": "TITLE IV - SOME SPECIAL PROPERTIES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -382,7 +382,7 @@
             {
               "id": 188900151,
               "title": "TITLE V - POSSESSION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -411,7 +411,7 @@
             {
               "id": 188900155,
               "title": "TITLE VI - USUFRUCT",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -447,7 +447,7 @@
             {
               "id": 188900160,
               "title": "TITLE VII - EASEMENTS OR SERVITUDES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -562,14 +562,14 @@
             {
               "id": 188900176,
               "title": "TITLE VIII - NUISANCE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900177,
               "title": "TITLE IX - REGISTRY OF PROPERTY",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             }
@@ -584,28 +584,28 @@
             {
               "id": 188900179,
               "title": "PRELIMINARY PROVISION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900180,
               "title": "Title I – OCCUPATION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900181,
               "title": "Title II – INTELLECTUAL CREATION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900182,
               "title": "Title III – DONATION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -641,7 +641,7 @@
             {
               "id": 188900187,
               "title": "Title IV – SUCCESSION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -915,7 +915,7 @@
             {
               "id": 188900225,
               "title": "Title V – PRESCRIPTION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -952,7 +952,7 @@
             {
               "id": 188900230,
               "title": "TITLE I – OBLIGATIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1074,7 +1074,7 @@
             {
               "id": 188900247,
               "title": "TITLE II – CONTRACTS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1167,21 +1167,21 @@
             {
               "id": 188900260,
               "title": "TITLE III - NATURAL OBLIGATIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900261,
               "title": "TITLE IV - ESTOPPEL",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900262,
               "title": "TITLE V - TRUSTS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1210,7 +1210,7 @@
             {
               "id": 188900266,
               "title": "TITLE VI - SALES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1333,14 +1333,14 @@
             {
               "id": 188900283,
               "title": "TITLE VII - BARTER OR EXCHANGE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900284,
               "title": "TITLE VIII - LEASE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1456,7 +1456,7 @@
             {
               "id": 188900300,
               "title": "TITLE IX - PARTNERSHIP",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1492,7 +1492,7 @@
             {
               "id": 188900305,
               "title": "TITLE X – AGENCY",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1528,7 +1528,7 @@
             {
               "id": 188900310,
               "title": "TITLE XI - LOAN",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1579,7 +1579,7 @@
             {
               "id": 188900317,
               "title": "TITLE XII - DEPOSIT",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1637,7 +1637,7 @@
             {
               "id": 188900325,
               "title": "TITLE XIII - ALEATORY CONTRACTS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1673,7 +1673,7 @@
             {
               "id": 188900330,
               "title": "TITLE XIV - COMPROMISES AND ARBITRATIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1695,7 +1695,7 @@
             {
               "id": 188900333,
               "title": "TITLE XV - GUARANTY",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1753,7 +1753,7 @@
             {
               "id": 188900341,
               "title": "TITLE XVI - PLEDGE, MORTGAGE AND ANTICHRESIS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1796,7 +1796,7 @@
             {
               "id": 188900347,
               "title": "TITLE XVII - EXTRA-CONTRACTUAL OBLIGATIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1840,7 +1840,7 @@
             {
               "id": 188900353,
               "title": "TITLE XVIII - DAMAGES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1905,7 +1905,7 @@
             {
               "id": 188900362,
               "title": "TITLE XIX - CONCURRENCE AND PREFERENCE OF CREDITS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1934,21 +1934,21 @@
             {
               "id": 188900366,
               "title": "TRANSITIONAL PROVISIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900367,
               "title": "REPEALING CLAUSE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             },
             {
               "id": 188900368,
               "title": "GENERAL PROVISIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": []
             }
