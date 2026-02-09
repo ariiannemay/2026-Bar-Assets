@@ -25,21 +25,21 @@
       "id": "LABOR_CODAL",
       "name": "LABOR CODE",
       "file": "LABOR_CODAL.json",
-      "icon": "handshake",
+      "icon": "heart-handshake",
       "category": "codals"
     },
     {
       "id": "LGC_CODAL",
       "name": "LOCAL GOVERNMENT CODE OF 1991",
       "file": "LGC_CODAL.json",
-      "icon": "building-2",
+      "icon": "landmark",
       "category": "codals"
     },
     {
       "id": "TAX_CODE",
       "name": "NIRC (TAX CODE)",
       "file": "TAX_CODE.json",
-      "icon": "banknote",
+      "icon": "hand-coins",
       "category": "codals"
     },
     {
@@ -53,7 +53,7 @@
       "id": "ROC_CODAL",
       "name": "RULES OF COURT",
       "file": "ROC_CODAL.json",
-      "icon": "scale",
+      "icon": "gavel",
       "category": "codals"
     },
     {
