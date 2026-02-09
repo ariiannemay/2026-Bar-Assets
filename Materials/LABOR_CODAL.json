@@ -1,0 +1,2915 @@
+{
+  "library": {
+    "id": "LABOR_CODAL",
+    "name": "LABOR CODE",
+    "icon": "handshake",
+    "category": "codals"
+  },
+  "materials": [
+    {
+      "id": 1974001,
+      "name": "LABOR CODE",
+      "icon": "handshake",
+      "color": "#38761D",
+      "topics": [
+        {
+          "id": 197400100,
+          "title": "PRELIMINARIES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 197400101,
+              "title": "PRELIMINARY TITLE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400102,
+                  "title": "CHAPTER I – GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400103,
+                      "title": "ART. 1 – Name of Decree",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400104,
+                      "title": "ART. 2 – Date of Effectivity",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400105,
+                      "title": "ART. 3 – Declaration of Basic Policy",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400106,
+                      "title": "ART. 4 – Construction in Favor of Labor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400107,
+                      "title": "ART. 5 – Rules and Regulations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400108,
+                      "title": "ART. 6 – Applicability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400109,
+                  "title": "CHAPTER II – EMANCIPATION OF TENANTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400110,
+                      "title": "ART. 7 – Statement of Objectives",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400111,
+                      "title": "ART. 8 – Transfer of Lands to Tenant-Workers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400112,
+                      "title": "ART. 9 – Determination of Land Value",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400113,
+                      "title": "ART. 10 – Conditions of Ownership",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400114,
+                      "title": "ART. 11 – Implementing Agency",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 197400115,
+          "title": "BOOK I PRE-EMPLOYMENT",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 197400116,
+              "title": "ART. 12 – Statement of Objectives",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 197400117,
+              "title": "TITLE I – RECRUITMENT AND PLACEMENT OF WORKERS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400118,
+                  "title": "CHAPTER I – GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400119,
+                      "title": "ART. 13 – Definitions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400120,
+                      "title": "ART. 14 – Employment Promotion",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400121,
+                      "title": "ART. 15 – Bureau of Employment Services",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400122,
+                      "title": "ART. 16 – Private Recruitment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400123,
+                      "title": "ART. 17 – Overseas Employment Development Board",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400124,
+                      "title": "ART. 18 – Ban on Direct-Hiring",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400125,
+                      "title": "ART. 19 – Office of Emigrant Affairs",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400126,
+                      "title": "ART. 20 – National Seamen Board",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400127,
+                      "title": "ART. 21 – Foreign Service Role and Participation",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400128,
+                      "title": "ART. 22 – Mandatory Remittance of Foreign Exchange Earnings",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400129,
+                      "title": "ART. 23 – Composition of the Boards",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400130,
+                      "title": "ART. 24 – Boards to Issue Rules and Collect Fees",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400131,
+                  "title": "CHAPTER II – REGULATION OF RECRUITMENT AND PLACEMENT ACTIVITIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400132,
+                      "title": "ART. 25 – Private Sector Participation in the Recruitment and Placement of Workers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400133,
+                      "title": "ART. 26 – Travel Agencies Prohibited to Recruit",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400134,
+                      "title": "ART. 27 – Citizenship Requirement",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400135,
+                      "title": "ART. 28 – Capitalization",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400136,
+                      "title": "ART. 29 – Non-transferability of License or Authority",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400137,
+                      "title": "ART. 30 – Registration Fees",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400138,
+                      "title": "ART. 31 – Bonds",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400139,
+                      "title": "ART. 32 – Fees to be Paid by Workers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400140,
+                      "title": "ART. 33 – Reports on Employment Status",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400141,
+                      "title": "ART. 34 – Prohibited Practices",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400142,
+                      "title": "ART. 35 – Suspension and/or Cancellation of License or Authority",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400143,
+                  "title": "CHAPTER III – MISCELLANEOUS PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400144,
+                      "title": "ART. 36 – Regulatory Power",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400145,
+                      "title": "ART. 37 – Visitorial Power",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400146,
+                      "title": "ART. 38 – Illegal Recruitment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400147,
+                      "title": "ART. 39 – Penalties",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400148,
+              "title": "TITLE II – EMPLOYMENT OF NON-RESIDENT ALIENS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400149,
+                  "title": "ART. 40 – Employment Permit of Non-Resident Aliens",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400150,
+                  "title": "ART. 41 – Prohibition against Transfer of Employment",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400151,
+                  "title": "ART. 42 – Submission of List",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 197400152,
+          "title": "BOOK II HUMAN RESOURCES DEVELOPMENT PROGRAM",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 197400153,
+              "title": "TITLE I – NATIONAL MANPOWER DEVELOPMENT PROGRAM (Arts. 43-56 are repealed by RA 7796 or the TESDA Act of 1994)",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400154,
+                  "title": "CHAPTER I – NATIONAL POLICIES AND ADMINISTRTIVE MACHINERY FOR THEIR IMPLEMENTATION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400155,
+                      "title": "ART. 43 – Statement of Objective",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400156,
+                      "title": "ART. 44 – Definitions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400157,
+                      "title": "ART. 45 – National Manpower and Youth Council; Composition",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400158,
+                      "title": "ART. 46 – National Manpower Plan",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400159,
+                      "title": "ART. 47 – National Manpower Skills Center",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400160,
+                      "title": "ART. 48 – Establishment and Formulation of Skills Standards",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400161,
+                      "title": "ART. 49 – Administration of Training Programs",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400162,
+                      "title": "ART. 50 – Industry Board",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400163,
+                      "title": "ART. 51 – Employment Service Training Functions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400164,
+                      "title": "ART. 52 – Incentive Scheme",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400165,
+                      "title": "ART. 53 – Council Secretariat",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400166,
+                      "title": "ART. 54 – Regional Manpower Development Offices",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400167,
+                      "title": "ART. 55 – Consultants and Technical Assistance, Publication, and Research",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400168,
+                      "title": "ART. 56 – Rules and Regulations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400169,
+              "title": "TITLE II – TRAINING AND EMPLOYMENT OF SPECIAL WORKERS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400170,
+                  "title": "CHAPTER I – APPRENTICES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400171,
+                      "title": "ART. 57 – Statement of Objectives",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400172,
+                      "title": "ART. 58 – Definition of Terms",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400173,
+                      "title": "ART. 59 – . Qualifications of Apprentice",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400174,
+                      "title": "ART. 60 – Employment of Apprentices",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400175,
+                      "title": "ART. 61 – Contents of Apprenticeship Agreements",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400176,
+                      "title": "ART. 62 – Signing of Apprenticeship Agreement",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400177,
+                      "title": "ART. 63 – Venue of Apprenticeship Programs",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400178,
+                      "title": "ART. 64 – Sponsoring of Apprenticeship Program",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400179,
+                      "title": "ART. 65 – Investigation of Violation of Apprenticeship Agreement",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400180,
+                      "title": "ART. 66 – Appeal to the Secretary of Labor and Employment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400181,
+                      "title": "ART. 67 – Exhaustion of Administrative Remedies",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400182,
+                      "title": "ART. 68 – Aptitude Testing of Applicants",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400183,
+                      "title": "ART. 69 – Responsibility for Theoretical Instruction",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400184,
+                      "title": "ART. 70 – Voluntary Organization of Apprenticeship Programs; Exemptions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400185,
+                      "title": "ART. 71 – Deductibility of Training Costs",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400186,
+                      "title": "ART. 72 – Apprentices without Compensation",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400187,
+                  "title": "CHAPTER II – LEARNERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400188,
+                      "title": "ART. 73 – Learners Defined",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400189,
+                      "title": "ART. 74 – When Learners may be Hired",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400190,
+                      "title": "ART. 75 – Learnership Agreement",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400191,
+                      "title": "ART. 76 – Learners in Piecework",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400192,
+                      "title": "ART. 77 – Penalty Clause",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400193,
+                  "title": "CHAPTER III – HANDICAPPED WORKERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400194,
+                      "title": "ART. 78 – Definition",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400195,
+                      "title": "ART. 79 – When Employable",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400196,
+                      "title": "ART. 80 – Employment Agreement",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400197,
+                      "title": "ART. 81 – Eligibility for Apprenticeship",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 197400198,
+          "title": "BOOK III CONDITIONS OF EMPLOYMENT",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 197400199,
+              "title": "TITLE I – WORKING CONDITIONS ND REST PERIODS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400200,
+                  "title": "CHAPTER I – HOURS OF WORK",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400201,
+                      "title": "ART. 82 – Coverage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400202,
+                      "title": "ART. 83 – Normal Hours of Work",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400203,
+                      "title": "ART. 84 – Hours Worked",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400204,
+                      "title": "ART. 85 – Meal Periods",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400205,
+                      "title": "ART. 86 – Night-Shift Differential",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400206,
+                      "title": "ART. 87 – Overtime Work",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400207,
+                      "title": "ART. 88 – Undertime Not Offset by Overtime",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400208,
+                      "title": "ART. 89 – Emergency Overtime Work",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400209,
+                      "title": "ART. 90 – Computation of Additional Compensation",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400210,
+                  "title": "CHAPTER II – WEEKLY REST PERIODS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400211,
+                      "title": "ART. 91 – Right to Weekly Rest Day",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400212,
+                      "title": "ART. 92 – When Employer May Require Work on a Rest Day",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400213,
+                      "title": "ART. 93 – Compensation for Rest Day, Sunday or Holiday Work",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400214,
+                  "title": "CHAPTER III – HOLIDAYS, SERVICE INCENTIVE LEAVES, AND SERVICE CHARGES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400215,
+                      "title": "ART. 94 – Right to Holiday Pay",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400216,
+                      "title": "ART. 95 – Right to Service Incentive Leave",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400217,
+                      "title": "ART. 96 – Service Charges",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400218,
+              "title": "TITLE II – WAGES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400219,
+                  "title": "CHAPTER I – PRELIMINARY MATTERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400220,
+                      "title": "ART. 97 – Definitions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400221,
+                      "title": "ART. 98 – Application of Title",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400222,
+                  "title": "CHAPTER II – MINIMUM WAGE RATES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400223,
+                      "title": "ART. 99 – Regional Minimum Wages",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400224,
+                      "title": "ART. 100 – Prohibition against Elimination or Diminution of Benefits",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400225,
+                      "title": "ART. 101 – Payment by Results",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400226,
+                  "title": "CHAPTER III – PAYMENT OF WAGES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400227,
+                      "title": "ART. 102 – Forms of Payment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400228,
+                      "title": "ART. 103 – Time of Payment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400229,
+                      "title": "ART. 104 – Place of Payment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400230,
+                      "title": "ART. 105 – Direct Payment of Wages",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400231,
+                      "title": "ART. 106 – Contractor or Subcontractor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400232,
+                      "title": "ART. 107 – Indirect Employer",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400233,
+                      "title": "ART. 108 – Posting of Bond",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400234,
+                      "title": "ART. 109 – Solidary Liability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400235,
+                      "title": "ART. 110 – Worker Preference in Case of Bankruptcy",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400236,
+                      "title": "ART. 111 – Attorney's Fees",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400237,
+                  "title": "CHAPTER IV – PROHIBITIONS REGARDING WAGES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400238,
+                      "title": "ART. 112 – Non-Interference in Disposal of Wages",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400239,
+                      "title": "ART. 113 – Wage Deduction",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400240,
+                      "title": "ART. 114 – Deposits for Loss or Damage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400241,
+                      "title": "ART. 115 – Limitations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400242,
+                      "title": "ART. 116 – Withholding of Wages and Kickbacks Prohibited",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400243,
+                      "title": "ART. 117 – Deduction to Ensure Employment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400244,
+                      "title": "ART. 118 – Retaliatory Measures",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400245,
+                      "title": "ART. 119 – False Reporting",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400246,
+                  "title": "CHAPTER V – WAGES STUDIES, WAGE AGREEMENTS, AND WAGE DETERMINATION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400247,
+                      "title": "ART. 120 – Creation of National Wages and Productivity Commission",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400248,
+                      "title": "ART. 121 – Powers and Functions of the Commission",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400249,
+                      "title": "ART. 122 – Creation of Regional Tripartite Wages and Productivity Boards",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400250,
+                      "title": "ART. 123 – Wage Order",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400251,
+                      "title": "ART. 124 – Standards/Criteria for Minimum Wage Fixing",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400252,
+                      "title": "ART. 125 – Freedom to Bargain",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400253,
+                      "title": "ART. 126 – Prohibition against Injunction",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400254,
+                      "title": "ART. 127 – Non-Diminution of Benefits",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400255,
+                  "title": "CHAPTER VI – ADMINISTRATION AND ENFORCEMENT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400256,
+                      "title": "ART. 128 – Visitorial and Enforcement Power",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400257,
+                      "title": "ART. 129 – Recovery of Wages, Simple Money Claims and Other Benefits",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400258,
+              "title": "TITLE III – WORKING CONDITIONS FOR SPECIAL GROUPS OF EMPLOYEES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400259,
+                  "title": "CHAPTER I – EMPLOYMENT OF WOMEN",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400260,
+                      "title": "ART. 130 – Facilities for Women",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400261,
+                      "title": "ART. 131 – Maternity Leave Benefits",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400262,
+                      "title": "ART. 132 – Family Planning Services; Incentives for Family Planning",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400263,
+                      "title": "ART. 133 – Discrimination Prohibited",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400264,
+                      "title": "ART. 134 – Stipulation against Marriage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400265,
+                      "title": "ART. 135 – Prohibited Acts",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400266,
+                      "title": "ART. 136 – Classification of Certain Women Workers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400267,
+                  "title": "CHAPTER II – EMPLOYMENT OF MINORS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400268,
+                      "title": "ART. 137 – Minimum Employable Age",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400269,
+                      "title": "ART. 138 – Prohibition against Child Discrimination",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400270,
+                  "title": "CHAPTER III – EMPLOYMENT OF HOUSEHELPERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400271,
+                      "title": "ART. 139 – Coverage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400272,
+                      "title": "ART. 140 – Contract of Domestic Service",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400273,
+                      "title": "ART. 141 – Minimum Wage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400274,
+                      "title": "ART. 142 – Minimum Cash Wage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400275,
+                      "title": "ART. 143 – Assignment to Non-Household Work",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400276,
+                      "title": "ART. 144 – Opportunity for Education",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400277,
+                      "title": "ART. 145 – Treatment of Househelpers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400278,
+                      "title": "ART. 146 – Board, Lodging, and Medical Attendance",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400279,
+                      "title": "ART. 147 – Indemnity for Unjust Termination of Services",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400280,
+                      "title": "ART. 148 – Service of Termination Notice",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400281,
+                      "title": "ART. 149 – Employment Certification",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400282,
+                      "title": "ART. 150 – Employment Record",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400283,
+                  "title": "CHAPTER IV – EMPLOYMENT OF HOMEWORKERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400284,
+                      "title": "ART. 151 – Regulation of Industrial Homeworkers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400285,
+                      "title": "ART. 152 – Regulations of Secretary of Labor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400286,
+                      "title": "ART. 153 – Distribution of Homework",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400287,
+                  "title": "CHAPTER V – EMPLOYMENT OF NIGHT WORKERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400288,
+                      "title": "ART. 154 – Coverage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400289,
+                      "title": "ART. 155 – Health Assessment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400290,
+                      "title": "ART. 156 – Mandatory Facilities",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400291,
+                      "title": "ART. 157 – Transfer",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400292,
+                      "title": "ART. 158 – Women Night Workers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400293,
+                      "title": "ART. 159 – Compensation",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400294,
+                      "title": "ART. 160 – Social Services",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400295,
+                      "title": "ART. 161 – Night Work Schedules",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 197400296,
+          "title": "BOOK IV HEALTH, SAFETY AND SOCIAL WELFARE BENEFITS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 197400297,
+              "title": "TITLE I – MEDICAL, DENTAL AND OCCUPATIONAL SAFETY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400298,
+                  "title": "CHAPTER I – MEDICAL AND DENTAL SERVICES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400299,
+                      "title": "ART. 162 – First-Aid Treatment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400300,
+                      "title": "ART. 163 – Emergency Medical and Dental Services",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400301,
+                      "title": "ART. 164 – When Emergency Hospital Not Required",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400302,
+                      "title": "ART. 165 – Health Program",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400303,
+                      "title": "ART. 166 – Qualifications of Health Personnel",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400304,
+                      "title": "ART. 167 – Assistance of Employer",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400305,
+                  "title": "CHAPTER II – OCCUPATIONAL HEALTH AND SAFETY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400306,
+                      "title": "ART. 168 – Safety and Health Standards",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400307,
+                      "title": "ART. 169 – Research",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400308,
+                      "title": "ART. 170 – Training Programs",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400309,
+                      "title": "ART. 171 – Administration of Safety and Health Laws",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400310,
+              "title": "TITLE II – EMPLOYEES COMPENSATION AND STATE INSURANCE FUND",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400311,
+                  "title": "CHAPTER I – POLICY AND DEFINITIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400312,
+                      "title": "ART. 172 – Policy",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400313,
+                      "title": "ART. 173 – Definition of Terms",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400314,
+                  "title": "CHAPTER II – COVERAGE AND LIABILITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400315,
+                      "title": "ART. 174 – Compulsory Coverage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400316,
+                      "title": "ART. 175 – Foreign Employment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400317,
+                      "title": "ART. 176 – Effective Date of Coverage",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400318,
+                      "title": "ART. 177 – Registration",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400319,
+                      "title": "ART. 178 – Limitation of Liability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400320,
+                      "title": "ART. 179 – Extent of Liability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400321,
+                      "title": "ART. 180 – Liability of Third Parties",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400322,
+                      "title": "ART. 181 – Deprivation of the Benefits",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400323,
+                  "title": "CHAPTER III – ADMINISTRATION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400324,
+                      "title": "ART. 182 – Employees' Compensation Commission",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400325,
+                      "title": "ART. 183 – Powers and Duties",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400326,
+                      "title": "ART. 184 – Management of Funds",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400327,
+                      "title": "ART. 185 – Investment of Funds",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400328,
+                      "title": "ART. 186 – Settlement of Claims",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400329,
+                      "title": "ART. 187 – Review",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400330,
+                      "title": "ART. 188 – Enforcement of Decisions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400331,
+                  "title": "CHAPTER IV – CONTRIBUTIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400332,
+                      "title": "ART. 189 – Employers' Contributions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400333,
+                      "title": "ART. 190 – Government Guarantee",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400334,
+                  "title": "CHAPTER V – MEDICAL BENEFITS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400335,
+                      "title": "ART. 191 – Medical Services",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400336,
+                      "title": "ART. 192 – Liability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400337,
+                      "title": "ART. 193 – Attending Physician",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400338,
+                      "title": "ART. 194 – Refusal of Examination or Treatment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400339,
+                      "title": "ART. 195 – Fees and Other Charges",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400340,
+                      "title": "ART. 196 – Rehabilitation Services",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400341,
+                  "title": "CHAPTER VI – DISABILITY BENEFITS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400342,
+                      "title": "ART. 197 – Temporary Total Disability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400343,
+                      "title": "ART. 198 – Permanent Total Disability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400344,
+                      "title": "ART. 199 – Permanent Partial Disability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400345,
+                  "title": "CHAPTER VII – DEATH BENEFITS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400346,
+                      "title": "ART. 200 – Death",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400347,
+                  "title": "CHAPTER VIII – PROVISIONS COMMON TO INCOME BENEFITS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400348,
+                      "title": "ART. 201 – Relationship and Dependency",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400349,
+                      "title": "ART. 202 – Delinquent Contributions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400350,
+                      "title": "ART. 203 – Second Injuris",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400351,
+                      "title": "ART. 204 – Assignment of Benefits",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400352,
+                      "title": "ART. 205 – Earned Benefits",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400353,
+                      "title": "ART. 206 – Safety Devices",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400354,
+                      "title": "ART. 207 – Prescriptive Period",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400355,
+                      "title": "ART. 208 – Erroneous Payment",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400356,
+                      "title": "ART. 209 – Prohibition",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400357,
+                      "title": "ART. 210 – Exemption from Levy, Tax, etc.",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400358,
+                  "title": "CHAPTER IX – RECORDS, REPORTS AND PENAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400359,
+                      "title": "ART. 211 – Record of Death or Disability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400360,
+                      "title": "ART. 212 – Notice of Sickness, Injury or Death",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400361,
+                      "title": "ART. 213 – Penal Provisions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400362,
+                      "title": "ART. 214 – Applicability",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400363,
+                      "title": "ART. 215 – Repeal",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400364,
+              "title": "TITLE III – MEDICARE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400365,
+                  "title": "ART. 216 – Medical Care",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 197400366,
+              "title": "TITLE IV – ADULT EDUCATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400367,
+                  "title": "ART. 217 – Adult Education",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 197400368,
+          "title": "BOOK V LABOR RELATIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 197400369,
+              "title": "TITLE I – POLICY AND DEFINITIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400370,
+                  "title": "CHAPTER I – POLICY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400371,
+                      "title": "ART. 218 – Declaration of Policy",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400372,
+                  "title": "CHAPTER II – DEFINITIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400373,
+                      "title": "ART. 219 – Definitions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400374,
+              "title": "TITLE II – NATIONAL LABOR RELATIONS COMMISSION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400375,
+                  "title": "CHAPTER I – POLICY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400376,
+                      "title": "ART. 220 – National Labor Relations Commission",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400377,
+                      "title": "ART. 221 – Headquarters, Branches and Provincial Extension Units",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400378,
+                      "title": "ART. 222 – Appointment and Qualifications",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400379,
+                      "title": "ART. 223 – Salaries, Benefits and Emoluments",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400380,
+                  "title": "CHAPTER II – POWERS AND DUTIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400381,
+                      "title": "ART. 224 – Jurisdiction of the Labor Arbiters and the Commission",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400382,
+                      "title": "ART. 225 – Powers of the Commission",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400383,
+                      "title": "ART. 226 – Ocular Inspection",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400384,
+                      "title": "ART. 227 – Technical Rules Not Binding and Prior Resort to Amicable Settlement",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400385,
+                      "title": "ART. 228 – Appearances and Fees",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400386,
+                  "title": "CHAPTER III – APPEAL",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400387,
+                      "title": "ART. 229 – Appeal",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400388,
+                      "title": "ART. 230 – Execution of Decisions, Orders, or Awards",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400389,
+                      "title": "ART. 231 – Contempt Powers of the Secretary",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400390,
+              "title": "TITLE III – BUREAU OF LABOR RELATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400391,
+                  "title": "ART. 232 – Bureau of Labor Relations",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400392,
+                  "title": "ART. 233 – Compromise Agreements",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400393,
+                  "title": "ART. 234 – Mandatory Conciliation and Endorsement of Cases",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400394,
+                  "title": "ART. 235 – Issuance of Subpoenas",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400395,
+                  "title": "ART. 236 – Appointment of Bureau Personnel",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400396,
+                  "title": "ART. 237 – Registry of Unions and File of Collective Bargaining Agreements",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400397,
+                  "title": "ART. 238 – Prohibition on Certification Election",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400398,
+                  "title": "ART. 239 – Privileged Communication",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 197400399,
+              "title": "TITLE IV – LABOR ORGANIZATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400400,
+                  "title": "CHAPTER I – REGISTRATION AND CANCELLATION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400401,
+                      "title": "ART. 240 – Requirements of Registration",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400402,
+                      "title": "ART. 241 – Chartering and Creation of a Local Chapter",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400403,
+                      "title": "ART. 242 – Action on Application",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400404,
+                      "title": "ART. 243 – Denial of Registration; Appeal",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400405,
+                      "title": "ART. 244 – Additional Requirements for Federations or National Unions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400406,
+                      "title": "ART. 245 – Cancellation of Registration",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400407,
+                      "title": "ART. 246 – Effect of a Petition for Cancellation of Registration",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400408,
+                      "title": "ART. 247 – Grounds for Cancellation of Union Registration",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400409,
+                      "title": "ART. 248 – Voluntary Cancellation of Registration",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400410,
+                      "title": "ART. 249 – Equity of the Incumbent",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400411,
+                  "title": "CHAPTER II – RIGHTS AND CONDITIONS OF MEMBERSHIP",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400412,
+                      "title": "ART. 250 – Rights and Conditions of Membership in a Labor Organization",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400413,
+                  "title": "CHAPTER III – RIGHTS OF LEGITIMATE LABOR ORGANIZATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400414,
+                      "title": "ART. 251 – Rights of Legitimate Labor Organizations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400415,
+                      "title": "ART. 252 – Reportorial Requirements",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400416,
+              "title": "TITLE V – COVERAGE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400417,
+                  "title": "ART. 253 – Coverage and Employees' Right to Self-Organization",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400418,
+                  "title": "ART. 254 – Right of Employees in the Public Service",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400419,
+                  "title": "ART. 255 – Ineligibility of Managerial Employees to Join Any Labor Organization; Right of Supervisory Employees",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400420,
+                  "title": "ART. 256 – Effect of Inclusion as Members of Employees Outside the Bargaining Unit",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400421,
+                  "title": "ART. 257 – Non-Abridgment of Right to Self-Organization",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 197400422,
+              "title": "TITLE VI – UNFAIR LABOR PRACTICES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400423,
+                  "title": "CHAPTER I – CONCEPT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400424,
+                      "title": "ART. 258 – Concept of Unfair Labor Practice and Procedure for Prosecution Thereof",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400425,
+                  "title": "CHAPTER II – UNFAIR LABOR PRACTICES OF EMPLOYERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400426,
+                      "title": "ART. 259 – Unfair Labor Practices of Employers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400427,
+                  "title": "CHAPTER III – UNFAIR LABOR PRACTICES OF LABOR ORGANIZATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400428,
+                      "title": "ART. 260 – Unfair Labor Practices of Labor Organizations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400429,
+              "title": "TITLE VII – COLLECTIVE BARGAINING AND ADMINISTRATION OF AGREEMENTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400430,
+                  "title": "ART. 261 – Procedure in Collective Bargaining",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400431,
+                  "title": "ART. 262 – Duty to Bargain Collectively in the Absence of Collective Bargaining Agreements",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400432,
+                  "title": "ART. 263 – Meaning of Duty to Bargain Collectively",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400433,
+                  "title": "ART. 264 – Duty to Bargain Collectively When There Exists a Collective Bargaining Agreement",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400434,
+                  "title": "ART. 265 – Terms of a Collective Bargaining Agreement",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400435,
+                  "title": "ART. 266 – Injunction Prohibited",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400436,
+                  "title": "ART. 267 – Exclusive Bargaining Representation and Workers' Participation in Policy and Decision-Making",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400437,
+                  "title": "ART. 268 – Representation Issue in Organized Establishment",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400438,
+                  "title": "ART. 269 – Petitions in Unorganized Establishments",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400439,
+                  "title": "ART. 270 – When an Employer May File Petition",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400440,
+                  "title": "ART. 271 – Employer as Bystander",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400441,
+                  "title": "ART. 272 – Appeal from Certification Election Orders",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 197400442,
+              "title": "TITLE VII-A – GRIEVANCE MACHINERY AND VOLUNTARY ARBITRATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400443,
+                  "title": "ART. 273 – Grievance Machinery and Voluntary Arbitration",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400444,
+                  "title": "ART. 274 – Jurisdiction of Voluntary Arbitrators and Panel of Voluntary Arbitrators",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400445,
+                  "title": "ART. 275 – Jurisdiction over Other Labor Disputes",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400446,
+                  "title": "ART. 276 – Procedures",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400447,
+                  "title": "ART. 277 – Cost of Voluntary Arbitration and Voluntary Arbitrator's Fee",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 197400448,
+              "title": "TITLE VIII – STRIKES AND LOCKOUTS AND FOREIGN INVOLVEMENT IN TRADE UNION ACTIVITIES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400449,
+                  "title": "CHAPTER I – STRIKES AND LOCKOUTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400450,
+                      "title": "ART. 278 – Strikes, Picketing, and Lockouts",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400451,
+                      "title": "ART. 279 – Prohibited Activities",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400452,
+                      "title": "ART. 280 – Improved Offer Balloting",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400453,
+                      "title": "ART. 281 – Requirement for Arrest and Detention",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400454,
+                  "title": "CHAPTER II – ASSISTANCE TO LABOR ORGANIZATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400455,
+                      "title": "ART. 282 – Assistance by the Department of Labor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400456,
+                      "title": "ART. 283 – Assistance by the Institute of Labor and Manpower Studies",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400457,
+                  "title": "CHAPTER III – FOREIGN ACTIVITIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400458,
+                      "title": "ART. 284 – Prohibition against Aliens; Exception",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400459,
+                      "title": "ART. 285 – Regulations of Foreign Assistance",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 197400460,
+                      "title": "ART. 286 – Applicability to Farm Tenants and Rural Workers",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 197400461,
+                  "title": "CHAPTER IV – PENALTIES FOR VIOLATION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 197400462,
+                      "title": "ART. 287 – Penalties",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 197400463,
+              "title": "TITLE IX – SPECIAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400464,
+                  "title": "ART. 288 – Study of Labor-Management Relations",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400465,
+                  "title": "ART. 289 – Visitorial Power",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400466,
+                  "title": "ART. 290 – Tripartism, Tripartite Conferences, and Tripartite Industrial Peace Councils",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400467,
+                  "title": "ART. 291 – Government Employees",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400468,
+                  "title": "ART. 292 – Miscellaneous Provisions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 197400469,
+          "title": "BOOK VI POST-EMPLOYMENT",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 197400470,
+              "title": "TITLE I – TERMINATION OF EMPLOYMENT",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400471,
+                  "title": "ART. 293 – Coverage",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400472,
+                  "title": "ART. 294 – Security of Tenure",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400473,
+                  "title": "ART. 295 – Regular and Casual Employment",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400474,
+                  "title": "ART. 296 – Probationary Employment",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400475,
+                  "title": "ART. 297 – Termination by Employer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400476,
+                  "title": "ART. 298 – Closure of Establishment and Reduction of Personnel",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400477,
+                  "title": "ART. 299 – Disease as Ground for Termination",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400478,
+                  "title": "ART. 300 – Termination by Employee",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400479,
+                  "title": "ART. 301 – When Employment not Deemed Terminated",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 197400480,
+              "title": "TITLE II – RETIREMENT FROM THE SERVICE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400481,
+                  "title": "ART. 302 – Retirement",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400482,
+                  "title": "ART. 302-A – Retirement Age of Racehorse Jockeys",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 197400483,
+          "title": "BOOK VII TRANSITORY AND FINAL PROVISIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 197400484,
+              "title": "TITLE I – PENAL PROVISIONS AND LIABILITIES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400485,
+                  "title": "ART. 303 – Penalties",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400486,
+                  "title": "ART. 304 – Who are Liable When Committed by Other Than Natural Person",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 197400487,
+              "title": "TITLE II – PRESCRIPTION OF OFFENSES AND CLAIMS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 197400488,
+                  "title": "ART. 305 – Offenses",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400489,
+                  "title": "ART. 306 – Money Claims",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400490,
+                  "title": "ART. 307 – Institution of Money Claims",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400491,
+                  "title": "TITLE III – TRANSITORY AND FINAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400492,
+                  "title": "ART. 308 – Application of Law Enacted Prior to this Code",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400493,
+                  "title": "ART. 309 – Secretary of Labor to Initiate Integration of Maternity Leave Benefits",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400494,
+                  "title": "ART. 310 – Funding of the Overseas Employment Development Board and National Seamen's Board",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400495,
+                  "title": "ART. 311 – Termination of the Workmen's Compensation Program",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400496,
+                  "title": "ART. 312 – Continuation of Insurance Policies and Indemnity Bonds",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400497,
+                  "title": "ART. 313 – Abolition of the Court of Industrial Relations and the National Labor Relations Commission",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400498,
+                  "title": "ART. 314 – Disposition of Pending Cases",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400499,
+                  "title": "ART. 315 – Personnel Whose Services are Terminated",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400500,
+                  "title": "ART. 316 – Separability Provisions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 197400501,
+                  "title": "ART. 317 – Repealing Clause",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
