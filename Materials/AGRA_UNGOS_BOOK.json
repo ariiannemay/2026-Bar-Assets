@@ -1,0 +1,364 @@
+{
+  "library": {
+    "id": "AGRA_UNGOS_BOOK",
+    "name": "Agrarian Law and Social Legislation by Ungos - 2021 Ed",
+    "icon": "heart-handshake",
+    "category": "other"
+  },
+  "materials": [
+    {
+      "id": 2021004,
+      "name": "Agrarian Law and Social Legislation by Ungos - 2021 Ed",
+      "icon": "heart-handshake",
+      "color": "#38761D",
+      "withPageCounter": true,
+      "totalPages": 589,
+      "topics": [
+        {
+          "id": 202100400,
+          "title": "THE COMPREHENSIVE AGRARIAN REFORM LAW OF 1998",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202100401,
+              "title": "Chapter I - Preliminary Chapter",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 1
+            },
+            {
+              "id": 202100402,
+              "title": "Chapter II - Coverage",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 17
+            },
+            {
+              "id": 202100403,
+              "title": "Chapter III - Improvement of Tenurial and Labor Relations",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 57
+            },
+            {
+              "id": 202100404,
+              "title": "Chapter IV - Registration",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 59
+            },
+            {
+              "id": 202100405,
+              "title": "Chapter V - Land Acquisition",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 61
+            },
+            {
+              "id": 202100406,
+              "title": "Chapter VI - Just Compensation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 69
+            },
+            {
+              "id": 202100407,
+              "title": "Chapter VII - Land Redistribution",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 88
+            },
+            {
+              "id": 202100408,
+              "title": "Chapter VIII - Corporate Farms",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 111
+            },
+            {
+              "id": 202100409,
+              "title": "Chapter IX - Support Services",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 125
+            },
+            {
+              "id": 202100410,
+              "title": "Chapter X - Special Areas of Concern",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 135
+            },
+            {
+              "id": 202100411,
+              "title": "Chapter XI - Program Implementation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 137
+            },
+            {
+              "id": 202100412,
+              "title": "Chapter XII - Administrative Adjudication",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 146
+            },
+            {
+              "id": 202100413,
+              "title": "Chapter XIII - Judicial Review",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 166
+            },
+            {
+              "id": 202100414,
+              "title": "Chapter XIV - Financing",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 178
+            },
+            {
+              "id": 202100415,
+              "title": "Chapter XV - General Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 181
+            }
+          ]
+        },
+        {
+          "id": 202100416,
+          "title": "SOCIAL LEGISLATION LAWS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202100417,
+              "title": "PD 27 - The Tenant Emancipation Law",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 201
+            },
+            {
+              "id": 202100418,
+              "title": "RA 6389 - The Code of Agrarian Reforms of the Philippines",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 213
+            },
+            {
+              "id": 202100419,
+              "title": "RA 10361 - Domestic Workers Act / Batas Kasambahay",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 240
+            },
+            {
+              "id": 202100420,
+              "title": "RA 8042 - The Migrant Workers and Overseas Filipinos Act of 1995",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 260
+            },
+            {
+              "id": 202100421,
+              "title": "RA 10801 - Overseas Workers Welfare Administration Act",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 293
+            },
+            {
+              "id": 202100422,
+              "title": "RA 8187 - Paternity Leave Act of 1996",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 296
+            },
+            {
+              "id": 202100423,
+              "title": "RA 8972 - Solo Parent's Welfare Act of 2000",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 299
+            },
+            {
+              "id": 202100424,
+              "title": "RA 7277 - Magna Carta for Persons with Disability",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 305
+            },
+            {
+              "id": 202100425,
+              "title": "RA 7610 - Special Protection of Children Against Abuse, Exploitation and Discrimination Act",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 326
+            },
+            {
+              "id": 202100426,
+              "title": "RA 9710 - The Magna Carta for Women",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 361
+            },
+            {
+              "id": 202100427,
+              "title": "RA 9262 - Anti-Violence Against Women and Their Childen Act of 2004",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 380
+            },
+            {
+              "id": 202100428,
+              "title": "RA 9208 - Anti-Trafficking in Persons Act of 2003",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 410
+            },
+            {
+              "id": 202100429,
+              "title": "RA 7877 - Anti-Sexual Harassment Act of 1995",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 422
+            },
+            {
+              "id": 202100430,
+              "title": "RA 11313 - Safe Spaces Act",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 427
+            },
+            {
+              "id": 202100431,
+              "title": "RA 7432 - Senior Citizens Act",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 439
+            },
+            {
+              "id": 202100432,
+              "title": "RA 9679 - Home Development Mutual Fund Law of 2009",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 451
+            },
+            {
+              "id": 202100433,
+              "title": "RA 7875 - National Health Insurance Act of 2013",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 454
+            },
+            {
+              "id": 202100434,
+              "title": "RA 11210 - 105-Day Expanded Maternity Leave Law",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 463
+            },
+            {
+              "id": 202100435,
+              "title": "RA 11199 - Social Security Act of 2018",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 472
+            },
+            {
+              "id": 202100436,
+              "title": "RA 8291 - The Government Service Insurance System Act of 1997",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 493
+            },
+            {
+              "id": 202100437,
+              "title": "RA 7699 - The Limited Portability Law",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 507
+            }
+          ]
+        },
+        {
+          "id": 202100438,
+          "title": "APPENDICES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202100439,
+              "title": "Appendix A - PD 27 - The Tenant Emancipation Law",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 508
+            },
+            {
+              "id": 202100440,
+              "title": "Appendix B - EO 228 -",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 511
+            },
+            {
+              "id": 202100441,
+              "title": "Appendix C - RA 3844",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 515
+            },
+            {
+              "id": 202100442,
+              "title": "Appendix D - EO 129-A",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 575
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
