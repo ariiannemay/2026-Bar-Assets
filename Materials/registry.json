@@ -90,6 +90,13 @@
       "file": "TAX_REVIEWER_MAMALATEO_BOOK.json",
       "icon": "hand-coins",
       "category": "other"
+    },
+    {
+      "id": "AGRA_UNGOS_BOOK",
+      "name": "Agrarian Law and Social Legislation by Ungos - 2021 Ed",
+      "file": "AGRA_UNGOS_BOOK.json",
+      "icon": "heart-handshake",
+      "category": "other"
     }
   ]
 }
