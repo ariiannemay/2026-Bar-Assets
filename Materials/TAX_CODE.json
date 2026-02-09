@@ -2,14 +2,14 @@
   "library": {
     "id": "TAX_CODE",
     "name": "NIRC - Tax Code",
-    "icon": "banknote",
+    "icon": "hand-coins",
     "category": "codals"
   },
   "materials": [
     {
       "id": 84241997,
       "name": "NIRC - Tax Code",
-      "icon": "banknote",
+      "icon": "hand-coins",
       "color": "#EC407A",
       "topics": [
         {
