@@ -8,17 +8,10 @@
       "category": "codals"
     },
     {
-      "id": "CIVIL_CODAL",
-      "name": "CIVIL CODE",
-      "file": "CIVIL_CODAL.json",
-      "icon": "building",
-      "category": "codals"
-    },
-    {
-      "id": "COMM_CODAL",
-      "name": "COMMERCIAL LAWS",
-      "file": "COMM_CODAL.json",
-      "icon": "banknote",
+      "id": "RPC_CODAL",
+      "name": "REVISED PENAL CODE",
+      "file": "RPC_CODAL.json",
+      "icon": "shield",
       "category": "codals"
     },
     {
@@ -26,6 +19,20 @@
       "name": "LABOR CODE",
       "file": "LABOR_CODAL.json",
       "icon": "heart-handshake",
+      "category": "codals"
+    },
+    {
+      "id": "ROC_CODAL",
+      "name": "RULES OF COURT",
+      "file": "ROC_CODAL.json",
+      "icon": "gavel",
+      "category": "codals"
+    },
+    {
+      "id": "COMM_CODAL",
+      "name": "COMMERCIAL LAWS",
+      "file": "COMM_CODAL.json",
+      "icon": "banknote",
       "category": "codals"
     },
     {
@@ -43,24 +50,10 @@
       "category": "codals"
     },
     {
-      "id": "RPC_CODAL",
-      "name": "REVISED PENAL CODE",
-      "file": "RPC_CODAL.json",
-      "icon": "shield",
-      "category": "codals"
-    },
-    {
-      "id": "ROC_CODAL",
-      "name": "RULES OF COURT",
-      "file": "ROC_CODAL.json",
-      "icon": "gavel",
-      "category": "codals"
-    },
-    {
-      "id": "RPEC_LAW",
-      "name": "RULES OF PROCEDURE FOR ENVIRONMENTAL CASES",
-      "file": "RPEC_LAW.json",
-      "icon": "tree-pine",
+      "id": "CIVIL_CODAL",
+      "name": "CIVIL CODE",
+      "file": "CIVIL_CODAL.json",
+      "icon": "building",
       "category": "codals"
     },
     {
@@ -68,6 +61,13 @@
       "name": "FAMILY CODE",
       "file": "FAMILYCODE_CODAL.json",
       "icon": "heart",
+      "category": "codals"
+    },
+    {
+      "id": "RPEC_LAW",
+      "name": "RULES OF PROCEDURE FOR ENVIRONMENTAL CASES",
+      "file": "RPEC_LAW.json",
+      "icon": "tree-pine",
       "category": "codals"
     },
     {
