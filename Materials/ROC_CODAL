@@ -1,0 +1,1340 @@
+{
+  "library": {
+    "id": "ROC_CODAL",
+    "name": "RULES OF COURT",
+    "icon": "scale",
+    "category": "codals"
+  },
+  "materials": [
+    {
+      "id": 1964001,
+      "name": "RULES OF COURT",
+      "icon": "scale",
+      "color": "#330066",
+      "topics": [
+        {
+          "id": 196400100,
+          "title": "PART I - 1997 RULES OF CIVIL PROCEDURE, AS AMENDED",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 196400101,
+              "title": "Rule 1 - General Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400102,
+              "title": "Ordinary Civil Actions",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400103,
+                  "title": "Rule 2 - Cause of Action",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400104,
+                  "title": "Rule 3 - Parties to Civil Action",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400105,
+                  "title": "Rule 4 - Circumstance which Aggravate Criminal Liability",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400106,
+                  "title": "Rule 5 - Alternative Circumstances",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400107,
+              "title": "Procedure in Regional Trial Courts",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400108,
+                  "title": "Rule 6 - Kinds of Pleadings",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400109,
+                  "title": "Rule 7 - Parts and Contents of a Pleading",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400110,
+                  "title": "Rule 8 - Manner of Making Allegations in Pleadings",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400111,
+                  "title": "Rule 9 - Effect of Failure to Plead",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400112,
+                  "title": "Rule 10 - Amended and Supplemental Pleadings",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400113,
+                  "title": "Rule 11 - When to File Responsive Pleadings",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400114,
+                  "title": "Rule 12 - Bill of Particulars",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400115,
+                  "title": "Rule 13 - Filing and Service of Pleadings, Judgments and Other Papers",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400116,
+                  "title": "Rule 14 - Summons",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400117,
+                  "title": "Rule 15 - Motions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400118,
+                  "title": "Rule 17 - Dismissal of Actions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400119,
+                  "title": "Rule 18 - Pre-Trial",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400120,
+                  "title": "Rule 19 - Intervention",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400121,
+                  "title": "Rule 20 - Calendar of Cases",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400122,
+                  "title": "Rule 21 - Subpoena",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400123,
+                  "title": "Rule 22 - Computation of Time",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400124,
+                  "title": "Rule 23 - Depositions Pending Actions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400125,
+                  "title": "Rule 24 - Depositions Before Action or Pending Appeal",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400126,
+                  "title": "Rule 25 - Interrogatories to Parties",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400127,
+                  "title": "Rule 26 - Admission by Adverse Party",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400128,
+                  "title": "Rule 27 - Production or Inspection of Documents or Things",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400129,
+                  "title": "Rule 28 - Physical and Mental Examination of Persons",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400130,
+                  "title": "Rule 29 - Refusal to Comply with Modes of Discovery",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400131,
+                  "title": "Rule 30 - Trial",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400132,
+                  "title": "Rule 31 - Consolidation or Severance",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400133,
+                  "title": "Rule 32 - Trial by Commissioner",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400134,
+                  "title": "Rule 33 - Demurrer to Evidence",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400135,
+                  "title": "Rule 34 - Judgment on the Pleadings",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400136,
+                  "title": "Rule 35 - Summary Judgments",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400137,
+                  "title": "Prescribed Form No. 1 | Notice of Pre-Trial",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400138,
+                  "title": "Prescribed Form No. 2 | Pre-Trial Order",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400139,
+                  "title": "Rule 36 - Judgments, Final Orders and Entry Thereof",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400140,
+                  "title": "Rule 37 - New Trial or Reconsiderations",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400141,
+                  "title": "Rule 38 - Relief From Judgments, Orders, or Other Proceedings",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400142,
+                  "title": "Rule 39 - Execution, Satisfaction and Effect of Judgments",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400143,
+              "title": "Appeals",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400144,
+                  "title": "Rule 40 - Appeal From Municipal Trial Courts to the Regional Trial Courts",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400145,
+                  "title": "Rule 41 - Appeal From The Regional Trial Courts",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400146,
+                  "title": "Rule 42 - Petition for Review From the Regional Trial Courts to the Court of Appeals",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400147,
+                  "title": "Rule 43 - Appeals From the Court of Tax Appeals and Quasi-Judicial Agencies to the Court of Appeals",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400148,
+              "title": "Procedure in the Court of Appeals",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400149,
+                  "title": "Rule 44 - Ordinary Appealed Cases",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400150,
+                  "title": "Rule 45 - Appeal by Certiorari to the Supreme Court",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400151,
+                  "title": "Rule 46 - Original Cases",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400152,
+                  "title": "Rule 47 - Annulment of Judgments of Final Orders and Resolutions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400153,
+                  "title": "Rule 48 - Preliminary Conference",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400154,
+                  "title": "Rule 49 - Oral Argument",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400155,
+                  "title": "Rule 50 - Dismissal of Appeal",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400156,
+                  "title": "Rule 51 - Judgment",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400157,
+                  "title": "Rule 52 - Motion for Reconsideration",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400158,
+                  "title": "Rule 53 - New Trial",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400159,
+                  "title": "Rule 54 -Internal Business",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400160,
+                  "title": "Rule 55 - Publications of Judgments and Final Resolutions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400161,
+              "title": "Procedure in the Supreme Court",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400162,
+                  "title": "Rule 56 -",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 196400163,
+                      "title": "A. Original Cases",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400164,
+                      "title": "B. Appealed Cases",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 196400165,
+              "title": "Provisional Remedies",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400166,
+                  "title": "Rule 57 - Preliminary Attachment",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400167,
+                  "title": "Rule 58 - Preliminary Injunction",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400168,
+                  "title": "Rule 59 - Receivership",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400169,
+                  "title": "Rule 60 - Replevin",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400170,
+                  "title": "Rule 61 - Support Pendente Lite",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400171,
+              "title": "Special Civil Actions",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400172,
+                  "title": "Rule 62 - Interpleader",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400173,
+                  "title": "Rule 63 - Declaratory Relief and Similar Remedies",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400174,
+                  "title": "Rule 64 - Review of Judgments and Final Orders or Resolutions of the Commission on Elections and the Commission on Audit",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400175,
+                  "title": "Rule 65 - Certiorari, Prohibition and Mandamus",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400176,
+                  "title": "Rule 66 - Quo Warranto",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400177,
+                  "title": "Rule 67 - Expropriation",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400178,
+                  "title": "Rule 68 - Foreclosure of Real Estate Mortgage",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400179,
+                  "title": "Rule 69 - Partition",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400180,
+                  "title": "Rule 70 - Forcible Entry and Unlawful Detainer",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400181,
+                  "title": "Rule 71 - Contempt",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 196400182,
+          "title": "PART II - SPECIAL PROCEEDINGS and GENERAL PROVISIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 196400183,
+              "title": "GENERAL PROVISIONS",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400184,
+                  "title": "Rule 72 - Subject Matter and Applicability of General Rules",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400185,
+              "title": "SETTLEMENT OF ESTATE OF DECEASED PERSONS",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400186,
+                  "title": "Rule 73 - Venue and Process",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400187,
+                  "title": "Rule 74 - Summary Settlement of Estate",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400188,
+                  "title": "Rule 75 - Production of Will. Allowance of Will Necessary",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400189,
+                  "title": "Rule 76 - Allowance or Disallowance of Will",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400190,
+                  "title": "Rule 77 - Allowance of Will Proved Outside of Philippines and Administration of Estate Thereunder",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400191,
+                  "title": "Rule 78 - Letters Testamentary and of Administration, When and to Whom Issued",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400192,
+                  "title": "Rule 79 - Opposing Issuance of Letters Testamentary. Petition and Contest For Letters of Administration",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400193,
+                  "title": "Rule 80 - Special Administrator",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400194,
+                  "title": "Rule 81 - Bond of Executors and Administrators",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400195,
+                  "title": "Rule 82 - Revocation of Administration, Death, Resignation, and Removal of Executors or Administrators",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400196,
+                  "title": "Rule 83 - Inventory and Appraisal. Provision for Support of Family",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400197,
+                  "title": "Rule 84 - General Powers and Duties of Executors and Administrators",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400198,
+                  "title": "Rule 85 - Accountability and Compensation of Executors and Administrators",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400199,
+                  "title": "Rule 86 - Claims Against Estate",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400200,
+                  "title": "Rule 87 - Actions by and Against Executors and Administrators",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400201,
+                  "title": "Rule 88 - Payment of the Debts of the Estate",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400202,
+                  "title": "Rule 89 - Sales, Mortgages, and Other Encumbrances of Property of Decedent",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400203,
+                  "title": "Rule 90 - Distribution and Partition of the Estate",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400204,
+                  "title": "Rule 91 - Escheats",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400205,
+              "title": "GENERAL GUARDIANS AND GUARDIANSHIP",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400206,
+                  "title": "Rule 92 - Venue",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400207,
+                  "title": "Rule 93 - Appointment of Guardians",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400208,
+                  "title": "Rule 94 - Bonds of Guardians",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400209,
+                  "title": "Rule 95 - Selling and Encumbering Property of Ward",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400210,
+                  "title": "Rule 96 - General Powers and Duties of Guardians",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400211,
+                  "title": "Rule 97 - Termination of Guardianship",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400212,
+                  "title": "Rule 98 - Trustees",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400213,
+                  "title": "Rule 99 - Adoption and Custody of Minors",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400214,
+                  "title": "Rule 100 - Rescission and Revocation of Adoption",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400215,
+                  "title": "Rule 101 - Proceedings for Hospitalization of Insane Persons",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400216,
+                  "title": "Rule 102 - Habeas Corpus",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400217,
+                  "title": "Rule 103 - Change of Name",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400218,
+                  "title": "Rule 104 - Voluntary Dissolution of Corporations",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400219,
+                  "title": "Rule 105 - Judicial Approval of Voluntary Recognition of Minor Natural Children",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400220,
+                  "title": "Rule 106 - Constitution of Family Home",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400221,
+                  "title": "Rule 107 - Absentees",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400222,
+                  "title": "Rule 108 - Cancellation or Correction of Entries in the Civil Registry",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400223,
+                  "title": "Rule 109 - Appeals in Special Proceedings",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 196400224,
+          "title": "PART III - THE REVISED RuleS OF CRIMINAL PROCEDURE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 196400225,
+              "title": "Rule 110 - Prosecution of Offenses",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400226,
+              "title": "Rule 111 - Prosecution of Civil Actions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400227,
+              "title": "Rule 112 - Preliminary Investigation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400228,
+              "title": "Rule 113 - Arrest",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400229,
+              "title": "Rule 114 - Bail",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400230,
+              "title": "Rule 115 - Rights of Accused",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400231,
+              "title": "Rule 116 - Arraignment and Plea",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400232,
+              "title": "Rule 117 - Motion to Quash",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400233,
+              "title": "Rule 118 - Pre-Trial",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400234,
+              "title": "Rule 119 - Trial",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400235,
+              "title": "Rule 120 - Judgment",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400236,
+              "title": "Rule 121 - New Trial or Reconsideration",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400237,
+              "title": "Rule 122 - Appeal",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400238,
+              "title": "Rule 123 - Procedure in the Municipal Trial Courts",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400239,
+              "title": "Rule 124 - Procedure in the Court of Appeals",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400240,
+              "title": "Rule 125 - Procedure in the Supreme Court",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400241,
+              "title": "Rule 126 - Search and Seizure",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400242,
+              "title": "Rule 127 - Provisional Remedies in Criminal Cases",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400243,
+              "title": "PART IV - REVISED RuleS ON EVIDENCE, AS AMENDED",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400244,
+              "title": "Rule 128 - General Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400245,
+              "title": "Rule 129 - What Need Not Be Proved",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400246,
+              "title": "Rule 130 - Rules of Admissibility",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400247,
+                  "title": "A. OBJECT (REAL) EVIDENCE",
+                  "isTrackable": false,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400248,
+                  "title": "B. DOCUMENTARY EVIDENCE",
+                  "isTrackable": false,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 196400249,
+                      "title": "1. Best Evidence Rule",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400250,
+                      "title": "2. Secondary Evidence",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400251,
+                      "title": "3. Parol Evidence Rule",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400252,
+                      "title": "4. Interpretation of Documents",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 196400253,
+                  "title": "C. TESTIMONIAL EVIDENCE",
+                  "isTrackable": false,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 196400254,
+                      "title": "1. Qualification of Witnesses",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400255,
+                      "title": "2. Testimonial Privilege",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400256,
+                      "title": "3. Admissions and Confessions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400257,
+                      "title": "4. Previous Conduct as Evidence",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400258,
+                      "title": "5. Hearsay",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400259,
+                      "title": "6. Exceptions to The Hearsay Rule",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400260,
+                      "title": "7. Opinion Rule",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 196400261,
+                      "title": "8. Character Evidence",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 196400262,
+              "title": "Rule 131 - Burden of Proof, Burden of Evidence and Presumptions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400263,
+              "title": "Rule 132 - Presentation of Evidence",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400264,
+                  "title": "A. EXAMINATION OF WITNESSES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400265,
+                  "title": "B. AUTHENTICATION AND PROOF OF DOCUMENTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400266,
+                  "title": "C. OFFER AND OBJECTION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400267,
+              "title": "Rule 133 - Weight and Sufficiency of Evidence",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400268,
+              "title": "Rule 134 - Perpertuation of Testimony",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 196400269,
+          "title": "PART V - LEGAL ETHICS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 196400270,
+              "title": "Rule 135 - Powers and Duties of Courts and Judicial Officers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400271,
+              "title": "Rule 136 - Court Record and General Duties of Clerk and Stenographers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400272,
+              "title": "Rule 137 - Disqualification of Judicial Officers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400273,
+              "title": "Rule 138 - Attorneys and Admission to Bar",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400274,
+              "title": "Rule 138-A - Law Student Practice Rule",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400275,
+              "title": "Rule 139 - Disbarment or Suspension of Attorneys",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400276,
+              "title": "Rule 139-A - Integrated Bar of the Philippines",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400277,
+              "title": "Rule 139-B - Disbarment and Discipline of Attorneys",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 196400278,
+                  "title": "A. PROCEEDINGS IN THE INTEGRATED BAR OF THE PHILIPPINES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400279,
+                  "title": "B. PROCEEDINGS IN THE SUPREME COURT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 196400280,
+                  "title": "C. COMMON PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 196400281,
+              "title": "Rule 140 - Discipline of Judges of Regular and Special Courts, Justices of the Court of Appeals, the Sandiganbayan, Court of Tax Appeals, Court Administrator, Deputy Court Administrator and Assistant Court Administrator",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400282,
+              "title": "Rule 141 - Legal Fees",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400283,
+              "title": "Rule 142 - Cost",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400284,
+              "title": "Rule 143 - Applicability of the Rules",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 196400285,
+              "title": "Rule 144 - Effectiveness",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
