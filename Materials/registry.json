@@ -69,6 +69,13 @@
       "file": "FAMILYCODE_CODAL.json",
       "icon": "heart",
       "category": "codals"
+    },
+    {
+      "id": "NACHURA_2014_BOOK",
+      "name": "Outline Reviewer in Political Law by Antonio Eduardo B. Nachura - 2014 Ed",
+      "file": "NACHURA-2014_BOOK.json",
+      "icon": "building-2",
+      "category": "other"
     }
   ]
 }
