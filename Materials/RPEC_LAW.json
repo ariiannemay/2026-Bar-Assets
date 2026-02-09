@@ -1,0 +1,219 @@
+{
+  "library": {
+    "id": "RPEC_LAW",
+    "name": "RULES OF PROCEDURE FOR ENVIRONMENTAL CASES",
+    "icon": "tree-pine",
+    "category": "codal/laws"
+  },
+  "materials": [
+    {
+      "id": 2010001,
+      "name": "RULES OF PROCEDURE FOR ENVIRONMENTAL CASES",
+      "icon": "tree-pine",
+      "color": "#8D6E63",
+      "topics": [
+        {
+          "id": 201000100,
+          "title": "PART I",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201000101,
+              "title": "RULE 1 - GENERAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 201000200,
+          "title": "PART II - CIVIL PROCEDURE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201000201,
+              "title": "RULE 2 - PLEADINGS AND PARTIES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000202,
+              "title": "RULE 3 - PRE-TRIAL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000203,
+              "title": "RULE 4 - TRIAL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000204,
+              "title": "RULE 5 - JUDGMENT AND EXECUTION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000205,
+              "title": "RULE 6 - STRATEGIC LAWSUIT AGAINST PUBLIC PARTICIPATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 201000300,
+          "title": "PART III - SPECIAL CIVIL ACTIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201000301,
+              "title": "RULE 7 - WRIT OF KALIKASAN",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000302,
+              "title": "RULE 8 - WRIT OF CONTINUING MANDAMUS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 201000400,
+          "title": "PART IV - CRIMINAL PROCEDURE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201000401,
+              "title": "RULE 9 - PROSECUTION OF OFFENSES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000402,
+              "title": "RULE 10 - PROSECUTION OF CIVIL ACTIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000403,
+              "title": "RULE 11 - ARREST",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000404,
+              "title": "RULE 12 - CUSTODY AND DISPOSITION OF SEIZED ITEMS, EQUIPMENT, PARAPHERNALIA, CONVEYANCES AND INSTRUMENTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000405,
+              "title": "RULE 13 - PROVISIONAL REMEDIES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000406,
+              "title": "RULE 11 - ARREST",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000407,
+              "title": "RULE 14 - BAIL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000408,
+              "title": "RULE 15 - ARRAIGNMENT AND PLEA",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000409,
+              "title": "RULE 16 - PRE-TRIAL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000410,
+              "title": "RULE 17 - TRIAL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000411,
+              "title": "RULE 18 - SUBSIDIARY LIABILITY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000412,
+              "title": "RULE 19 - STRATEGIC LAWSUIT AGAINST PUBLIC PARTICIPATION IN CRIMINAL CASES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 201000500,
+          "title": "PART V - EVIDENCE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 201000501,
+              "title": "RULE 20 - PRECAUTIONARY PRINCIPLE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000502,
+              "title": "RULE 21 - DOCUMENTARY EVIDENCE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 201000503,
+              "title": "RULE 22 - FINAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
