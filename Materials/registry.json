@@ -97,6 +97,13 @@
       "file": "AGRA_UNGOS_BOOK.json",
       "icon": "heart-handshake",
       "category": "other"
+    },
+    {
+      "id": "PROPERTY_REYES_2024_BOOK",
+      "name": "Law on Property and Essentials of Land Registration by Reyes - 2024 Ed",
+      "file": "PROPERTY_REYES_2024_BOOK.json",
+      "icon": "building",
+      "category": "other"
     }
   ]
 }
