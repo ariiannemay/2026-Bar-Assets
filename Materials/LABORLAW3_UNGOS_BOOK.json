@@ -1,0 +1,953 @@
+{
+  "library": {
+    "id": "LABORLAW3_UNGOS_BOOK",
+    "name": "Labor Law 3 (The Fundamentals of Labor Law Review) by Ungos - 2024 Ed",
+    "icon": "heart-handshake",
+    "category": "other"
+  },
+  "materials": [
+    {
+      "id": 2024003,
+      "name": "Labor Law 3 (The Fundamentals of Labor Law Review) by Ungos - 2024 Ed",
+      "icon": "heart-handshake",
+      "color": "#38761D",
+      "withPageCounter": true,
+      "totalPages": 823,
+      "topics": [
+        {
+          "id": 202400300,
+          "title": "Chapter 1 – Preliminary Considerations",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400301,
+              "title": "The Provisions of the Constitution on Labor",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 2
+            },
+            {
+              "id": 202400302,
+              "title": "The Provisions of the Civil Code on Labor",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 5
+            },
+            {
+              "id": 202400303,
+              "title": "The Labor Code",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 8
+            }
+          ]
+        },
+        {
+          "id": 202400304,
+          "title": "Chapter 2 – Employer-Employee Relationship",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400305,
+          "title": "Chapter 3 – Categories of Employment",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400306,
+          "title": "Chapter 4 – Recruitment and Placement of Workers",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400307,
+          "title": "Chapter 5 – Contracting or Sub-contracting",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400308,
+          "title": "Chapter 6 – The General Labor Standards",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400309,
+              "title": "Hours of Work",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 107
+            },
+            {
+              "id": 202400310,
+              "title": "Flexible Work Schedule",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 111
+            },
+            {
+              "id": 202400311,
+              "title": "Compressed Workweek",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 113
+            },
+            {
+              "id": 202400312,
+              "title": "Overtime Work",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 115
+            },
+            {
+              "id": 202400313,
+              "title": "Night Shift Differential",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 119
+            },
+            {
+              "id": 202400314,
+              "title": "Weekly Rest Day",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 120
+            },
+            {
+              "id": 202400315,
+              "title": "Special Holiday",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 125
+            },
+            {
+              "id": 202400316,
+              "title": "Regular Holiday",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 127
+            },
+            {
+              "id": 202400317,
+              "title": "Wages",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 135
+            },
+            {
+              "id": 202400318,
+              "title": "Minimum Wage",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 146
+            },
+            {
+              "id": 202400319,
+              "title": "Wage Distortion",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 152
+            },
+            {
+              "id": 202400320,
+              "title": "Manner of Payment of Wages",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 155
+            },
+            {
+              "id": 202400321,
+              "title": "Payment of Wages in Case of Bankruptcy",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 159
+            },
+            {
+              "id": 202400322,
+              "title": "Prohibitions on Wages",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 164
+            },
+            {
+              "id": 202400323,
+              "title": "Thirteenth Month Pay",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 171
+            },
+            {
+              "id": 202400324,
+              "title": "Bonus",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 175
+            },
+            {
+              "id": 202400325,
+              "title": "Service Charges",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 176
+            },
+            {
+              "id": 202400326,
+              "title": "Service Incentive Leave",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 177
+            },
+            {
+              "id": 202400327,
+              "title": "Maternity Leave",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 179
+            },
+            {
+              "id": 202400328,
+              "title": "Paternity Leave",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 184
+            },
+            {
+              "id": 202400329,
+              "title": "VAWC Leave",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 185
+            },
+            {
+              "id": 202400330,
+              "title": "Parental Leave for Solo Parents",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 186
+            },
+            {
+              "id": 202400331,
+              "title": "Special Leave for Women Employees",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 188
+            },
+            {
+              "id": 202400332,
+              "title": "Occupational Health and Safety",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 189
+            },
+            {
+              "id": 202400333,
+              "title": "Enforcement of Labor Standards",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 197
+            }
+          ]
+        },
+        {
+          "id": 202400334,
+          "title": "Chapter 7 – Special Standards for Specific Employees",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400335,
+              "title": "Overseas Filipino Workers (OFWs)",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 203
+            },
+            {
+              "id": 202400336,
+              "title": "Non-Resident Aliens",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 218
+            },
+            {
+              "id": 202400337,
+              "title": "Apprentices",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 233
+            },
+            {
+              "id": 202400338,
+              "title": "Learners",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 238
+            },
+            {
+              "id": 202400339,
+              "title": "Persons with Disability",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 241
+            },
+            {
+              "id": 202400340,
+              "title": "Child Workers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 243
+            },
+            {
+              "id": 202400341,
+              "title": "Women Workers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 247
+            },
+            {
+              "id": 202400342,
+              "title": "Domestic Workers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 252
+            },
+            {
+              "id": 202400343,
+              "title": "Night Workers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 264
+            },
+            {
+              "id": 202400344,
+              "title": "Home Workers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 266
+            }
+          ]
+        },
+        {
+          "id": 202400345,
+          "title": "Chapter 8 – Unfair Labor Practices",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400346,
+              "title": "The Right to Self-Organization",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 268
+            },
+            {
+              "id": 202400347,
+              "title": "Unfair Labor Practice",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 279
+            },
+            {
+              "id": 202400348,
+              "title": "Unfair Labor Practice of Employers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 286
+            },
+            {
+              "id": 202400349,
+              "title": "Unfair Labor Practice of Labor Organizations",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 309
+            }
+          ]
+        },
+        {
+          "id": 202400350,
+          "title": "Chapter 9 – Collective Bargaining",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400351,
+              "title": "Labor Organizations",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 314
+            },
+            {
+              "id": 202400352,
+              "title": "Union Officers",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 361
+            },
+            {
+              "id": 202400353,
+              "title": "The Collective Bargaining Unit",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 364
+            },
+            {
+              "id": 202400354,
+              "title": "The Collective Bargaining Agent",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 372
+            },
+            {
+              "id": 202400355,
+              "title": "SEBA Certification",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 373
+            },
+            {
+              "id": 202400356,
+              "title": "Certification Election",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 375
+            },
+            {
+              "id": 202400357,
+              "title": "The Certification Proceedings",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 378
+            },
+            {
+              "id": 202400358,
+              "title": "Collective Bargaining Negotiations",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 394
+            }
+          ]
+        },
+        {
+          "id": 202400359,
+          "title": "Chapter 10 – Strikes, Lockouts, and Picketing",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400360,
+              "title": "Strikes",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 409
+            },
+            {
+              "id": 202400361,
+              "title": "Lockout",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 435
+            },
+            {
+              "id": 202400362,
+              "title": "National Interest Disputes",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 443
+            },
+            {
+              "id": 202400363,
+              "title": "Picketing",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 453
+            }
+          ]
+        },
+        {
+          "id": 202400364,
+          "title": "Chapter 11 – The Right to Security of Tenure",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400365,
+              "title": "Illegal Dismissal",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 460
+            },
+            {
+              "id": 202400366,
+              "title": "The Relief of Reinstatement",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 466
+            },
+            {
+              "id": 202400367,
+              "title": "The Relief of Backwages",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 473
+            },
+            {
+              "id": 202400368,
+              "title": "The Relief of Moral and Exemplary Damages",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 482
+            },
+            {
+              "id": 202400369,
+              "title": "The Relief of Attorney's Fees",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 483
+            }
+          ]
+        },
+        {
+          "id": 202400370,
+          "title": "Chapter 12 – Managerial Prerogatives",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400371,
+              "title": "Right of Employees to Participate in Policy and Decision-Making",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 509
+            }
+          ]
+        },
+        {
+          "id": 202400372,
+          "title": "Chapter 13 – The Just Cause for Dismissal",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400373,
+              "title": "Misconduct",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 511
+            },
+            {
+              "id": 202400374,
+              "title": "Disobedience to Employer's Orders",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 518
+            },
+            {
+              "id": 202400375,
+              "title": "Neglect of Duty",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 523
+            },
+            {
+              "id": 202400376,
+              "title": "Fraud",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 526
+            },
+            {
+              "id": 202400377,
+              "title": "Breach of Trust",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 528
+            },
+            {
+              "id": 202400378,
+              "title": "Commission of Crime",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 534
+            },
+            {
+              "id": 202400379,
+              "title": "Analogous Causes",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 535
+            },
+            {
+              "id": 202400380,
+              "title": "Other Valid Causes for Dismissal",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 539
+            },
+            {
+              "id": 202400381,
+              "title": "The Procedural Requirements for Dismissing an Employee for Just Cause",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 548
+            }
+          ]
+        },
+        {
+          "id": 202400382,
+          "title": "Chapter 14 – The Authorized Causes for Terminating an Employment",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400383,
+          "title": "Chapter 15 – Lay-off",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400384,
+          "title": "Chapter 16 – Resignation",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400385,
+              "title": "Involuntary Resignation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 578
+            },
+            {
+              "id": 202400386,
+              "title": "Voluntary Resignation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 583
+            },
+            {
+              "id": 202400387,
+              "title": "Constructive Resignation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 591
+            }
+          ]
+        },
+        {
+          "id": 202400388,
+          "title": "Chapter 17 – Retirement",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400389,
+          "title": "Chapter 18 – Social Welfare Legislation",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400390,
+              "title": "Employees' Compensation Law",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 604
+            },
+            {
+              "id": 202400391,
+              "title": "Death or Disability Arising from Illness",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 612
+            },
+            {
+              "id": 202400392,
+              "title": "Disability or Death Arising from Injury",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 613
+            },
+            {
+              "id": 202400393,
+              "title": "The Social Security Act of 2018",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 637
+            },
+            {
+              "id": 202400394,
+              "title": "The Government Service Inurance System Act",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 651
+            },
+            {
+              "id": 202400395,
+              "title": "The Limited Portability Law",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 661
+            },
+            {
+              "id": 202400396,
+              "title": "The Expanded Maternity Leave Law",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 662
+            },
+            {
+              "id": 202400397,
+              "title": "The Home Development Mutual Fund Law of 2009",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 669
+            },
+            {
+              "id": 202400398,
+              "title": "The National Health Insurance Act",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 672
+            },
+            {
+              "id": 202400399,
+              "title": "The Overseas Workers Welfare Administartion Act",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 679
+            }
+          ]
+        },
+        {
+          "id": 202400400,
+          "title": "Chapter 19 – Agrarian Law",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400401,
+          "title": "Chapter 20 – Dispute Resolution and Remedies",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400402,
+              "title": "Conciliation and Mediation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 699
+            },
+            {
+              "id": 202400403,
+              "title": "Compromise",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 703
+            },
+            {
+              "id": 202400404,
+              "title": "Small Monetary Claims",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 708
+            },
+            {
+              "id": 202400405,
+              "title": "Claims for Maternity Leave Benefit",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 710
+            },
+            {
+              "id": 202400406,
+              "title": "Grievance Handling",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 710
+            },
+            {
+              "id": 202400407,
+              "title": "Voluntary Arbitration",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 712
+            },
+            {
+              "id": 202400408,
+              "title": "Compulsory Arbitration",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 718
+            },
+            {
+              "id": 202400409,
+              "title": "The Compulsory Arbitration Process",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 740
+            },
+            {
+              "id": 202400410,
+              "title": "Appeal to the NLRC",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 755
+            },
+            {
+              "id": 202400411,
+              "title": "Extraordinary Remedy",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 768
+            },
+            {
+              "id": 202400412,
+              "title": "Injunction in Labor Disputes",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 770
+            },
+            {
+              "id": 202400413,
+              "title": "Intra-Union or Inter-Union Disputes",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 779
+            },
+            {
+              "id": 202400414,
+              "title": "Agrarian Disputes",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 782
+            }
+          ]
+        },
+        {
+          "id": 202400415,
+          "title": "Chapter 21 – Prescription",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400416,
+          "title": "Chapter 22 – Retirement",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400417,
+          "title": "Chapter 23 – Social Welfare Legislation",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}
