@@ -1,0 +1,910 @@
+{
+  "library": {
+    "id": "PROPERTY_REYES_2024_BOOK",
+    "name": "Law on Property and Essentials of Land Registration by Reyes - 2024 Ed",
+    "icon": "building",
+    "category": "other"
+  },
+  "materials": [
+    {
+      "id": 2024005,
+      "name": "Law on Property and Essentials of Land Registration by Reyes - 2024 Ed",
+      "icon": "building",
+      "color": "#2563EB",
+      "withPageCounter": true,
+      "totalPages": 689,
+      "topics": [
+        {
+          "id": 202400500,
+          "title": "Chapter 1 - Property and its Foundational Considerations",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400501,
+              "title": "I. Definition and Classifications of Property",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400502,
+                  "title": "A. The Essence of Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [],
+                  "startPage": 1
+                },
+                {
+                  "id": 202400503,
+                  "title": "B. Capable of Appropriation Test",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400504,
+                  "title": "C. Distinction between Thing and Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 202400505,
+                      "title": "1. Characteristics of Property",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 202400506,
+              "title": "II. Immovable vs. Movable Property",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400507,
+                  "title": "A. Property in Terms of Movability",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 202400508,
+                      "title": "1. Test of Enumeration",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 202400509,
+                      "title": "2. Different Kinds of Real or Immovable Property",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 202400510,
+                          "title": "2.1 Real or Immovable Property by Nature",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": [
+                            {
+                              "id": 202400511,
+                              "title": "2.1.1 Land; Meaning",
+                              "isTrackable": true,
+                              "done": false,
+                              "subtopics": []
+                            },
+                            {
+                              "id": 202400512,
+                              "title": "2.1.2 Comma between \"Land, Buildings\"; Significance",
+                              "isTrackable": true,
+                              "done": false,
+                              "subtopics": []
+                            },
+                            {
+                              "id": 202400513,
+                              "title": "2.1.3 Illustrations",
+                              "isTrackable": true,
+                              "done": false,
+                              "subtopics": []
+                            },
+                            {
+                              "id": 202400514,
+                              "title": "2.1.4 Demolished Structure",
+                              "isTrackable": true,
+                              "done": false,
+                              "subtopics": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": 202400515,
+                          "title": "2.2 Real or Immovable Property by Incorporation",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": [
+                            {
+                              "id": 202400516,
+                              "title": "2.2.1 Trees, Plants, and Growing Crops May Be by Incorporation or by Nature",
+                              "isTrackable": true,
+                              "done": false,
+                              "subtopics": []
+                            },
+                            {
+                              "id": 202400517,
+                              "title": "2.2.2 Attached to an Immovable in a Fixed Manner (Rex Vinta); Requisites",
+                              "isTrackable": true,
+                              "done": false,
+                              "subtopics": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": 202400518,
+                          "title": "2.3 Real or Immovable Property by Destination, Intention, or Purpose",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": [
+                            {
+                              "id": 202400519,
+                              "title": "2.3.1 Statues, Reliefs, Paintings, or Other Objects for Use or Ornamentation; Requisites",
+                              "isTrackable": true,
+                              "done": false,
+                              "subtopics": []
+                            },
+                            {
+                              "id": 202400520,
+                              "title": "2.3.2 Indispensable to the Pursuance of the Business",
+                              "isTrackable": true,
+                              "done": false,
+                              "subtopics": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 202400521,
+                      "title": "3. Distinctions between Movable and Immovabe Property",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 202400522,
+                  "title": "B. Ownership of Immovable and Movable Properties",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400523,
+                  "title": "C. Articles 419 to 429 of the Civil Code zero in on the classification of \"property in relation to the person to whom it belong.\"",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202400524,
+          "title": "Chapter 2 - Modes of Acquiring Ownership and Other Real Rights, including Donation",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400525,
+              "title": "I. Preliminary Concepts",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400526,
+                  "title": "I. The Concept of a Real Right",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [],
+                  "startPage": 61
+                },
+                {
+                  "id": 202400527,
+                  "title": "II. Occupation",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400528,
+                  "title": "III. Intellectual Creation",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400529,
+                  "title": "IV. Donation",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400530,
+                  "title": "V. Prescription",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400531,
+                  "title": "V. Tradition or Delivery",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400532,
+                  "title": "VII. Succession",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202400533,
+          "title": "Chapter 3 - Ownership and its Consequences",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400534,
+              "title": "I. Ownership in General; Definition",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400535,
+                  "title": "A. Attributes of Ownership",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [],
+                  "startPage": 110
+                },
+                {
+                  "id": 202400536,
+                  "title": "B. The Real Right of Ownership",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 202400537,
+              "title": "II. Rights included in Ownership",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400538,
+                  "title": "A. Doctrine of Self-Help",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400539,
+                  "title": "B. Right to Enclose Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400540,
+                  "title": "C. Surface and Suubsurface Rights",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400541,
+                  "title": "D. Doctrine of State Necessity",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400542,
+                  "title": "E. Exercise of Ownership Rights Must Not Injure Others",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400543,
+                  "title": "F. Jus Vindicandi; Action to Recover Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400544,
+                  "title": "G. Right to Possession or Jus Possidendi (As a Consequence of Ownership)",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202400545,
+          "title": "Chapter 4 - Accession",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400546,
+              "title": "I. Accession; Preliminary Concepts",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400547,
+                  "title": "A. Definition and Types of Accession",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [],
+                  "startPage": 159
+                },
+                {
+                  "id": 202400548,
+                  "title": "B. Accession is Not a Mode of Acquiring Ownership -It Presupposes a Prior Ownership",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400549,
+                  "title": "C. Exception to Accession",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 202400550,
+              "title": "II. Accession Discreta",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 202400551,
+              "title": "III. Accession Continua",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400552,
+                  "title": "A. Accretion by Alluvion or Alluvium",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400553,
+                  "title": "B. Accretion by Avulsion",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400554,
+                  "title": "C. Uprooted Trees",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400555,
+                  "title": "D. Change of Course of River",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400556,
+                  "title": "E. Industrial Accession with Respect to Real Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400557,
+                  "title": "F. Accession in Respect to Islands",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400558,
+                  "title": "G. Right of Accession with Respect to Movable Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202400559,
+          "title": "Chapter 5 - Quieting of Title, Co-Ownership and the Condominium Act (R.A. No. 4726)",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400560,
+              "title": "I. Quieting of Title",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400561,
+                  "title": "A. Definition; A Remedy in Equity",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [],
+                  "startPage": 205
+                },
+                {
+                  "id": 202400562,
+                  "title": "B. Requisites",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400563,
+                  "title": "C. Does the Action to Quiet Title Prescribe?",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400564,
+                  "title": "D. The Procedural Counterpart of the Substantive Law for an Action to Quiet Title over Property is Found in Rule 63 of the Rules of Court (Declaratory Relief and Similar Remedies)",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 202400565,
+              "title": "II. Co-Ownership",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400566,
+                  "title": "A. Definition; Governing Rules",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400567,
+                  "title": "B. Rights and Obligation of Co-Owners",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400568,
+                  "title": "C. Acquisitive Prescription in Favor of Co-Owner",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400569,
+                  "title": "D. The Condominium Act (R.A. No. 4726)",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400570,
+                  "title": "E. The Binary Concept of Co-Ownership",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202400571,
+          "title": "Chapter 6 - Possession",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400572,
+              "title": "Possession and the Kinds Thereof",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 242
+            },
+            {
+              "id": 202400573,
+              "title": "Acquisition of Possessioon",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 202400574,
+          "title": "Chapter 7 - Usufruct",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400575,
+              "title": "Usufruct in General",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 264
+            },
+            {
+              "id": 202400576,
+              "title": "Rights of the Usufructuary",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 202400577,
+              "title": "Obligations of the Usufructuary",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 202400578,
+              "title": "Extinguishment of Usufruct",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 202400579,
+          "title": "Chapter 8 - Easement",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400580,
+              "title": "I. Easements; Some foundational considerations",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400581,
+                  "title": "A. Infancy of Property Law; Easements and the Use of Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [],
+                  "startPage": 285
+                },
+                {
+                  "id": 202400582,
+                  "title": "B. Easement of Light and View",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400583,
+                  "title": "C. Rights and Obligations of the Owners of the Dominant nd Servient Estataes",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400584,
+                  "title": "D. Modes of Extinguishment of Easements",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400585,
+                  "title": "E. General Provisions on Classifications of Easements",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400586,
+                  "title": "F. Easements Relating to Waters",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400587,
+                  "title": "G. Easement of Right of Way",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400588,
+                  "title": "H. Easement of Party Wall",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400589,
+                  "title": "I. Drainage of Buildings",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400590,
+                  "title": "J. Easement Against Nuisance",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400591,
+                  "title": "K. Voluntary Easements",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202400592,
+          "title": "Chapter 9 - Nuisance",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400593,
+              "title": "Preliminary matter on nuisance",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400594,
+                  "title": "A. Nuisance; meaning",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [],
+                  "startPage": 322
+                },
+                {
+                  "id": 202400595,
+                  "title": "B. Noise Nuisance",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202400596,
+          "title": "Chapter 10 - The Public Land Act and the Property Registration Decree",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400597,
+              "title": "I. Preliminaries",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400598,
+                  "title": "A. The Regalian Doctrine; its breadth",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [],
+                  "startPage": 342
+                }
+              ]
+            },
+            {
+              "id": 202400599,
+              "title": "II. Classification of Lands",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400600,
+                  "title": "A. Constitutional (primary) classifications of lands",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 202400601,
+              "title": "III. Purpose of Land Registration",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400602,
+                  "title": "A. Torrens tiltle system",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400603,
+                  "title": "B. Protections accorded to lands registered under the Torrens system",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400604,
+                  "title": "C. The mirror principle",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400605,
+                  "title": "D. Registration is not a mode of acquiring ownership",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400606,
+                  "title": "E. Proceedings for land registration are proceedings in rem",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 202400607,
+                  "title": "F. Jurisdiction of Lnd Registration (Cadastral) Court",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 202400608,
+              "title": "IV. Modes of Acquiring Ownership over Public Lands",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 202400609,
+              "title": "V. Simplified Rules on Direct and Collateral Attack of Torrens Title",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 202400610,
+                  "title": "I. Reconveyance actions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202400611,
+          "title": "Bonus Chapter - Evolution of Supreme Court Decisions on Boracay Lands",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 202400612,
+              "title": "1. First Case. Tax Declarations v. Final Deed of Sale as Pieces of Documentary Evidence Presented to Prove Claim of Ownership and other Real Rights over Portions of Boracay",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [],
+              "startPage": 450
+            },
+            {
+              "id": 202400613,
+              "title": "2. Second Case. En Banc Decision. Secretary of DENR v. Yap, G.R. No. 167707, October 8, 2008",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 202400614,
+              "title": "3. Third Case. Heirs of MArvilla v. Tupas, G.R. No. 192132, Septmeber 14, 2016",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 202400615,
+              "title": "Aliens Rights over Lands and Improvements (Structures) in Boracay Island and Other Parts of the Philipppines Similarly Situated",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 202400616,
+          "title": "Appendix A - Presidential Decree No. 1529 (Property Registration Decree)",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400617,
+          "title": "Appendix B - Commonwealth Act No. 141 of 1936 (The Public Land Act)",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400618,
+          "title": "Appendix C - Republic Act No. 11573 (An Act Improving the Confirmation Process for Imperfect Land Titles)",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400619,
+          "title": "Appendix D - Republic Act No. 4726 (The Condominium Act)",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 202400620,
+          "title": "Appendix E - Arts. 441-579, New Civil Code",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}
