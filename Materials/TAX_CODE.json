@@ -1,6 +1,6 @@
 {
   "library": {
-    "id": "TAX_CODAL",
+    "id": "TAX_CODE",
     "name": "NIRC - Tax Code",
     "icon": "banknote",
     "category": "codals"
@@ -8,7 +8,7 @@
   "materials": [
     {
       "id": 84241997,
-      "name": "NIRC (Tax Code)",
+      "name": "NIRC - Tax Code",
       "icon": "banknote",
       "color": "#EC407A",
       "topics": [
