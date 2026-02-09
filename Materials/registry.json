@@ -104,6 +104,13 @@
       "file": "PROPERTY_REYES_2024_BOOK.json",
       "icon": "building",
       "category": "other"
+    },
+    {
+      "id": "EVIDENCE_ESPEJO_2022_BOOK",
+      "name": "Evidence Explained Redux by Dean Jess Zachael B. Espejo - 2022 Ed",
+      "file": "EVIDENCE_ESPEJO_2022_BOOK.json",
+      "icon": "gavel",
+      "category": "other"
     }
   ]
 }
