@@ -1,0 +1,1960 @@
+{
+  "library": {
+    "id": "CIVIL_CODAL",
+    "name": "CIVIL CODE",
+    "icon": "building-2",
+    "category": "codals"
+  },
+  "materials": [
+    {
+      "id": 1889001,
+      "name": "CIVIL CODE",
+      "icon": "building-2",
+      "color": "#1E3A8A",
+      "topics": [
+        {
+          "id": 188900100,
+          "title": "PRELIMINARIES",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 188900101,
+              "title": "PRELIMINARY TITLE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900102,
+                  "title": "CHAPTER I – EFFECT AND APPLICATION OF LAWS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900103,
+                  "title": "CHAPTER II – HUMAN RELATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 188900104,
+          "title": "BOOK I PERSONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 188900105,
+              "title": "TITLE I - CIVIL PERSONALITY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900106,
+                  "title": "CHAPTER 1 General Provisions",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900107,
+                  "title": "CHAPTER 2 Natural Persons",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900108,
+                  "title": "CHAPTER 3 Juridical Persons",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900109,
+              "title": "TITLE II - CITIZENSHIP AND DOMICILE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900110,
+                  "title": "CHAPTER 1 Provisional Measures in Case of Absence",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900111,
+                  "title": "CHAPTER 2 Declaration of Absence",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900112,
+                  "title": "CHAPTER 3 Administration of the Property of the Absentee",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900113,
+                  "title": "CHAPTER 4 Presumption of Death",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900114,
+                  "title": "CHAPTER 5 Effect of Absence Upon the Contingent Rights of the Absentee",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900115,
+              "title": "TITLE III-IX - REPEALED BY EO 209 \"FAMILY CODE\"",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900116,
+              "title": "TITLE X - FUNERALS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900117,
+              "title": "TITLE XII - CARE AND EDUCATION OF CHILDREN",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900118,
+              "title": "TITLE XIII - USE OF SURNAMES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900119,
+              "title": "TITLE XIV - ABSENCE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900120,
+                  "title": "CHAPTER 1 Provisional Measures in Case of Absence",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900121,
+                  "title": "CHAPTER 2 Declaration of Absence",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900122,
+                  "title": "CHAPTER 3 Administration of the Property of the Absentee",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900123,
+                  "title": "CHAPTER 4 Presumption of Death",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900124,
+                  "title": "CHAPTER 5 Effect of Absence Upon the Contingent Rights of the Absentee",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900125,
+              "title": "TITLE XV - REPEALED BY EO 209 \"FAMILY CODE\"",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900126,
+              "title": "TITLE XVI - CIVIL REGISTER",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 188900127,
+          "title": "BOOK II PROPERTY, OWNERSHIP, AND ITS MODIFICATION",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 188900128,
+              "title": "TITLE I - CLASSIFICATION OF PROPERTY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900129,
+                  "title": "PRELIMINARY PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900130,
+                  "title": "CHAPTER 1 Immovable Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900131,
+                  "title": "CHAPTER 2 Movable Property",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900132,
+                  "title": "CHAPTER 3 Property in Relation to the Person to Whom It Belongs",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900133,
+              "title": "TITLE II - OWNERSHIP",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900134,
+                  "title": "CHAPTER 1 Ownership in General",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900135,
+                  "title": "CHAPTER 2 Right of Accession",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900136,
+                      "title": "SECTION 1 Right of Accession with Respect to What is Produced by Property",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900137,
+                      "title": "SECTION 2 Right of Accession with Respect to Immovable Property",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900138,
+                      "title": "SECTION 3 Right of Accession with Respect to Movable Property",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900139,
+                  "title": "CHAPTER 3 Quieting of Title (n)",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900140,
+                  "title": "CHAPTER 4 Ruinous Buildings and Trees in Danger of Falling",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900141,
+              "title": "TITLE III - CO-OWNERSHIP",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900142,
+              "title": "TITLE IV - SOME SPECIAL PROPERTIES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900143,
+                  "title": "CHAPTER 1 Waters",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900144,
+                      "title": "SECTION 1 Ownership of Waters",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900145,
+                      "title": "SECTION 2 The Use of Public Waters",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900146,
+                      "title": "SECTION 3 The Use of Waters of Private Ownership",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900147,
+                      "title": "SECTION 4 Subterranean Waters",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900148,
+                      "title": "SECTION 5 General Provisions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900149,
+                  "title": "CHAPTER 2 Minerals",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900150,
+                  "title": "CHAPTER 3 Trade-marks and Trade-names",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900151,
+              "title": "TITLE V - POSSESSION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900152,
+                  "title": "CHAPTER 1 Possession and the Kinds Thereof",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900153,
+                  "title": "CHAPTER 2 Acquisition of Possession",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900154,
+                  "title": "CHAPTER 3 Effects of Possession",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900155,
+              "title": "TITLE VI - USUFRUCT",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900156,
+                  "title": "CHAPTER 1 Usufruct in General",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900157,
+                  "title": "CHAPTER 2 Rights of the Usufructuary",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900158,
+                  "title": "CHAPTER 3 Obligations of the Usufructuary",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900159,
+                  "title": "CHAPTER 4 Extinguishment of Usufruct",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900160,
+              "title": "TITLE VII - EASEMENTS OR SERVITUDES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900161,
+                  "title": "CHAPTER 1 Easements in General",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900162,
+                      "title": "SECTION 1 Different Kinds of Easements",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900163,
+                      "title": "SECTION 2 Modes of Acquiring Easements",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900164,
+                      "title": "SECTION 3 Rights and Obligations of the Owners of the Dominant and Servient Estates",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900165,
+                      "title": "SECTION 4 Modes of Extinguishment of Easements",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900166,
+                  "title": "CHAPTER 2 Legal Easements",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900167,
+                      "title": "SECTION 1 General Provisions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900168,
+                      "title": "SECTION 2 Easements Relating to Waters",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900169,
+                      "title": "SECTION 3 Easement of Right of Way",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900170,
+                      "title": "SECTION 4 Easement of Party Wall",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900171,
+                      "title": "SECTION 5 Easement of Light and View",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900172,
+                      "title": "SECTION 6 Drainage of Buildings",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900173,
+                      "title": "SECTION 7 Intermediate Distances and Works for Certain Constructions and Plantings",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900174,
+                      "title": "SECTION 8 Easement Against Nuisance (n)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900175,
+                  "title": "CHAPTER 3 Voluntary Easements",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900176,
+              "title": "TITLE VIII - NUISANCE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900177,
+              "title": "TITLE IX - REGISTRY OF PROPERTY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 188900178,
+          "title": "BOOK III DIFFERENT MODES OF ACQUIRING OWNERSHIP",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 188900179,
+              "title": "PRELIMINARY PROVISION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900180,
+              "title": "Title I – OCCUPATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900181,
+              "title": "Title II – INTELLECTUAL CREATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900182,
+              "title": "Title III – DONATION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900183,
+                  "title": "CHAPTER I – NATURE OF DONATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900184,
+                  "title": "CHAPTER II – PERSONS WHO MAY GIVE OR RECEIVE A DONATION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900185,
+                  "title": "CHAPTER III – EFFECT OF DONATIONS AND LIMITATIONS THEREIN",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900186,
+                  "title": "CHAPTER IV – REVOCATION AND REDUCTION OF DONATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900187,
+              "title": "Title IV – SUCCESSION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900188,
+                  "title": "CHAPTER I – GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900189,
+                  "title": "CHAPTER II – TESTAMENTRY SUCCESSION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900190,
+                      "title": "SECTION 1: Wills",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 188900191,
+                          "title": "SUBSECTION 1: Wills in General",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900192,
+                          "title": "SUBSECTION 2: Testamentary Capacity and intent",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900193,
+                          "title": "SUBSECTION 3: Forms of Wills",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900194,
+                          "title": "SUBSECTION 4: Witnesses to Wills",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900195,
+                          "title": "SUBSECTION 5: Codicils and Incorporation by Reference",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900196,
+                          "title": "SUBSECTION 6: Revocation of Wills and TEstamentary Dispositions",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900197,
+                          "title": "SUBSECTION 7:Republliction and Revival of Wills",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900198,
+                          "title": "SUBSECTION 8: Allowance and Disallowance of Wills",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": 188900199,
+                      "title": "SECTION 2: Institution of Heir",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900200,
+                      "title": "SECTION 3: Substitution of Heirs",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900201,
+                      "title": "SECTION 4: Conditionl Testamentary Dispositions and Testamentary Dispositions with a Term",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900202,
+                      "title": "SECTION 5: Legitime",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900203,
+                      "title": "SECTION 6: Disinheritance",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900204,
+                      "title": "SECTION 7: Legacies and Devises",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900205,
+                  "title": "CHAPTER III – LEGAL OR INTESTATE SUCCESSION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900206,
+                      "title": "SECTION 1: General Provisions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 188900207,
+                          "title": "SUBSECTION 1: Relationship",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900208,
+                          "title": "SUBSECTION 2: Right of Representation",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": 188900209,
+                      "title": "SECTION 2: Order of Intestate Succession",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 188900210,
+                          "title": "SUBSECTION 1: Descending Direct Line",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900211,
+                          "title": "SUBSECTION 2: Ascending Direct Line",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900212,
+                          "title": "SUBSECTION 3: Illegitimate Children",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900213,
+                          "title": "SUBSECTION 4: Suriving Spouse",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900214,
+                          "title": "SUBSECTION 5: Collateral Relatives",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900215,
+                          "title": "SUBSECTION 6: The State",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 188900216,
+                  "title": "CHAPTER IV – PROVISIONS COMMON TO TESTATE AND INTESTATE SUCCESSIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900217,
+                      "title": "SECTION 1: Right of Accretion",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900218,
+                      "title": "SECTION 2: Capacity to Succeed by Will or by Intestacy Successions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900219,
+                      "title": "SECTION 3: Acceptance and Repudiation of the Inheritance",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900220,
+                      "title": "SECTION 4: Executors and Administrators",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900221,
+                      "title": "SECTION 5: Collation",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900222,
+                      "title": "SECTION 6: Partition and Distribution of the Estate",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 188900223,
+                          "title": "SUBSECTION 1: Partition",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900224,
+                          "title": "SUBSECTION 2: Effects of Partition",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 188900225,
+              "title": "Title V – PRESCRIPTION",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900226,
+                  "title": "CHAPTER I – GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900227,
+                  "title": "CHAPTER II – PRESCRIPTION OF OWNERSHIP AND OTHER REAL RIGHTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900228,
+                  "title": "CHAPTER III – PRESCRIPTION OF ACTIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 188900229,
+          "title": "BOOK IV OBLIGATIONS AND CONTRACTS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 188900230,
+              "title": "TITLE I – OBLIGATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900231,
+                  "title": "CHAPTER I – GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900232,
+                  "title": "CHAPTER II – NATURE AND EFFECT OF OBLIGATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900233,
+                  "title": "CHAPTER III – DIFFERENT KINDS OF OBLIGATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900234,
+                      "title": "SECTION 1: Pure and Conditional Obligations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900235,
+                      "title": "SECTION 2: Obligations with a Period",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900236,
+                      "title": "SECTION 3: Alternative Obligations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900237,
+                      "title": "SECTION 4 – Joint and Solidary Obligations",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900238,
+                      "title": "SECTION 5: Divisible and Indivisible Penal Clause",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900239,
+                      "title": "SECTION 6: Obligations with a Penal Clause",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900240,
+                  "title": "CHAPTER IV – EXTINGUISHMENT OF OBLIGATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900241,
+                      "title": "SECTION 1: Payment or Performance",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900242,
+                      "title": "SECTION 2: Loss of the Thing Due",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900243,
+                      "title": "SECTION 3: Condonation or Remission of the Debt",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900244,
+                      "title": "SECTION 4 – Confusion or Merger of Rights",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900245,
+                      "title": "SECTION 5: Compensatiion",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900246,
+                      "title": "SECTION 6: Novation",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 188900247,
+              "title": "TITLE II – CONTRACTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900248,
+                  "title": "CHAPTER I – GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900249,
+                  "title": "CHAPTER II – ESSENTIAL REQUISITES OF CONTRACTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900250,
+                      "title": "SECTION 1: Consent",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900251,
+                      "title": "SECTION 2: Object of Contracts",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900252,
+                      "title": "SECTION 3: Cause of Contracts",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900253,
+                  "title": "CHAPTER III – FORM OF CONTRACTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900254,
+                  "title": "CHAPTER IV – REFORMATION OF INSTRUMENTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900255,
+                  "title": "CHAPTER V – INTERPRETATION OF CONTRACTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900256,
+                  "title": "CHAPTER VI – RESCISSIBLE CONTRACTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900257,
+                  "title": "CHAPTER VII – VOIDABLE CONTRACTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900258,
+                  "title": "CHAPTER VIII – UNENFORCEABLE CONTRACTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900259,
+                  "title": "CHAPTER IX - VOID AND INEXISTENT CONTRACTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900260,
+              "title": "TITLE III - NATURAL OBLIGATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900261,
+              "title": "TITLE IV - ESTOPPEL",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900262,
+              "title": "TITLE V - TRUSTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900263,
+                  "title": "CHAPTER 1 GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900264,
+                  "title": "CHAPTER 2 EXPRESS TRUSTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900265,
+                  "title": "CHAPTER 3 IMPLIED TRUSTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900266,
+              "title": "TITLE VI - SALES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900267,
+                  "title": "CHAPTER 1 NATURE AND FORM OF THE CONTRACT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900268,
+                  "title": "CHAPTER 2 CAPACITY TO BUY OR SELL",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900269,
+                  "title": "CHAPTER 3 EFFECTS OF THE CONTRACT WHEN THE THING SOLD HAS BEEN LOST",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900270,
+                  "title": "CHAPTER 4 - OBLIGATIONS OF THE VENDOR",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900271,
+                      "title": "SECTION 1 - GENERAL PROVISIONS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900272,
+                      "title": "SECTION 2 - DELIVERY OF THE THING SOLD",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900273,
+                      "title": "SECTION 3 - CONDITIONS AND WARRANTIES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 188900274,
+                          "title": "SUBSECTION 1 - WARRANTY IN CASE OF EVICTION",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900275,
+                          "title": "SUBSECTION 2 - WARRANTY AGAINST HIDDEN DEFECTS OF OR ENCUMBRANCES UPON THE THING SOLD",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 188900276,
+                  "title": "CHAPTER 5 - OBLIGATIONS OF THE VENDEE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900277,
+                  "title": "CHAPTER 6 - ACTIONS FOR BREACH OF CONTRACT OF SALE OF GOODS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900278,
+                  "title": "CHAPTER 7- EXTINGUISHMENT OF SALE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900279,
+                      "title": "SECTION 1 - CONVENTIONAL REDEMPTION",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900280,
+                      "title": "SECTION 2 - LEGAL REDEMPTION",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900281,
+                  "title": "CHAPTER 8 - ASSIGNMENT OF CREDITS AND OTHER INCORPOREAL RIGHTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900282,
+                  "title": "CHAPTER 9 - GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900283,
+              "title": "TITLE VII - BARTER OR EXCHANGE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900284,
+              "title": "TITLE VIII - LEASE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900285,
+                  "title": "CHAPTER 1 GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900286,
+                  "title": "CHAPTER 2 LEASE OF RURAL AND URBAN LANDS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900287,
+                      "title": "SECTION 1 GENERAL PROVISIONS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900288,
+                      "title": "SECTION 2 RIGHTS AND OBLIGATIONS OF THE LESSOR AND THE LESSEE",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900289,
+                      "title": "SECTION 3 SPECIAL PROVISIONS FOR LEASES OF RURAL LANDS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900290,
+                      "title": "SECTION 4 SPECIAL PROVISIONS FOR THE LEASE OF URBAN LANDS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900291,
+                  "title": "CHAPTER 3 WORK AND LABOR",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900292,
+                      "title": "SECTION 1 HOUSEHOLD SERVICE (N)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900293,
+                      "title": "SECTION 2 CONTRACT OF LABOR (N)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900294,
+                      "title": "SECTION 3 CONTRACT FOR A PIECE OF WORK",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900295,
+                      "title": "SECTION 4 COMMON CARRIERS (N)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 188900296,
+                          "title": "SUBSECTION 1. GENERAL PROVISIONS",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900297,
+                          "title": "SUBSECTION 2. VIGILANCE OVER GOODS",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900298,
+                          "title": "SUBSECTION 3. SAFETY OF PASSENGERS",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 188900299,
+                          "title": "SUBSECTION 4. COMMON PROVISIONS",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 188900300,
+              "title": "TITLE IX - PARTNERSHIP",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900301,
+                  "title": "CHAPTER I - NATURE, FORM AND KINDS OF AGENCY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900302,
+                  "title": "CHAPTER II - OBLIGATIONS OF THE AGENT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900303,
+                  "title": "CHAPTER III - OBLIGATIONS OF THE PRINCIPAL",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900304,
+                  "title": "CHAPTER IV - MODE OF EXTINGUISHMENT OF AGENCY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900305,
+              "title": "TITLE X – AGENCY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900306,
+                  "title": "CHAPTER I - NATURE, FORM AND KINDS OF AGENCY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900307,
+                  "title": "CHAPTER II - OBLIGATIONS OF THE AGENT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900308,
+                  "title": "CHAPTER III - OBLIGATIONS OF THE PRINCIPAL",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900309,
+                  "title": "CHAPTER IV - MODE OF EXTINGUISHMENT OF AGENCY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900310,
+              "title": "TITLE XI - LOAN",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900311,
+                  "title": "GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900312,
+                  "title": "CHAPTER 1 Commodatum",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900313,
+                      "title": "SECTION 1 Nature of Commodatum",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900314,
+                      "title": "SECTION 2 Obligations of the Bailee",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900315,
+                      "title": "SECTION 3 Obligations of the Bailor",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900316,
+                  "title": "CHAPTER 2 Simple Loan or Mutuum",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900317,
+              "title": "TITLE XII - DEPOSIT",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900318,
+                  "title": "CHAPTER 1 DEPOSIT IN GENERAL AND ITS DIFFERENT KINDS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900319,
+                  "title": "CHAPTER 2 VOLUNTARY DEPOSIT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900320,
+                      "title": "SECTION 1 GENERAL PROVISIONS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900321,
+                      "title": "SECTION 2 OBLIGATIONS OF THE DEPOSITARY",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900322,
+                      "title": "SECTION 3 OBLIGATIONS OF THE DEPOSITOR",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900323,
+                  "title": "CHAPTER 3 NECESSARY DEPOSIT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900324,
+                  "title": "CHAPTER 4 SEQUESTRATION OR JUDICIAL DEPOSIT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900325,
+              "title": "TITLE XIII - ALEATORY CONTRACTS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900326,
+                  "title": "GENERAL PROVISION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900327,
+                  "title": "CHAPTER 1 INSURANCE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900328,
+                  "title": "CHAPTER 2 GAMBLING",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900329,
+                  "title": "CHAPTER 3 LIFE ANNUITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900330,
+              "title": "TITLE XIV - COMPROMISES AND ARBITRATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900331,
+                  "title": "CHAPTER 1 COMPROMISES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900332,
+                  "title": "CHAPTER 2 ARBITRATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900333,
+              "title": "TITLE XV - GUARANTY",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900334,
+                  "title": "CHAPTER 1 NATURE AND EXTENT OF GUARANTY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900335,
+                  "title": "CHAPTER 2 EFFECTS OF GUARANTY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900336,
+                      "title": "SECTION 1 EFFECTS OF GUARANTY BETWEEN THE GUARANTOR AND THE CREDITOR",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900337,
+                      "title": "SECTION 2 EFFECTS OF GUARANTY BETWEEN THE DEBTOR AND THE GUARANTOR",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900338,
+                      "title": "SECTION 3. EFFECTS OF GUARANTY AS BETWEEN CO-GUARANTORS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900339,
+                  "title": "CHAPTER 3 EXTINGUISHMENT OF GUARANTY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900340,
+                  "title": "CHAPTER 4 LEGAL AND JUDICIAL BONDS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900341,
+              "title": "TITLE XVI - PLEDGE, MORTGAGE AND ANTICHRESIS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900342,
+                  "title": "CHAPTER 1 PROVISIONS COMMON TO PLEDGE AND MORTGAGE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900343,
+                  "title": "CHAPTER 2 PLEDGE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900344,
+                  "title": "CHAPTER 3 MORTGAGE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900345,
+                  "title": "CHAPTER 4 ANTICHRESIS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900346,
+                  "title": "CHAPTER 5 CHATTEL MORTGAGE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900347,
+              "title": "TITLE XVII - EXTRA-CONTRACTUAL OBLIGATIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900348,
+                  "title": "CHAPTER 1 QUASI-CONTRACTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900349,
+                      "title": "SECTION 1 NEGOTIORUM GESTIO",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900350,
+                      "title": "SECTION 2 SOLUTIO INDEBITI",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900351,
+                      "title": "SECTION 3 OTHER QUASI-CONTRACTS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 188900352,
+                  "title": "CHAPTER 2 QUASI-DELICTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900353,
+              "title": "TITLE XVIII - DAMAGES",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900354,
+                  "title": "CHAPTER 1 GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900355,
+                  "title": "CHAPTER 2 ACTUAL OR COMPENSATORY DAMAGES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900356,
+                  "title": "CHAPTER 3 OTHER KINDS OF DAMAGES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 188900357,
+                      "title": "SECTION 1 MORAL DAMAGES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900358,
+                      "title": "SECTION 2 NOMINAL DAMAGES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900359,
+                      "title": "SECTION 3 TEMPERATE OR MODERATE DAMAGES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900360,
+                      "title": "SECTION 4 LIQUIDATED DAMAGES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 188900361,
+                      "title": "SECTION 5 EXEMPLARY OR CORRECTIVE DAMAGES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 188900362,
+              "title": "TITLE XIX - CONCURRENCE AND PREFERENCE OF CREDITS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 188900363,
+                  "title": "CHAPTER 1 GENERAL PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900364,
+                  "title": "CHAPTER 2 CLASSIFICATION OF CREDITS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 188900365,
+                  "title": "CHAPTER 3 ORDER OF PREFERENCE OF CREDITS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 188900366,
+              "title": "TRANSITIONAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900367,
+              "title": "REPEALING CLAUSE",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 188900368,
+              "title": "GENERAL PROVISIONS",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
