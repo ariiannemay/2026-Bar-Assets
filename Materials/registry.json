@@ -76,6 +76,13 @@
       "file": "NACHURA-2014_BOOK.json",
       "icon": "building-2",
       "category": "other"
+    },
+    {
+      "id": "LABORLAW3_UNGOS_BOOK",
+      "name": "Labor Law 3 (The Fundamentals of Labor Law Review) by Ungos - 2024 Ed",
+      "file": "LABORLAW3_UNGOS_BOOK.json",
+      "icon": "heart-handshake",
+      "category": "other"
     }
   ]
 }
