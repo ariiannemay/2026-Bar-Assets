@@ -2,14 +2,14 @@
   "library": {
     "id": "CIVIL_CODAL",
     "name": "CIVIL CODE",
-    "icon": "building-2",
+    "icon": "building",
     "category": "codals"
   },
   "materials": [
     {
       "id": 1889001,
       "name": "CIVIL CODE",
-      "icon": "building-2",
+      "icon": "building",
       "color": "#1E3A8A",
       "topics": [
         {
