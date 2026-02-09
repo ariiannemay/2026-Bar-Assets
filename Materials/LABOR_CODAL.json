@@ -21,7 +21,7 @@
             {
               "id": 197400101,
               "title": "PRELIMINARY TITLE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -116,6 +116,13 @@
                       "subtopics": []
                     }
                   ]
+                },
+                {
+                  "id": 197400116,
+                  "title": "ART. 12 – Statement of Objectives",
+                  "isTrackable": false,
+                  "done": false,
+                  "subtopics": []
                 }
               ]
             }
@@ -128,16 +135,9 @@
           "done": false,
           "subtopics": [
             {
-              "id": 197400116,
-              "title": "ART. 12 – Statement of Objectives",
-              "isTrackable": true,
-              "done": false,
-              "subtopics": []
-            },
-            {
               "id": 197400117,
               "title": "TITLE I – RECRUITMENT AND PLACEMENT OF WORKERS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -358,7 +358,7 @@
             {
               "id": 197400148,
               "title": "TITLE II – EMPLOYMENT OF NON-RESIDENT ALIENS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -395,7 +395,7 @@
             {
               "id": 197400153,
               "title": "TITLE I – NATIONAL MANPOWER DEVELOPMENT PROGRAM (Arts. 43-56 are repealed by RA 7796 or the TESDA Act of 1994)",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -509,7 +509,7 @@
             {
               "id": 197400169,
               "title": "TITLE II – TRAINING AND EMPLOYMENT OF SPECIAL WORKERS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -724,7 +724,7 @@
             {
               "id": 197400199,
               "title": "TITLE I – WORKING CONDITIONS ND REST PERIODS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -861,7 +861,7 @@
             {
               "id": 197400218,
               "title": "TITLE II – WAGES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1148,7 +1148,7 @@
             {
               "id": 197400258,
               "title": "TITLE III – WORKING CONDITIONS FOR SPECIAL GROUPS OF EMPLOYEES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1428,7 +1428,7 @@
             {
               "id": 197400297,
               "title": "TITLE I – MEDICAL, DENTAL AND OCCUPATIONAL SAFETY",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1522,7 +1522,7 @@
             {
               "id": 197400310,
               "title": "TITLE II – EMPLOYEES COMPENSATION AND STATE INSURANCE FUND",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1910,7 +1910,7 @@
             {
               "id": 197400364,
               "title": "TITLE III – MEDICARE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1925,7 +1925,7 @@
             {
               "id": 197400366,
               "title": "TITLE IV – ADULT EDUCATION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1948,7 +1948,7 @@
             {
               "id": 197400369,
               "title": "TITLE I – POLICY AND DEFINITIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -1986,7 +1986,7 @@
             {
               "id": 197400374,
               "title": "TITLE II – NATIONAL LABOR RELATIONS COMMISSION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2102,7 +2102,7 @@
             {
               "id": 197400390,
               "title": "TITLE III – BUREAU OF LABOR RELATIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2166,7 +2166,7 @@
             {
               "id": 197400399,
               "title": "TITLE IV – LABOR ORGANIZATIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2289,7 +2289,7 @@
             {
               "id": 197400416,
               "title": "TITLE V – COVERAGE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2332,7 +2332,7 @@
             {
               "id": 197400422,
               "title": "TITLE VI – UNFAIR LABOR PRACTICES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2385,7 +2385,7 @@
             {
               "id": 197400429,
               "title": "TITLE VII – COLLECTIVE BARGAINING AND ADMINISTRATION OF AGREEMENTS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2477,7 +2477,7 @@
             {
               "id": 197400442,
               "title": "TITLE VII-A – GRIEVANCE MACHINERY AND VOLUNTARY ARBITRATION",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2520,7 +2520,7 @@
             {
               "id": 197400448,
               "title": "TITLE VIII – STRIKES AND LOCKOUTS AND FOREIGN INVOLVEMENT IN TRADE UNION ACTIVITIES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2630,7 +2630,7 @@
             {
               "id": 197400463,
               "title": "TITLE IX – SPECIAL PROVISIONS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2681,7 +2681,7 @@
             {
               "id": 197400470,
               "title": "TITLE I – TERMINATION OF EMPLOYMENT",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2752,7 +2752,7 @@
             {
               "id": 197400480,
               "title": "TITLE II – RETIREMENT FROM THE SERVICE",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2782,7 +2782,7 @@
             {
               "id": 197400484,
               "title": "TITLE I – PENAL PROVISIONS AND LIABILITIES",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
@@ -2804,7 +2804,7 @@
             {
               "id": 197400487,
               "title": "TITLE II – PRESCRIPTION OF OFFENSES AND CLAIMS",
-              "isTrackable": true,
+              "isTrackable": false,
               "done": false,
               "subtopics": [
                 {
