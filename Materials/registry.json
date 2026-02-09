@@ -36,9 +36,9 @@
       "category": "codals"
     },
     {
-      "id": "TAX_CODAL",
+      "id": "TAX_CODE",
       "name": "NIRC (TAX CODE)",
-      "file": "TAX_CODAL.json",
+      "file": "TAX_CODE.json",
       "icon": "banknote",
       "category": "codals"
     },
