@@ -1,0 +1,312 @@
+{
+  "library": {
+    "id": "FAMILYCODE_CODAL",
+    "name": "FAMILY CODE",
+    "icon": "heart",
+    "category": "codals"
+  },
+  "materials": [
+    {
+      "id": 1987001,
+      "name": "FAMILY CODE",
+      "icon": "heart",
+      "color": "#1E3A8A",
+      "topics": [
+        {
+          "id": 198700100,
+          "title": "TITLE I - MARRIAGE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 198700101,
+              "title": "CHAPTER 1 - Requisites of Marriage",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700102,
+              "title": "CHAPTER 2 - Marriages Exempted from License Requirement",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 198700110,
+          "title": "TITLE II - LEGAL SEPARATION",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 198700120,
+          "title": "TITLE III - RIGHTS AND OBLIGATIONS BETWEEN HUSBAND AND WIFE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 198700130,
+          "title": "TITLE IV - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 198700131,
+              "title": "CHAPTER 1 - General Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700132,
+              "title": "CHAPTER 2 - Donations by Reason of Marriage",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700133,
+              "title": "CHAPTER 3 - System of Absolute Community",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700134,
+              "title": "CHAPTER 4 - Conjugal Partnership of Gains",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700135,
+              "title": "CHAPTER 5 - Separation of Property of the Spouses and Administration of Common Property by One Spouse During the Marriage",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700136,
+              "title": "CHAPTER 6 - Regime of Separation of Property",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700137,
+              "title": "CHAPTER 7 - Property Regime of Unions Without Marriage",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 198700140,
+          "title": "TITLE V - THE FAMILY",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 198700141,
+              "title": "CHAPTER 1 - The Family as an Institution",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700142,
+              "title": "CHAPTER 2 - The Family Home",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 198700150,
+          "title": "TITLE VI - PATERNITY AND FILIATION",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 198700151,
+              "title": "CHAPTER 1 - Legitimate Children",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700152,
+              "title": "CHAPTER 2 - Proof of Filiation",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700153,
+              "title": "CHAPTER 3 - Illegitimate Children",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700154,
+              "title": "CHAPTER 4 - Legitimated Children",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 198700160,
+          "title": "TITLE VII - ADOPTION",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 198700170,
+          "title": "TITLE VIII - SUPPORT",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        },
+        {
+          "id": 198700180,
+          "title": "TITLE IX - PARENTAL AUTHORITY",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 198700181,
+              "title": "CHAPTER 1 - General Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700182,
+              "title": "CHAPTER 2 - Substitute and Special Parental Authority",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700183,
+              "title": "CHAPTER 3 - Effect of Parental Authority",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700184,
+              "title": "CHAPTER 4 - Effect of Parental Authority Upon the Property of the Children",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700185,
+              "title": "CHAPTER 5 - Suspension or Termination of Parental Authority",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 198700190,
+          "title": "TITLE X - EMANCIPATION AND AGE OF MAJORITY",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 198700191,
+              "title": "CHAPTER 1 - General Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700192,
+              "title": "CHAPTER 2 - Substitute and Special Parental Authority",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700193,
+              "title": "CHAPTER 3 - Effect of Parental Authority",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700194,
+              "title": "CHAPTER 4 - Effect of Parental Authority Upon the Property of the Children",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700195,
+              "title": "CHAPTER 5 - Suspension or Termination of Parental Authority",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 198700200,
+          "title": "TITLE XI - SUMMARY JUDICIAL PROCEEDINGS IN THE FAMILY LAW",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 198700201,
+              "title": "CHAPTER 1 - Prefatory Provisions",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700202,
+              "title": "CHAPTER 2 - Separation in Fact",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700203,
+              "title": "CHAPTER 3 - Incidents Involving Parental Authority",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 198700204,
+              "title": "CHAPTER 4 - Other Matters Subject to Summary Proceedings",
+              "isTrackable": true,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        },
+        {
+          "id": 198700210,
+          "title": "TITLE XII - FINAL PROVISIONS",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": []
+        }
+      ]
+    }
+  ]
+}
