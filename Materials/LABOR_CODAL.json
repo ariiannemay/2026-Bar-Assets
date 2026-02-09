@@ -2,14 +2,14 @@
   "library": {
     "id": "LABOR_CODAL",
     "name": "LABOR CODE",
-    "icon": "handshake",
+    "icon": "heart-handshake",
     "category": "codals"
   },
   "materials": [
     {
       "id": 1974001,
       "name": "LABOR CODE",
-      "icon": "handshake",
+      "icon": "heart-handshake",
       "color": "#38761D",
       "topics": [
         {
