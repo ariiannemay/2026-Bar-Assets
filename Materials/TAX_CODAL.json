@@ -1,7 +1,7 @@
 {
   "library": {
     "id": "TAX_CODAL",
-    "name": "NIRC (Tax Code)",
+    "name": "NIRC - Tax Code",
     "icon": "banknote",
     "category": "codals"
   },
