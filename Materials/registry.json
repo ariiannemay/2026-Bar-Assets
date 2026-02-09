@@ -55,6 +55,13 @@
       "file": "ROC_CODAL.json",
       "icon": "scale",
       "category": "codals"
+    },
+    {
+      "id": "RPEC_LAW",
+      "name": "RULES OF PROCEDURE FOR ENVIRONMENTAL CASES",
+      "file": "RPEC_LAW.json",
+      "icon": "tree-pine",
+      "category": "codals"
     }
   ]
 }
