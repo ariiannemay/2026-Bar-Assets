@@ -1,0 +1,1195 @@
+{
+  "library": {
+    "id": "RPC",
+    "name": "REVISED PENAL CODE",
+    "icon": "handcuffs",
+    "category": "codals"
+  },
+  "materials": [
+    {
+      "id": 1930001,
+      "name": "REVISED PENAL CODE",
+      "icon": "handcuffs",
+      "color": "#B33A3A",
+      "topics": [
+        {
+          "id": 193000100,
+          "title": "BOOK I – General Provisions regarding the Date of Enforcement and Application of the Provisions of this Code, and Regarding the Offenses, the Persons Liable and the Penalties",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 193000101,
+              "title": "PRELIMINARY TITLE – Date of Effectiveness and Application of the provisions of this code",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 193000102,
+              "title": "TITLE I - FELONIES AND CIRCUMSTANCES WHICH AFFECT CRIMINAL LIABILITY",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000103,
+                  "title": "CHAPTER I - FELONIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000104,
+                  "title": "CHAPTER II - JUSTIFYING CIRCUMSTANCES AND CIRCUMSTANCES WHICH EXEMPT FROM CRIMINAL LIABILITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000105,
+                  "title": "CHAPTER III - CIRCUMSTANCES WHICH MITIGATE CRIMINAL LIABILITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000106,
+                  "title": "CHAPTER IV - CIRCUMSTANCE WHICH AGGRAVATE CRIMINAL LIABILITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000107,
+                  "title": "CHAPTER V - ALTERNATIVE CIRCUMSTANCES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000108,
+              "title": "TITLE II - PERSONS CRIMINALLY LIABLE FOR FELONIES",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": []
+            },
+            {
+              "id": 193000109,
+              "title": "TITLE III - PENALTIES",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000110,
+                  "title": "CHAPTER I - PENALTIES IN GENERAL",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000111,
+                  "title": "CHAPTER II - CLASSIFICATION OF PENALTIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000112,
+                  "title": "CHAPTER III - DURATION AND EFFECTS OF PENALTIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000113,
+                      "title": "SECTION 1 - Duration of Penalties",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000114,
+                      "title": "SECTION 2 - Effects of the penalties according to their respective nature",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000115,
+                      "title": "SECTION 3 - Penalties in which other accessory penalties are inherent",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000116,
+                  "title": "CHAPTER IV - APPLICATION OF PENALTIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000117,
+                      "title": "SECTION 1 - Rules for the application of penalties to the persons criminally liable and for the graduation of the same",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000118,
+                      "title": "SECTION 2 - Rules for the application of penalties with regard to the mitigating and aggravating circumstances, and habitual delinquency",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000119,
+                      "title": "SECTION 3 - Provisions common in the last 2 preceding SECTIONS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000120,
+                  "title": "CHAPTER V - EXECUTION AND SERVICE OF PENALTIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000121,
+                      "title": "SECTION 1 - General Provisions",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000122,
+                      "title": "SECTION 2 - Execution of principal penalties",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 193000123,
+              "title": "TITLE IV - EXTINCTION OF CRIMINAL LIABILITY",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000124,
+                  "title": "CHAPTER I - TOTAL EXTINCTION OF CRIMINAL LIABILITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000125,
+                  "title": "CHAPTER II - PARTIAL EXTINCTION OF CRIMINAL LIABILITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000126,
+              "title": "TITLE V - CIVIL LIABILITY",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000127,
+                  "title": "CHAPTER I - PERSON CIVILLY LIABLE FOR FELONIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000128,
+                  "title": "CHAPTER II - WHAT CIVIL LIABILITY INCLUDES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000129,
+                  "title": "CHAPTER III - EXTINCTION AND SURVIVAL OF CIVIL LIABILITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 193000130,
+          "title": "BOOK II Crimes and Penalties",
+          "isTrackable": false,
+          "done": false,
+          "subtopics": [
+            {
+              "id": 193000131,
+              "title": "TITLE I - CRIMES AGAINST NATIONAL SECURITY AND THE LAW OF NATIONS",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000132,
+                  "title": "CHAPTER I - CRIMES AGAINST NATIONAL SECURITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000133,
+                      "title": "SECTION 1 - CONSPIRACY AND TREASON",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000134,
+                      "title": "SECTION 2 - PROVOKING WAR AND DISLOYALTY IN CASE OF WAR",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000135,
+                      "title": "SECTION 3 - PIRACY AND MUTINY ON THE HIGH SEAS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 193000136,
+                          "title": "REPUBLIC ACT NO. 6235 ANTI- HIJACKING LAW",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 193000137,
+              "title": "TITLE II - CRIMES AGAINST THE FUNDAMENTAL LAWS OF THE STATE",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000138,
+                  "title": "CHAPTER I - ARBITRARY DETENTION OR EXPULSION, VIOLATION OF DWELLING, PROHIBITION, INTERRUPTION, AND DISSOLUTION OF PEACEFUL MEETINGS AND CRIMES AGAINST RELIGIOUS WORSHIP",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000139,
+                      "title": "SECTION 1 - ARBITRARY DETENTION AND EXPULSION",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000140,
+                      "title": "SECTION 2 - VIOLATION OF DOMICILE",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000141,
+                      "title": "SECTION 3 - PROHIBITION, INTERRUPTION, AND DISSOLUTION OF PEACEFUL MEETINGS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000142,
+                      "title": "SECTION 4 - CRIMES AGAINST RELIGIOUS WORSHIP",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 193000143,
+              "title": "TITLE III - CRIMES AGAINST PUBLIC ORDER",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000144,
+                  "title": "CHAPTER I - REBELLION, SEDITION AND DISLOYALTY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000145,
+                  "title": "CHAPTER II - CRIMES AGAINST POPULAR REPRESENTATION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000146,
+                      "title": "SECTION 1 - CRIMES AGAINST LEGISLATIVE BODIES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000147,
+                      "title": "SECTION 2 - VIOLATION OF PARLIAMENTARY IMMUNITY",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000148,
+                  "title": "CHAPTER III - ILLEGAL ASSMBLIES/ASSOCIATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000149,
+                  "title": "CHAPTER IV - ASSAULT UPON, AND RESISTANCE & DISOBEDIENCE TO, PERSONS IN AUTHORITY AND THEIR AGENTS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000150,
+                  "title": "CHAPTER V - PUBLIC DISORDER",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000151,
+                  "title": "CHAPTER VI - EVASION OF SERVICE OF SENTENCE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000152,
+                  "title": "CHAPTER VII - COMMISSION OF ANOTHER CRIME DURING SERVICE OF PENALTY IMPOSED FOR ANOTHER PREVIOUS OFFENSE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000153,
+              "title": "TITLE IV - CRIMES AGAINST PUBLIC INTEREST",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000154,
+                  "title": "CHAPTER I - FORGERIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000155,
+                      "title": "SECTION 1 - FORGING THE SEAL OF THE GOVERNMENT OF THE PHILIPPINE ISLANDS, THE SIGNATURE OR STAMP OF THE CHIEF EXECUTIVE.",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000156,
+                      "title": "SECTION 2 - COUNTERFEITING COINS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000157,
+                      "title": "SECTION 3 - FORGING TREASURY OR BANK NOTES, OBLIGATIONS AND SECURITIES, IMPORTING AND UTTERING FALSE OR FORGED NOTES, OBLIGATIONS AND SECURITIES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000158,
+                      "title": "SECTION 4 - FALSIFICATION OF LEGISLATIVE, PUBLIC, COMMERCIAL AND PRIVATE DOCUMENTS AND WIRELESS, TELEGRAPH AND TELEPHONE MESSAGES",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000159,
+                      "title": "SECTION 5 - FALSIFICATION OF MEDICAL CERTIFICATES, CERTIFICATES OF MERIT OR SERVICE",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000160,
+                      "title": "SECTION 6 - MANUFACTURING, IMPORTING AND POSSESSION OF INSTRUMENTS OR IMPLEMENTS INTENDED FOR THE COMMISSION OF FALSIFICATION",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000161,
+                  "title": "CHAPTER II - OTHER FALSITIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000162,
+                      "title": "SECTION 1 - USURPATION OF AUTHORITY, RANK, TITLE AND IMPROPER USE OF NAMES, UNIFORMS AND INSIGNIA",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 193000163,
+                          "title": "COMMONWEALTH ACT NO. 142, as amended by REPUBLIC ACT NO. 6085 An Act Regulating the Use of Aliases",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": 193000164,
+                      "title": "SECTION 2 - FALSE TESTIMONY",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000165,
+                  "title": "CHAPTER III - FRAUDS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000166,
+                      "title": "SECTION 1 - MACHINATIONS, MONOPOLIES AND COMBINATIONS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000167,
+                      "title": "SECTION 2 - FRAUDS IN COMMERCE AND INDUSTRY",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 193000168,
+                          "title": "REPUBLIC ACT NO. 455 Law on Smuggling",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 193000169,
+              "title": "TITLE V - CRIMES RELATIVE TO OPIUM AND OTHER PROHIBITED DRUGS*",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000170,
+                  "title": "REPUBLIC ACT NO. 9165 Comprehensive Dangerous Drugs Act of 2002 (Repealing RA No. 6425, otherwise known as the Dangerous Drugs Act of 1972)",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000171,
+              "title": "TITLE VI - CRIMES AGAINST PUBLIC MORALS",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000172,
+                  "title": "(CHAPTER I REPEALED)",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000173,
+                  "title": "CHAPTER II - OFFENSES AGAINST DECENCY AND GOOD CUSTOMS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000174,
+              "title": "TITLE VII - CRIMES COMITTED BY A PUBLIC OFFICER",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000175,
+                  "title": "CHAPTER I - PRELIMINARY PROVISIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000176,
+                  "title": "CHAPTER II - MALFEASANCE AND MISFEASANCE IN OFFICE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000177,
+                      "title": "SECTION 1 - DERELICTION OF DUTY",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000178,
+                      "title": "SECTION 2 - BRIBERY",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 193000179,
+                          "title": "ANTI GRAFT AND CORRUPT PRACTICES ACT (RA 3019 AS AMENDED BY RA 3047, PD 77 AND BP 195)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 193000180,
+                          "title": "ANTI PLUNDER ACT RA 7080",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 193000181,
+                  "title": "CHAPTER III - FRAUDS AND ILLEGAL EXACTIONS AND TRANSACTIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000182,
+                  "title": "CHAPTER IV - MALVERSATION OF PUBLICFUNDS OR PROPERTY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000183,
+                  "title": "CHAPTER V - INFIDELITY OF PUBLIC OFFICERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000184,
+                      "title": "SECTION 1 - INFIDELITY IN THE CUSTODY OF PRISONERS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000185,
+                      "title": "SECTION 2 - INFIDELITY IN THE CUSTODY OF DOCUMENT",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000186,
+                      "title": "SECTION 3 - REVELATION OF SECRETS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000187,
+                  "title": "CHAPTER VI - OTHER OFFENSES OR IRREGULARITIES BY PUBLIC OFFICERS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000188,
+                      "title": "SECTION 1 - DISOBEDIENCE, REFUSAL OF ASSISTANCE AND MALTREATMENT OF PRISONERS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000189,
+                      "title": "SECTION 2 - ANTICIPATION, PROLONGATION AND ABANDONMENT OF THE DUTIES AND POWERS OF PUBLIC OFFICE",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000190,
+                      "title": "SECTION 3 - USURPATION OF POWERS AND UNLAWFUL APPOINTMENT",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000191,
+                      "title": "SECTION 4 - ABUSES AGAINST CHASTITY",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 193000192,
+              "title": "TITLE VIII - CRIMES AGAINST PERSONS",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000193,
+                  "title": "CHAPTER I - DESTRUCTION OF LIFE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000194,
+                      "title": "SECTION 1 - PARRICIDE, MURDER, HOMICIDE",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000195,
+                      "title": "SECTION 2 - INFANTICIDE AND ABORTION",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000196,
+                      "title": "SECTION 3 - DUEL",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000197,
+                  "title": "CHAPTER II - PHYSICAL INJURIES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000198,
+                      "title": "ANTI-HAZING LAW (R.A. No. 8049)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000199,
+                  "title": "CHAPTER III - RAPE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000200,
+              "title": "TITLE IX - CRIMES AGAINST PERSONAL LIBERTY AND SECURITY",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000201,
+                  "title": "CHAPTER I - CRIMES AGAINST LIBERTY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000202,
+                      "title": "SECTION 1 - ILLEGAL DETENTION",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000203,
+                      "title": "SECTION 2 - KIDNAPPING OF MINORS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000204,
+                      "title": "SECTION 3 - SLAVERY AND SERVITUDE",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000205,
+                  "title": "CHAPTER II - CRIMES AGAINST SECURITY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000206,
+                      "title": "SECTION 1 - ABANDONMENT OF HELPLESS PERSONS AND EXPLOITATION OF MINORS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000207,
+                      "title": "SECTION 2 - TRESPASS TO DWELLING",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000208,
+                      "title": "SECTION 3 - THREATS AND COERCION",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000209,
+                  "title": "CHAPTER III - DISCOVERY AND REVELATION OF SECRETS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000210,
+              "title": "TITLE X - CRIMES AGAINST PROPERTY",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000211,
+                  "title": "CHAPTER I - ROBBERY IN GENERAL",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000212,
+                      "title": "SECTION 1 - ROBBERY WITH VIOLENCE AGAINST OR INTIMIDATION OF PERSONS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000213,
+                      "title": "SECTION 2 - ROBBERY WITH THE USE OF FORCE UPON THINGS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000214,
+                  "title": "CHAPTER II - BRIGANDAGE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000215,
+                  "title": "CHAPTER III - THEFT",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000216,
+                      "title": "ANTI CARNAPPING ACT of 1972 (R.A. 6539)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000217,
+                      "title": "CATTLE RUSTLING LAW of 1974 (P.D. 533)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000218,
+                      "title": "LAW ON ILLEGAL FISHING (P.D. 534)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000219,
+                      "title": "“HIGHGRADING” OR THEFT OF GOLD (P .D. 581)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000220,
+                      "title": "ANTI – FENCING LAW (P.D. 1612)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000221,
+                      "title": "PRESIDENTIAL DECREE NO. 401 Penalizing the Unauthorized Installation of Water, Electrical or Telephone Connections, the Use of Tampered Water or Electrical Meters, and other Acts",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    },
+                    {
+                      "id": 193000222,
+                      "title": "PENALIZING TIMBER SMUGGLING OR ILLEGAL CUTTING OF LOGS FROM PUBLIC FORESTS AND FOREST RESERVES AS QUALIFIED THEFT (P.D. NO. 330)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000223,
+                  "title": "CHAPTER IV - USURPATION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000224,
+                  "title": "CHAPTER V - CULPABLE INSOLVENCY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000225,
+                  "title": "CHAPTER VI - SWINDLING AND OTHER DECEITS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000226,
+                      "title": "I.Estafa with Unfaithfulness or Abuse of Confidence",
+                      "isTrackable": false,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 193000227,
+                          "title": "A. Estafa with unfaithfulness (ART. 315, No. 1-A)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 193000228,
+                          "title": "B. Estafa with abuse of confidence. ART. 315 No.1-B)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 193000229,
+                          "title": "C. Estafa by taking undue advantage of the signature in blank (ART. 315, No. 1-C)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": 193000230,
+                      "title": "II.Estafa by Means of Deceit (ART. 315, No. 2) A-E",
+                      "isTrackable": false,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 193000231,
+                          "title": "ILLEGAL RECRUITMENT Under the Migrant Workers Act (R.A. No. 8042)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 193000232,
+                          "title": "BOUNCING CHECKS LAW (B.P. Blg. 22) Offenses Punished under BP 22:",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": 193000233,
+                      "title": "III.Estafa Through the Following Means",
+                      "isTrackable": false,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 193000234,
+                          "title": "A. Estafa by inducing another to sign any document (ART. 315 No. 3A)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 193000235,
+                          "title": "B. Estafa by resorting to some fraudulent practice to insure success in gambling (ART. 315 No. 3B)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        },
+                        {
+                          "id": 193000236,
+                          "title": "C. Estafa by removing, concealing or destroying documents (ART. 315 No. 3C)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 193000237,
+                  "title": "CHAPTER VII - CHATTEL MORTGAGE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000238,
+                  "title": "CHAPTER VIII - ARSON AND OTHER CRIMES INVOLVING DESTRUCTIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000239,
+                      "title": "PD 1613- AMENDING THE LAW ON ARSON",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000240,
+                  "title": "CHAPTER IX - MALICIOUS MISCHIEF",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000241,
+                  "title": "CHAPTER X - EXEMPTION FROM CRIMINAL LIABILITY IN CRIMES AGAINST PROPERTY",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000242,
+              "title": "TITLE XI - CRIMES AGAINST CHASTITY",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000243,
+                  "title": "CHAPTER I - ADULTERY AND CONCUBINAGE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000244,
+                  "title": "CHAPTER II - ACTS OF LASCIVIOUSNESS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000245,
+                  "title": "CHAPTER III - SEDUCTION, CORRUPTION OF MINORS, AND WHITE SLAVE TRADE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000246,
+                      "title": "ANTI-SEXUAL HARRASMENT ACT (R.A. No. 7877)",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000247,
+                  "title": "CHAPTER IV - ABDUCTION",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000248,
+                  "title": "CHAPTER V - PROVISIONS RELATING TO THE PRECEDING CHAPTERS OF TITLE ELEVEN",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000249,
+              "title": "TITLE XII - CRIMES AGAINST THE CIVIL STATUS OF PERSONS",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000250,
+                  "title": "CHAPTER I - SIMULATION OF BIRTHS AND USURPATION OF CIVIL STATUS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                },
+                {
+                  "id": 193000251,
+                  "title": "CHAPTER II - ILLEGAL MARRIAGES",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000252,
+              "title": "TITLE XIII - CRIMES AGAINST HONOR",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000253,
+                  "title": "CHAPTER I - LIBEL",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": [
+                    {
+                      "id": 193000254,
+                      "title": "SECTION 1 - DEFINITION, FORMS, AND PUNISHMENT OF THIS CRIME",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": [
+                        {
+                          "id": 193000255,
+                          "title": "THE ANTI-WIRE TAPPING ACT (R.A. No. 4200)",
+                          "isTrackable": true,
+                          "done": false,
+                          "subtopics": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": 193000256,
+                      "title": "SECTION 2 - GENERAL PROVISIONS",
+                      "isTrackable": true,
+                      "done": false,
+                      "subtopics": []
+                    }
+                  ]
+                },
+                {
+                  "id": 193000257,
+                  "title": "CHAPTER II - INCRIMINATORY MACHINATIONS",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000258,
+              "title": "TITLE XIV - QUASI-OFFENSES",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": [
+                {
+                  "id": 193000259,
+                  "title": "SOLE CHAPTER: CRIMINAL NEGLIGENCE",
+                  "isTrackable": true,
+                  "done": false,
+                  "subtopics": []
+                }
+              ]
+            },
+            {
+              "id": 193000260,
+              "title": "TITLE XV - FINAL PROVISIONS",
+              "isTrackable": false,
+              "done": false,
+              "subtopics": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
