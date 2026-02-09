@@ -83,6 +83,13 @@
       "file": "LABORLAW3_UNGOS_BOOK.json",
       "icon": "heart-handshake",
       "category": "other"
+    },
+    {
+      "id": "TAX_REVIEWER_MAMALATEO_BOOK",
+      "name": "Reviewer on Taxation by Victorino Mamalateo - 2019 Ed",
+      "file": "TAX_REVIEWER_MAMALATEO_BOOK.json",
+      "icon": "hand-coins",
+      "category": "other"
     }
   ]
 }
